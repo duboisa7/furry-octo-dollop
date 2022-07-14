@@ -1,0 +1,159 @@
+---
+title: "Scraping"
+author: "Aubrey DuBois"
+date: '2022-07-07'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+#load packages
+```{r load packages}
+
+library(pdftools)
+library(tidyverse)
+library(reticulate)
+library(rscala)
+#library(tm)
+#library(lubridate)
+#library(kableExtra)
+#library(tidytext)
+#library(quanteda)
+#library(textreadr)
+
+
+```
+
+#read in pdfs and get basic paper info
+
+```{r read pdfs and get basic paper info}
+
+#creates a list of the pdf files
+
+### FOR MAC/LINUX ###
+#system function allows you to run command line functions
+#pdfs <- system("ls -1 /Blueberry/PDFs/*.pdf", intern = T)
+
+### FOR WINDOWS ###
+#create a list of all the PDF documents
+pdfs <- dir("C:/Users/duboisa7/Documents/GitKraken/BB/Blueberry/PDFs",
+             full.names = T,
+             recursive = T,
+             pattern = "*.pdf") %>%
+  as.list()
+
+
+
+#create a function
+#create a df called pdf.info to store results of pdf_info function
+#if statements ensure that if file is missing data, it will list NA in that column
+#return keeps only the specified columns
+
+fun <- function(file){
+  
+  result <- pdf_info(file) %>% 
+    data.frame()
+  
+  if(!("keys.doi" %in% colnames(result))){
+    result$keys.doi <- "NA"
+  }
+  if(!("keys.Author" %in% colnames(result))){
+    result$keys.Author <- "NA"
+  }
+  if(!("keys.Title" %in% colnames(result))){
+    result$keys.Title <- "NA"
+  }
+  if(!("created" %in% colnames(result))){
+    result$created <- "NA"
+  }
+  
+  return(result[,c("keys.Title","keys.Author", "created", "keys.doi")]) 
+}
+
+
+
+## USING LAPPLY ##
+#create a temporary object that uses lapply to apply the created 'fun' function to all pdfs in the list 'pdfs'
+temp <- lapply(pdfs, FUN=fun)
+
+#create a df that binds each temp object to itself
+pdf.info <- do.call(rbind, temp) %>%
+  rename(DOI = keys.doi,
+         Author = keys.Author,
+         Title = keys.Title,
+         Published = created)
+
+
+
+## USING FOR LOOPS ##
+#for each file in the pdfs list, apply the 'fun' function to the file and bind the results together
+#for(file in pdfs){
+#  loopresult <- rbind(loopresult, fun(file))
+#}
+
+```
+
+```{r pull tables}
+
+test <- "https://github.com/ropensci/tabulizer/raw/master/inst/examples/data.pdf"
+
+
+pdf_data()
+
+```
+
+
+```{r pull materials and methods section}
+
+
+
+```{r testing random methods}
+
+
+
+#############################################################
+#############################################################
+#############################################################
+
+r <- raw2 %>%
+  as_tibble(text = text)
+
+
+r %>%
+  unnest_tokens(word, text)
+
+key <-  "d35db8b36f9daa0bf919e69e06177c7d"
+
+
+#create function 
+get_data <- function(dat) {
+    list(Full_Text = str_trim(str_extract(dat, "(?<=FULL TEXT)(?s)(.*?)(?=CREDIT)")),
+       Pub_Title = str_trim(str_extract(dat, "(?<=Publication title:)(.*?)(?=;)")),
+       Pub_Date = str_trim(str_extract(dat, "(?<=Publication date:)(.*?)(?=\\\\n)")),
+       Pub_Language = str_trim(str_extract(dat, "(?<=Language of publication:)(.*?)(?=\\\\n)"))
+  )
+}
+
+
+
+####################################################################################
+####################################################################################
+####################################################################################
+
+t1 <- ft_get('10.1371/journal.pone.0138494', type = "xml")
+
+t1 %>%
+  pub_chunks(sections = "authors")
+
+Sys.setenv(ELSEVIER_TDM_KEY = "d35db8b36f9daa0bf919e69e06177c7d")
+
+t2 <- ft_get(x = "10.1016/j.jfca.2022.104412", from = "elsevier", type = "xml", elsevieropts = list(retain_non_ft = TRUE))
+
+
+
+
+```
+  
