@@ -1,0 +1,1318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="3.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta">PLoS ONE</journal-id>
+<journal-id journal-id-type="publisher-id">plos</journal-id>
+<journal-id journal-id-type="pmc">plosone</journal-id>
+<journal-title-group>
+<journal-title>PLOS ONE</journal-title>
+</journal-title-group>
+<issn pub-type="epub">1932-6203</issn>
+<publisher>
+<publisher-name>Public Library of Science</publisher-name>
+<publisher-loc>San Francisco, CA USA</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1371/journal.pone.0138494</article-id>
+<article-id pub-id-type="publisher-id">PONE-D-15-25799</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Research Article</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Identifying Breeding Priorities for Blueberry Flavor Using Biochemical, Sensory, and Genotype by Environment Analyses</article-title>
+<alt-title alt-title-type="running-head">Breeding Better Blueberries</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western">
+<surname>Gilbert</surname>
+<given-names>Jessica L.</given-names>
+</name>
+<xref rid="aff001" ref-type="aff"><sup>1</sup></xref>
+<xref rid="aff002" ref-type="aff"><sup>2</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western">
+<surname>Guthart</surname>
+<given-names>Matthew J.</given-names>
+</name>
+<xref rid="aff002" ref-type="aff"><sup>2</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western">
+<surname>Gezan</surname>
+<given-names>Salvador A.</given-names>
+</name>
+<xref rid="aff003" ref-type="aff"><sup>3</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western">
+<surname>Pisaroglo de Carvalho</surname>
+<given-names>Melissa</given-names>
+</name>
+<xref rid="aff003" ref-type="aff"><sup>3</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western">
+<surname>Schwieterman</surname>
+<given-names>Michael L.</given-names>
+</name>
+<xref rid="aff001" ref-type="aff"><sup>1</sup></xref>
+<xref rid="aff004" ref-type="aff"><sup>4</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western">
+<surname>Colquhoun</surname>
+<given-names>Thomas A.</given-names>
+</name>
+<xref rid="aff001" ref-type="aff"><sup>1</sup></xref>
+<xref rid="aff004" ref-type="aff"><sup>4</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western">
+<surname>Bartoshuk</surname>
+<given-names>Linda M.</given-names>
+</name>
+<xref rid="aff001" ref-type="aff"><sup>1</sup></xref>
+<xref rid="aff005" ref-type="aff"><sup>5</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western">
+<surname>Sims</surname>
+<given-names>Charles A.</given-names>
+</name>
+<xref rid="aff001" ref-type="aff"><sup>1</sup></xref>
+<xref rid="aff005" ref-type="aff"><sup>5</sup></xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western">
+<surname>Clark</surname>
+<given-names>David G.</given-names>
+</name>
+<xref rid="aff001" ref-type="aff"><sup>1</sup></xref>
+<xref rid="aff004" ref-type="aff"><sup>4</sup></xref>
+</contrib>
+<contrib contrib-type="author" corresp="yes" xlink:type="simple">
+<name name-style="western">
+<surname>Olmstead</surname>
+<given-names>James W.</given-names>
+</name>
+<xref rid="aff001" ref-type="aff"><sup>1</sup></xref>
+<xref rid="aff002" ref-type="aff"><sup>2</sup></xref>
+<xref rid="cor001" ref-type="corresp">*</xref>
+</contrib>
+</contrib-group>
+<aff id="aff001"><label>1</label> <addr-line>Plant Innovation Center, Institute of Food and Agricultural Sciences, University of Florida, Gainesville, Florida, United States of America</addr-line></aff>
+<aff id="aff002"><label>2</label> <addr-line>Horticultural Sciences Department, Institute of Food and Agricultural Sciences, University of Florida, Gainesville, Florida, United States of America</addr-line></aff>
+<aff id="aff003"><label>3</label> <addr-line>School of Forest Resources and Conservation, Institute of Food and Agricultural Sciences, University of Florida, Gainesville, Florida, United States of America</addr-line></aff>
+<aff id="aff004"><label>4</label> <addr-line>Department of Environmental Horticulture, Institute of Food and Agricultural Sciences, University of Florida, Gainesville, Florida, United States of America</addr-line></aff>
+<aff id="aff005"><label>5</label> <addr-line>Food Science and Human Nutrition, Institute of Food and Agricultural Sciences, University of Florida, Gainesville, Florida, United States of America</addr-line></aff>
+<contrib-group>
+<contrib contrib-type="editor" xlink:type="simple">
+<name name-style="western">
+<surname>Kurtural</surname>
+<given-names>S. Kaan</given-names>
+</name>
+<role>Editor</role>
+<xref ref-type="aff" rid="edit1"/>
+</contrib>
+</contrib-group>
+<aff id="edit1"><addr-line>Fresno, UNITED STATES</addr-line></aff>
+<author-notes>
+<fn fn-type="conflict" id="coi001">
+<p>The authors have declared that no competing interests exist.</p>
+</fn>
+<fn fn-type="con" id="contrib001">
+<p>Conceived and designed the experiments: JLG JWO DGC. Performed the experiments: JLG MJG MLS. Analyzed the data: JLG SAG MPC. Contributed reagents/materials/analysis tools: CAS LMB TAC DGC JWO. Wrote the paper: JLG TAC JWO DGC.</p>
+</fn>
+<corresp id="cor001">* E-mail: <email xlink:type="simple">jwolmstead@ufl.edu</email></corresp>
+</author-notes>
+<pub-date pub-type="epub">
+<day>17</day>
+<month>9</month>
+<year>2015</year>
+</pub-date>
+<pub-date pub-type="collection">
+<year>2015</year>
+</pub-date>
+<volume>10</volume>
+<issue>9</issue>
+<elocation-id>e0138494</elocation-id>
+<history>
+<date date-type="received">
+<day>15</day>
+<month>6</month>
+<year>2015</year>
+</date>
+<date date-type="accepted">
+<day>30</day>
+<month>8</month>
+<year>2015</year>
+</date>
+</history>
+<permissions>
+<copyright-year>2015</copyright-year>
+<copyright-holder>Gilbert et al</copyright-holder>
+<license xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+<license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited</license-p>
+</license>
+</permissions>
+<self-uri content-type="pdf" xlink:href="info:doi/10.1371/journal.pone.0138494" xlink:type="simple"/>
+<abstract>
+<p>Breeding for a subjective goal such as flavor is challenging, as many blueberry cultivars are grown worldwide, and identifying breeding targets relating to blueberry flavor biochemistry that have a high degree of genetic control and low environmental variability are priorities. A variety of biochemical compounds and physical characters induce the sensory responses of taste, olfaction, and somatosensation, all of which interact to create what is perceived flavor. The goal of this study was to identify the flavor compounds with a larger genetic versus environmental component regulating their expression over an array of cultivars, locations, and years. Over the course of three years, consumer panelists rated overall liking, texture, sweetness, sourness, and flavor intensity of 19 southern highbush blueberry (<italic>Vaccinium corymbosum</italic> hybrids) genotypes in 30 sensory panels. Significant positive correlations to overall liking of blueberry fruit (<italic>P</italic>&lt;0.001) were found with sweetness (R<sup>2</sup> = 0.70), texture (R<sup>2</sup> = 0.68), and flavor (R<sup>2</sup> = 0.63). Sourness had a significantly negative relationship with overall liking (R<sup>2</sup> = 0.55). The relationship between flavor and texture liking was also linear (R<sup>2</sup> = 0.73, <italic>P</italic>&lt;0.0001) demonstrating interaction between olfaction and somatosensation. Partial least squares analysis was used to identify sugars, acids, and volatile compounds contributing to liking and sensory intensities, and revealed strong effects of fructose, pH, and several volatile compounds upon all sensory parameters measured. To assess the feasibility of breeding for flavor components, a three year study was conducted to compare genetic and environmental influences on flavor biochemistry. Panelists could discern genotypic variation in blueberry sensory components, and many of the compounds affecting consumer favor of blueberries, such as fructose, pH, β-caryophyllene oxide and 2-heptanone, were sufficiently genetically controlled that allocating resources for their breeding is worthwhile.</p>
+</abstract>
+<funding-group>
+<funding-statement>A University of Florida Graduate Fellowship in Plant Molecular Breeding was obtained by DGC and JWO in 2011 to fund this project. <ext-link ext-link-type="uri" xlink:href="http://pmcb.ifas.ufl.edu/funding/index.shtml" xlink:type="simple">http://pmcb.ifas.ufl.edu/funding/index.shtml</ext-link>. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+</funding-group>
+<counts>
+<fig-count count="4"/>
+<table-count count="4"/>
+<page-count count="21"/>
+</counts>
+<custom-meta-group>
+<custom-meta id="data-availability" xlink:type="simple">
+<meta-name>Data Availability</meta-name>
+<meta-value>All relevant data are within the paper and its Supporting Information files.</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+</front>
+<body>
+<sec id="sec001" sec-type="intro">
+<title>Introduction</title>
+<p>United States blueberry (<italic>Vaccinium</italic> spp.) consumption has increased fifteen-fold in the past two decades, from 27 to 429 million pounds between 1990 and 2013 [<xref rid="pone.0138494.ref001" ref-type="bibr">1</xref>]. Additionally, growth in consumption abroad has been fueled by the development of new markets, with demand now strong in Europe and Asia [<xref rid="pone.0138494.ref002" ref-type="bibr">2</xref>]. North America produces the most blueberries worldwide, but growth of global production has accelerated as breeding efforts have allowed the expansion of blueberry production into new growing areas, such as low chill regions and the Southern hemisphere. A previous psychophysical study conducted to identify blueberry consumer preferences suggested that consumers were most likely to purchase sweet berries with intense blueberry flavor [<xref rid="pone.0138494.ref003" ref-type="bibr">3</xref>]. However, identifying consumer blueberry preferences to determine what consumers desire in an ideal blueberry is only the first step in creating better products. Breeding for a subjective goal such as flavor is challenging, as many blueberry cultivars are grown worldwide, and identifying breeding targets relating to blueberry flavor biochemistry that have a high degree of genetic control and low environmental variability are priorities.</p>
+<p>A variety of biochemical compounds and physical characters induce the sensory responses of taste, olfaction, and somatosensation, all of which interact to create what is perceived flavor. The primary tastes are sweet, sour, salty, bitter, and umami [<xref rid="pone.0138494.ref004" ref-type="bibr">4</xref>,<xref rid="pone.0138494.ref005" ref-type="bibr">5</xref>]. Olfaction is the sense mediated by a complex network of olfactory receptors; it dictates smell and flavor. Smell, or orthonasal olfaction, is the sensory perception of volatile compounds from the air through the nose. Flavor is the result of the same compounds when bound by the same receptors after being pushed up behind the palette (e.g. during mastication), called retronasal olfaction [<xref rid="pone.0138494.ref006" ref-type="bibr">6</xref>]. Volatiles are low-molecular weight lipophilic metabolites that come from various biosynthetic pathways. Thousands of these compounds contributing to aroma profiles of fruits have been identified in literature, some of which may be classified as spicy, flowery, fruity, resinous, balsamic, burnt, and foul [<xref rid="pone.0138494.ref005" ref-type="bibr">5</xref>,<xref rid="pone.0138494.ref007" ref-type="bibr">7</xref>]. These compounds may contribute to characteristic blueberry aromas, such as fruity, floral, peachy, or grassy-green [<xref rid="pone.0138494.ref008" ref-type="bibr">8</xref>], although these compounds may produce different sensations when perceived ortho- or retronasally [<xref rid="pone.0138494.ref009" ref-type="bibr">9</xref>]. Somatosensations are derived from the tactile, thermal, and irritation qualities. The three sensory modalities of taste, flavor, and somatosensation are mediated by nerve signals to the brain, in regions of overlap and specificity, and can act synergistically or suppressively when compounds interact structurally, chemically, or cognitively [<xref rid="pone.0138494.ref004" ref-type="bibr">4</xref>].</p>
+<p>The biochemical components in fruit that contribute to flavor and taste are subject to the effects of blueberry genetics of different cultivars (G), production environment (E), and G×E interactions [<xref rid="pone.0138494.ref010" ref-type="bibr">10</xref>,<xref rid="pone.0138494.ref011" ref-type="bibr">11</xref>]. In breeding fruit for quality traits such as flavor, consistent performance of a cultivar between growing locations and seasons is desirable. Therefore, identifying compounds whose production is more regulated by genotype than environment or G×E interaction effects is preferable for breeders, who are unable to control E or G×E. Soluble solids content (SSC) and titratable acidity (TA) vary between <italic>Vaccinium</italic> species, cultivars, and years [<xref rid="pone.0138494.ref012" ref-type="bibr">12</xref>–<xref rid="pone.0138494.ref015" ref-type="bibr">15</xref>]. Similarly, volatile levels have been shown to vary between <italic>Vaccinium</italic> species, cultivars, locations, progression through fruiting season, and storage conditions [<xref rid="pone.0138494.ref015" ref-type="bibr">15</xref>–<xref rid="pone.0138494.ref019" ref-type="bibr">19</xref>]. It appears that the same volatile compound may exhibit different gradations of environmental variation in different genetic backgrounds, which sets the stage for a broader survey of G×E effects on sugars, acids and volatiles in the blueberry germplasm [<xref rid="pone.0138494.ref015" ref-type="bibr">15</xref>]. Environment represents the fruit variation resulting from changes in conditions during the course of a harvest season, including variables such as temperature, precipitation, crop load, and irrigation. For example, changes in blueberry (<italic>V</italic>. <italic>corymbosum</italic> L.) volatile components have been attributed to dosages of UV-B radiation and discrete light wavelengths [<xref rid="pone.0138494.ref020" ref-type="bibr">20</xref>,<xref rid="pone.0138494.ref021" ref-type="bibr">21</xref>].</p>
+<p>In an effort to better understand the genetic components of fruit quality, southern highbush blueberry fruit subject to these numerous, uncontrollable environmental parameters were sampled to identify compounds that are important to the sensory experience, and would be worth allocating resources to target in breeding. The end goal was to identify sugar, acid, and volatile compounds with a larger genetic versus environmental variation over an array of cultivars, locations, and years. To accomplish this, 19 blueberry cultivars were assayed for biochemical variation and evaluated in 30 sensory panels over the course of three years. Panelists rated fruit quality to create associations between the sensory experience and blueberry biochemistry. Six blueberry genotypes were selected for G×E analysis, allowing for comparison of flavor biochemistry of cultivars amongst three locations with different latitudes, weather characteristics, and management practices.</p>
+</sec>
+<sec id="sec002" sec-type="conclusions">
+<title>Results and Discussion</title>
+<p>Over three seasons, 19 blueberry genotypes were assayed for overall liking, texture liking, perceived sweetness, sourness, and flavor intensities by 217 panelists in 30 sensory panels, and for the biochemical measures of sucrose, glucose, fructose, soluble solids content (SSC), titratable acidity (TA), pH, and 52 volatiles (<xref rid="pone.0138494.s002" ref-type="supplementary-material">S2 Table</xref>). A PLS model was constructed to determine the most relevant biochemical effectors of liking, intensity of sweetness, sourness, and blueberry flavor to be used for breeding selection. Six of these 19 genotypes (‘Emerald,’ ‘Endura,’ ‘Farthing,’ ‘Meadowlark,’ ‘Primadonna,’ and ‘Scintilla’) were sampled three times a season for three years in three locations to quantitate the biochemical variation due to environmental effects, and whether these differences were perceivable by humans.</p>
+<sec id="sec003">
+<title>Blueberry genotypes vary significantly in scores for liking and perceived sensory intensities</title>
+<p>Genotypic relatedness based on pedigree and biochemical profiles were compared using hierarchical cluster analyses (<xref rid="pone.0138494.g001" ref-type="fig">Fig 1</xref>). The dendrograms between the two analyses do not pair the same genotypes together in any instance, demonstrating the diversity of biochemistry that exists regardless of genotypic relatedness. This is likely due to the highly heterozygous nature of this autotetraploid species that extends beyond pedigree information. A cluster analysis based on molecular genetic relatedness between these individuals may show more similarity to biochemical clusters, and may be considered in future investigations.</p>
+<fig id="pone.0138494.g001" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pone.0138494.g001</object-id>
+<label>Fig 1</label>
+<caption>
+<title>Genotypic relatedness based on pedigree and flavor biochemistry.</title>
+<p>(A) Relationships between genotypes sampled in this study, based on pedigree information (0 = no relation, to 1 = high relationship) with a hierarchical cluster analysis. The hierarchy and distance of the dendrogram indicates relatedness of genotypes. (B) Two-way ward cluster analysis of blueberry genotypes (left) and biochemical measures (bottom). High values are represented as red, average as green, low as blue. The hierarchy and distance of the dendrograms indicate relatedness of genotypes based on metabolite profiles.</p>
+</caption>
+<graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0138494.g001" position="float" xlink:type="simple"/>
+</fig>
+<p>Of 153 blueberry samples assayed in sensory panels, every sample scored in the positive region of the hedonic scales (-100,+100) for overall liking and texture liking (<xref rid="pone.0138494.s002" ref-type="supplementary-material">S2 Table</xref>, <xref rid="pone.0138494.g002" ref-type="fig">Fig 2</xref>). Panelists scored berry texture on the hedonic gLMS scale to reduce artificially low scores in other scales in the incidence of poor texture. They then rated the individual sensory experiences of sweetness, sourness, and blueberry flavor on an intensity gLMS scale (0,+100) (<xref rid="pone.0138494.t001" ref-type="table">Table 1</xref>, <xref rid="pone.0138494.g003" ref-type="fig">Fig 3</xref>). Additionally, panelists were asked to assign intensities of these sensory experiences with regard to an ideal blueberry. No genotype met panelists’ ideal sweetness intensity (<xref rid="pone.0138494.t001" ref-type="table">Table 1</xref>, <xref rid="pone.0138494.g003" ref-type="fig">Fig 3A</xref>). In previous sensory studies with tomato (<italic>Solanum lycopersicum</italic> L.) and strawberry (<italic>Fragaria × ananassa</italic> Duchesne), panelists rated actual samples using the same scales and also indicated ideal sensory intensities for these fruits [<xref rid="pone.0138494.ref022" ref-type="bibr">22</xref>,<xref rid="pone.0138494.ref023" ref-type="bibr">23</xref>]. This hypothetical blueberry value fell between the ideal sweetness scores (intensity gLMS scale) given for strawberry (42) and tomato (33) [<xref rid="pone.0138494.ref022" ref-type="bibr">22</xref>,<xref rid="pone.0138494.ref023" ref-type="bibr">23</xref>]. This expectation that blueberry be sweeter than tomato is understandable given tomatoes’ savory role in culinary preparation. However, the expectation that a strawberry be sweeter than a blueberry is curious given their similar uses as fresh fruit and dessert, and blueberry’s typically higher sugar content compared to strawberry.</p>
+<fig id="pone.0138494.g002" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pone.0138494.g002</object-id>
+<label>Fig 2</label>
+<caption>
+<title>Hedonic ratings of blueberry genotypes.</title>
+<p>Mean ratings and standard error of 19 blueberry genotypes for (A) overall liking and (B) texture liking on a hedonic general Labeled Magnitude Scale (gLMS) (-100 to +100; -100 = greatest disliking of any kind, +100 = greatest liking of any kind). Overall mean is denoted by a black line. LSMeans were separated for responses of overall liking and texture liking with fixed effect of genotype and random effect of panelist using Tukey’s HSD (α = 0.05).</p>
+</caption>
+<graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0138494.g002" position="float" xlink:type="simple"/>
+</fig>
+<fig id="pone.0138494.g003" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pone.0138494.g003</object-id>
+<label>Fig 3</label>
+<caption>
+<title>Sensory intensity ratings of blueberry genotypes.</title>
+<p>Mean ratings and standard error of 19 blueberry genotypes for (A) sweetness, (B) sourness, and (C) flavor on intensity general Labeled Magnitude Scales (0 to +100; 0 = no sensation, 100 = most intense sensation of any kind). Overall mean is denoted by a black line, mean ideal value by a dashed line. LSMeans were separated for intensity ratings of each sweetness, sourness, and flavor, with fixed effect of genotype and random effect of panelist using Tukey’s HSD (α = 0.05).</p>
+</caption>
+<graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0138494.g003" position="float" xlink:type="simple"/>
+</fig>
+<table-wrap id="pone.0138494.t001" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pone.0138494.t001</object-id>
+<label>Table 1</label> <caption><title>Summary of consumer sensory ratings of blueberry samples.</title></caption>
+<alternatives>
+<graphic id="pone.0138494.t001g" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0138494.t001" xlink:type="simple"/>
+<table>
+<colgroup span="1">
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+</colgroup>
+<thead>
+<tr>
+<th align="left" rowspan="1" colspan="1">Attribute</th>
+<th align="left" rowspan="1" colspan="1">Scale</th>
+<th align="left" rowspan="1" colspan="1">Mean</th>
+<th align="left" rowspan="1" colspan="1">Minimum</th>
+<th align="left" rowspan="1" colspan="1">Maximum</th>
+<th align="left" rowspan="1" colspan="1">Fold Difference</th>
+<th align="left" rowspan="1" colspan="1">Mean Ideal<xref rid="t001fn002" ref-type="table-fn"><sup>z</sup></xref></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1">Overall Liking</td>
+<td align="left" rowspan="1" colspan="1">[-100,+100]</td>
+<td align="center" rowspan="1" colspan="1">22</td>
+<td align="left" rowspan="1" colspan="1">6 (Windsor)</td>
+<td align="left" rowspan="1" colspan="1">28 (Scintilla)</td>
+<td align="left" rowspan="1" colspan="1">4.9</td>
+<td align="left" rowspan="1" colspan="1">-</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Texture Liking</td>
+<td align="left" rowspan="1" colspan="1">[-100,+100]</td>
+<td align="center" rowspan="1" colspan="1">25</td>
+<td align="left" rowspan="1" colspan="1">19 (FL08-22)</td>
+<td align="left" rowspan="1" colspan="1">30 (Kestrel)</td>
+<td align="left" rowspan="1" colspan="1">1.6</td>
+<td align="left" rowspan="1" colspan="1">-</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Sweetness</td>
+<td align="left" rowspan="1" colspan="1">[0,+100]</td>
+<td align="center" rowspan="1" colspan="1">23</td>
+<td align="left" rowspan="1" colspan="1">12 (Windsor)</td>
+<td align="left" rowspan="1" colspan="1">27 (Scintilla)</td>
+<td align="left" rowspan="1" colspan="1">2.3</td>
+<td align="left" rowspan="1" colspan="1">39</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Sourness</td>
+<td align="left" rowspan="1" colspan="1">[0,+100]</td>
+<td align="center" rowspan="1" colspan="1">16</td>
+<td align="left" rowspan="1" colspan="1">10 (FL10-186)</td>
+<td align="left" rowspan="1" colspan="1">36 (Vireo)</td>
+<td align="left" rowspan="1" colspan="1">3.8</td>
+<td align="left" rowspan="1" colspan="1">16</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Flavor</td>
+<td align="left" rowspan="1" colspan="1">[0,+100]</td>
+<td align="center" rowspan="1" colspan="1">26</td>
+<td align="left" rowspan="1" colspan="1">21 (FL08-22)</td>
+<td align="left" rowspan="1" colspan="1">32 (Kestrel)</td>
+<td align="left" rowspan="1" colspan="1">1.5</td>
+<td align="left" rowspan="1" colspan="1">41</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="t001fn001"><p>Summary of 30 sensory panels (n = 72 to 109, average = 92 respondents per panel) assaying 19 blueberry genotypes for overall liking, texture liking, sweetness, sourness, and flavor intensities using hedonic general Labeled Magnitude Scales (gLMS) (-100 to +100; -100 = greatest disliking of any kind, +100 = greatest liking of any kind) and intensity gLMS (0 to +100; 0 = no sensation, 100 = most intense sensation of any kind).</p></fn>
+<fn id="t001fn002"><p><sup>z</sup>Panelists were also asked to rate the intensity of taste and flavor sensations of a hypothetical ideal blueberry on this scale.</p></fn>
+</table-wrap-foot>
+</table-wrap>
+<p>On average, sourness was the lowest intensity experienced, but exhibited the most variation between berries among the three sensory intensities rated (<xref rid="pone.0138494.t001" ref-type="table">Table 1</xref>, <xref rid="pone.0138494.g003" ref-type="fig">Fig 3B</xref>). The sourest berry, ‘Vireo,’ was twice the ideal sourness (36). ‘Chickadee’ came closest to having the ideal intensity of sourness for blueberries according to this group of panelists, and was rated just above average in overall liking. The genotype with the highest overall liking score, ‘Scintilla,’ was close to the ideal indicated sourness intensity (15; <xref rid="pone.0138494.s002" ref-type="supplementary-material">S2 Table</xref>). The congruence with overall liking, measured sourness intensity, and ideal sourness intensity suggests that panelists are indeed able to numerically express ideal sourness intensity.</p>
+<p>Intensity of blueberry flavor exhibited the least variation in sample scores compared to perceived sweetness and sourness (1.5-fold variation; <xref rid="pone.0138494.t001" ref-type="table">Table 1</xref>), and like sweetness, also fell short of the panelists’ ideal flavor intensity (<xref rid="pone.0138494.t001" ref-type="table">Table 1</xref>, <xref rid="pone.0138494.g003" ref-type="fig">Fig 3C</xref>). The lack of variation in flavor intensity among the 19 genotypes assessed may be due to poor panelist understanding of flavor (as opposed to taste), limited genetic diversity in flavor in the germplasm, or a combination of the two. Panel favorite ‘Scintilla’ had an above average flavor intensity (29; <xref rid="pone.0138494.s002" ref-type="supplementary-material">S2 Table</xref>), second only to ‘Kestrel’ (32), which was also highly rated by panelists (24). In comparison, the ideal flavor intensities desired for strawberry and tomato were higher (45) [<xref rid="pone.0138494.ref022" ref-type="bibr">22</xref>,<xref rid="pone.0138494.ref023" ref-type="bibr">23</xref>]. Given the quantities of volatiles reported in the literature for these three fruits via comparable collection methods and expressed in in ng gFW<sup>-1</sup> h<sup>-1</sup>, blueberry emits fifteen times the volatiles compared to tomato, and about a third the volatiles emitted by strawberry [<xref rid="pone.0138494.ref022" ref-type="bibr">22</xref>,<xref rid="pone.0138494.ref023" ref-type="bibr">23</xref>]. While this might explain why the panelists would expect an ideal strawberry to be more flavorful, it draws into question why the flavor intensity of an ideal tomato be higher than an ideal blueberry.</p>
+<p>The discrepancy between consumer ideals and actual products highlights the potential for breeding blueberry sensory attributes that exceed consumer expectations, ideally leading to increased repeat purchases, and expanded market potential for the crop. The perceivable sensory differences among blueberry genotypes indicate that the previously reported diversity in biochemical makeup [<xref rid="pone.0138494.ref012" ref-type="bibr">12</xref>–<xref rid="pone.0138494.ref019" ref-type="bibr">19</xref>] is sufficiently variable to extract meaningful information relating to the sensory experience.</p>
+</sec>
+<sec id="sec004">
+<title>Overall liking of blueberries is strongly related to favorable texture, intensities of sweetness, flavor and sourness</title>
+<p>To determine which sensory predictors measured in this study influenced the overall blueberry eating experience, pair-wise correlations between each panelists’ scores of overall liking, favorability of texture, and the sensory intensity measures of sweetness, sourness, and flavor were individually fitted (<xref rid="pone.0138494.s003" ref-type="supplementary-material">S3 Table</xref>; <xref rid="pone.0138494.g004" ref-type="fig">Fig 4A–4F</xref> shown are select significant relationships). These four measures were all individually significant contributors to the response overall liking of blueberry fruit (<italic>P</italic>&lt;0.001) with the best fit indicated by sweetness intensity (R<sup>2</sup> = 0.70), followed by liking of berry texture (R<sup>2</sup> = 0.68), and flavor intensity (R<sup>2</sup> = 0.63). Sourness intensity had a significantly negative relationship with overall liking (R<sup>2</sup> = 0.55). Overall liking increased as the texture was perceived as better, and as the fruit was more intensely sweet and flavorful. The relationship between overall liking and texture liking is a reasonable finding, as these are both rated on hedonic scales. If a panelist likes the berry, it is partially because they like that berry’s texture: the somatosensory experience of texture is inseparable from the rest of the sensory components [<xref rid="pone.0138494.ref004" ref-type="bibr">4</xref>]. That texture is such a strong sensory component of overall liking is at odds with our previously published blueberry perception study, in which flavor attributes were most indicative of purchase [<xref rid="pone.0138494.ref003" ref-type="bibr">3</xref>]. In the perception study, descriptions of poor blueberry texture, such as mealiness, seediness, and toughness, were the most powerful in decreasing blueberry purchase likelihood, but positive texture attributes (firmness, crispness) were generally perceived as neutral. This highlights a potential downside to consumer perception surveys: it is difficult to cognate the mechanical value of texture until it is experienced firsthand. Even then, texture is a complex experience that is difficult to parcel from other sensory components [<xref rid="pone.0138494.ref004" ref-type="bibr">4</xref>] which is the reasoning behind the use of the hedonic scale rather than some assemblage of descriptive intensity factors such as juiciness, firmness, and mealiness [<xref rid="pone.0138494.ref024" ref-type="bibr">24</xref>].</p>
+<fig id="pone.0138494.g004" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pone.0138494.g004</object-id>
+<label>Fig 4</label>
+<caption>
+<title>Significant pair-wise correlations between sensory measurements and primary biochemical components.</title>
+<p>Overall liking was fitted to (A) texture liking, (B) sweetness, (C) sourness, and (D) flavor. (E) Sweetness was fitted to sourness. (F) Texture liking was fitted to flavor. Raw sensory panel data was used with panelist treated as a random effect for A-F. The LSMeans of sensory responses per sample were fit to sample biochemical measures for G-L. Overall liking was also fitted to biochemical measures of (G) fructose and (H) TA. Sweetness was fit to biochemical measures of (I) fructose and (J) TA. Sourness was fitted to biochemical measures of (K) TA and (L) pH. Coefficient of determination (R<sup>2</sup>) and <italic>P-</italic>value of fit is listed with individual scatterplots. Line represents linear fit, and ellipse indicates 95% confidence range of data.</p>
+</caption>
+<graphic mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0138494.g004" position="float" xlink:type="simple"/>
+</fig>
+<p>As the sourness of blueberry samples was perceived as more intense, the pleasure derived from the fruit decreased (<xref rid="pone.0138494.g004" ref-type="fig">Fig 4C</xref>). Blueberry sweetness (Y) and sourness (X) were negatively correlated with each other (R<sup>2</sup> = 0.70, <italic>P</italic>&lt;0.0001, <xref rid="pone.0138494.g004" ref-type="fig">Fig 4E</xref>) as expected due to mixture suppression of sweet and sour tastes [<xref rid="pone.0138494.ref025" ref-type="bibr">25</xref>,<xref rid="pone.0138494.ref026" ref-type="bibr">26</xref>]. When the panel means (as opposed to individual panelist scores) of sensory measures were fit against each other, fits for texture, sourness, and flavor against overall liking went down (R<sup>2</sup> = 0.14, R<sup>2</sup> = 0.35, R<sup>2</sup> = 0.22, respectively, <italic>P</italic>&lt;0.0001) while the fit for sweetness went up (R<sup>2</sup> = 0.81, <italic>P</italic>&lt;0.0001). Changes in fit may be due to the elimination of personal bias for these sensory parameters when averages were used rather than individuals’ associations between ratings. This may also be due to the large range of the gLMS scales, and the variation in range use of the scales among panelists, which is accounted for when each panelist can be treated as a random effect.</p>
+<p>The relationship between flavor intensity (X) and texture liking (Y) was also linear (R<sup>2</sup> = 0.73, <italic>P</italic>&lt;0.0001, <xref rid="pone.0138494.g004" ref-type="fig">Fig 4F</xref>). It is common for interaction to occur between olfaction and somatosensation [<xref rid="pone.0138494.ref004" ref-type="bibr">4</xref>]. A significant relationship between blueberry flavor intensity and juiciness has been previously reported [<xref rid="pone.0138494.ref027" ref-type="bibr">27</xref>]. These correlations may be a result of optimally ripe samples, where texture is ideal and flavor compounds are at a maximum [<xref rid="pone.0138494.ref015" ref-type="bibr">15</xref>]. In a peach (<italic>Prunus persica</italic> L.) QTL mapping and fruit quality study, a locus controlling peach melting, firmness and several volatiles was found, suggesting either pleiotropic effects of a single gene upon these traits or an additional linkage locus [<xref rid="pone.0138494.ref028" ref-type="bibr">28</xref>]. However, the relationship between flavor and texture may be created post-fruit consumption. Differences have been found between whey protein gels of varying texture and their perceived flavor intensity, despite the fact that release of flavor compounds from the matrix was not changed due to gel texture differences [<xref rid="pone.0138494.ref029" ref-type="bibr">29</xref>], demonstrating the potential integration of these two discrete senses upon each other in the brain [<xref rid="pone.0138494.ref004" ref-type="bibr">4</xref>].</p>
+<p>In considering primary biochemical drivers of the sensory experiences, it is known that sugars and acids are principal contributors to taste [<xref rid="pone.0138494.ref030" ref-type="bibr">30</xref>]. A commonly used indicator of fruit quality has been the ratio of soluble solids to titratable acidity of fruit. While SSC/TA was significantly correlated to overall liking, sweetness, and sourness in linear pairwise regressions, the individual measures SSC and TA explained more of the variance in sensory ratings than did the ratio (<xref rid="pone.0138494.s003" ref-type="supplementary-material">S3 Table</xref>). Overall liking was significantly positively correlated to concentrations of all sugars (best fit was Total Sugars, R<sup>2</sup> = 0.20, <italic>P</italic>&lt;0.001, <xref rid="pone.0138494.g004" ref-type="fig">Fig 4G</xref>) and negatively with increasing TA (R<sup>2</sup> = 0.14, <italic>P</italic>&lt;0.001, <xref rid="pone.0138494.g004" ref-type="fig">Fig 4H</xref>). Perceived sweetness is best explained by measures of sugars, including Fructose (R<sup>2</sup> = 0.27, <italic>P</italic>&lt;0.0001 <xref rid="pone.0138494.g004" ref-type="fig">Fig 4I</xref>), Total Sugars (R<sup>2</sup> = 0.26, <italic>P</italic>&lt;0.0001), SSC (R<sup>2</sup> = 0.25, <italic>P</italic>&lt;0.0001), and Glucose (R<sup>2</sup> = 0.20, <italic>P</italic>&lt;0.0001). Although still significant, measures of Sucrose are much less suitable as a predictor of sweetness (R<sup>2</sup> = 0.08, <italic>P</italic> = 0.0004). As in previous reports [<xref rid="pone.0138494.ref031" ref-type="bibr">31</xref>,<xref rid="pone.0138494.ref032" ref-type="bibr">32</xref>], Sucrose was present in very low amounts in the blueberry fruit surveyed, accounting for 1.6% of total sugars on average (<xref rid="pone.0138494.s002" ref-type="supplementary-material">S2 Table</xref>). Sweetness was negatively correlated with TA (R<sup>2</sup> = 0.27, <italic>P</italic>&lt;0.0001, <xref rid="pone.0138494.g004" ref-type="fig">Fig 4J</xref>), while TA explained over half of perceived sourness (R<sup>2</sup> = 0.56, <italic>P</italic>&lt;0.0001, <xref rid="pone.0138494.g004" ref-type="fig">Fig 4K</xref>). An even better explanatory variable of perceived sourness was pH (R<sup>2</sup> = 0.59, <italic>P</italic>&lt;0.0001, <xref rid="pone.0138494.g004" ref-type="fig">Fig 4L</xref>). Of the top five best liked samples, pH measures ranged from 3.3 to 3.6, compared to the study range of 2.8 to 4.4 (<xref rid="pone.0138494.s002" ref-type="supplementary-material">S2 Table</xref>).</p>
+<p>However, more sugar does not always equate to more sweetness. Of the top five sweetest samples, none of these is in the top five for total sugar concentration (<xref rid="pone.0138494.s002" ref-type="supplementary-material">S2 Table</xref>). In fact, ‘Primadonna’ (2014 H1—first harvest from Haines City in 2014) was the fourth sweetest berry among all thirty panels, and had a below average concentration total sugars. Conversely, ‘Emerald,’ (2013, H2), which had the highest total sugar concentration of all samples assayed (140.4 mg gFW<sup>-1</sup> vs. average = 100.5 mg gFW<sup>-1</sup>), scored below average for sweetness intensity (21 vs. average 23) and liking (20 vs. average 22), underscoring the sensory importance of many other compounds in the fruit matrix. This ‘Emerald’ sample was very acidic (pH = 3.0, average = 3.5; TA = 0.91, average = 0.41), while the ‘Primadonna’ sample was sub-acid (pH = 3.6; TA = 0.18). Additionally, in both strawberry and tomato fruits, aromatic volatile compounds have been discovered to contribute to sweetness beyond the effects of sugars [<xref rid="pone.0138494.ref022" ref-type="bibr">22</xref>,<xref rid="pone.0138494.ref023" ref-type="bibr">23</xref>]. This introduces the possibility of breeding for a biochemical recipe that does not exclusively involve increasing sugar content and lowering acidity.</p>
+<p>From these results, it is clear that panelists can discern genotypic variation in blueberry sensory components. However, delivering and marketing a blueberry product of premium quality, as defined by excellent texture, increased sweetness and flavor, and a balance of sourness, would necessitate identifying biochemical quality measures to benchmark specially marketed products such that they would consistently meet consumer expectations of a higher quality berry. This would only be realistic if certain genotypes could be identified where these biochemical components do not suffer from high variation due to environmental effects, thereby yielding reliable fruit quality.</p>
+</sec>
+<sec id="sec005">
+<title>Relating the human experience to biochemical makeup</title>
+<p>Since overall enjoyment of blueberries has been highly correlated with sweetness, flavor acceptability and blueberry-like flavor intensity (<xref rid="pone.0138494.g004" ref-type="fig">Fig 4</xref>) [<xref rid="pone.0138494.ref014" ref-type="bibr">14</xref>], and the sensory experience is influenced by numerous compounds released upon blueberry mastication, an appropriate model to detect complex connections between these disciplines was sought. In this study we used a PLS model to explain the hedonic and sensory components associated with eating blueberries using biochemical measurements [<xref rid="pone.0138494.ref033" ref-type="bibr">33</xref>–<xref rid="pone.0138494.ref037" ref-type="bibr">37</xref>]. Texture liking, for which no physical measure was made, was included in the explanatory variables, along with glucose, fructose, sucrose, TA, pH, and 52 volatile compounds, to explain the sensory components of overall liking, sweetness, sourness, and flavor. When texture liking was included, the model explained 70% of variation in the sensory measures. Upon removing texture liking from the model, 64% of the variation in sensory components was explained (<xref rid="pone.0138494.t002" ref-type="table">Table 2</xref>). The 6% increase in variation explained accounted for by texture is expected by the large contribution of texture liking to overall liking and flavor of blueberry fruit (<xref rid="pone.0138494.g004" ref-type="fig">Fig 4A</xref>).</p>
+<table-wrap id="pone.0138494.t002" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pone.0138494.t002</object-id>
+<label>Table 2</label> <caption><title>Blueberry biochemical measures explaining hedonic and sensory intensity ratings.</title></caption>
+<alternatives>
+<graphic id="pone.0138494.t002g" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0138494.t002" xlink:type="simple"/>
+<table>
+<colgroup span="1">
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+</colgroup>
+<thead>
+<tr>
+<th align="left" rowspan="1" colspan="1">Response</th>
+<th align="left" rowspan="1" colspan="1">Percent Explained<xref rid="t002fn002" ref-type="table-fn"><sup>z</sup></xref></th>
+<th align="left" rowspan="1" colspan="1">Factor</th>
+<th align="right" rowspan="1" colspan="1">PLS Coefficient</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1"><bold>Overall Liking</bold></td>
+<td align="left" rowspan="1" colspan="1">68%</td>
+<td align="left" rowspan="1" colspan="1">Fructose</td>
+<td align="right" rowspan="1" colspan="1">0.2159</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">β-Caryophyllene oxide (CAS#1139-30-6)</td>
+<td align="right" rowspan="1" colspan="1">0.1455</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Glucose</td>
+<td align="right" rowspan="1" colspan="1">0.1433</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Neral (CAS#106-26-3)</td>
+<td align="right" rowspan="1" colspan="1">0.1170</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">pH</td>
+<td align="right" rowspan="1" colspan="1">0.0907</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">2-Heptanone (CAS#110-43-0)</td>
+<td align="right" rowspan="1" colspan="1">0.0871</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Phenylacetaldehyde (CAS#122-78-1)</td>
+<td align="right" rowspan="1" colspan="1">-0.0816</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Linalool (CAS#78-70-6)</td>
+<td align="right" rowspan="1" colspan="1">-0.0836</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Hexanoic acid (CAS#142-62-1)</td>
+<td align="right" rowspan="1" colspan="1">-0.0999</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">E-2-Hexenal (CAS#6728-26-3)</td>
+<td align="right" rowspan="1" colspan="1">-0.1211</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">1,8-Cineole (CAS#470-82-6)</td>
+<td align="right" rowspan="1" colspan="1">-0.1912</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">TA</td>
+<td align="right" rowspan="1" colspan="1">-0.2015</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><bold>Sweetness</bold></td>
+<td align="left" rowspan="1" colspan="1">71%</td>
+<td align="left" rowspan="1" colspan="1">Fructose</td>
+<td align="right" rowspan="1" colspan="1">0.2237</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Glucose</td>
+<td align="right" rowspan="1" colspan="1">0.1504</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">β-Caryophyllene oxide (CAS#1139-30-6)</td>
+<td align="right" rowspan="1" colspan="1">0.1418</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">pH</td>
+<td align="right" rowspan="1" colspan="1">0.1319</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Neral (CAS#106-26-3)</td>
+<td align="right" rowspan="1" colspan="1">0.1197</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">2-Heptanone (CAS#110-43-0)</td>
+<td align="right" rowspan="1" colspan="1">0.0922</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Phenylacetaldehyde (CAS#122-78-1)</td>
+<td align="right" rowspan="1" colspan="1">-0.0777</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Linalool (CAS#78-70-6)</td>
+<td align="right" rowspan="1" colspan="1">-0.0787</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Hexanoic acid (CAS#142-62-1)</td>
+<td align="right" rowspan="1" colspan="1">-0.1003</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">E-2-Hexenal (CAS#6728-26-3)</td>
+<td align="right" rowspan="1" colspan="1">-0.1253</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">1,8-Cineole (CAS#470-82-6)</td>
+<td align="right" rowspan="1" colspan="1">-0.1925</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">TA</td>
+<td align="right" rowspan="1" colspan="1">-0.2402</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><bold>Sourness</bold></td>
+<td align="left" rowspan="1" colspan="1">78%</td>
+<td align="left" rowspan="1" colspan="1">TA</td>
+<td align="right" rowspan="1" colspan="1">0.3105</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">1,8-Cineole (CAS#470-82-6)</td>
+<td align="right" rowspan="1" colspan="1">0.1444</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">E-2-Hexenal (CAS#6728-26-3)</td>
+<td align="right" rowspan="1" colspan="1">0.1378</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">2-Nonanone (CAS#821-55-6)</td>
+<td align="right" rowspan="1" colspan="1">0.1145</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Hexanoic acid (CAS#142-62-1)</td>
+<td align="right" rowspan="1" colspan="1">0.0953</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Z-2-penten-1-ol (CAS#1576-95-0)</td>
+<td align="right" rowspan="1" colspan="1">0.0726</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">6-Methyl-5-hepten-2-one (CAS#110-93-0)</td>
+<td align="right" rowspan="1" colspan="1">-0.0666</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">1-Hexanol (CAS#111-27-3)</td>
+<td align="right" rowspan="1" colspan="1">-0.0783</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Fructose</td>
+<td align="right" rowspan="1" colspan="1">-0.0863</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Methyl isovalerate (CAS#556-24-1)</td>
+<td align="right" rowspan="1" colspan="1">-0.0925</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Neral (CAS#106-26-3)</td>
+<td align="right" rowspan="1" colspan="1">-0.0929</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">pH</td>
+<td align="right" rowspan="1" colspan="1">-0.2573</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"><bold>Flavor</bold></td>
+<td align="left" rowspan="1" colspan="1">60%</td>
+<td align="left" rowspan="1" colspan="1">Fructose</td>
+<td align="right" rowspan="1" colspan="1">0.1856</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">β-Caryophyllene oxide (CAS#1139-30-6)</td>
+<td align="right" rowspan="1" colspan="1">0.1527</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">2-Undecanone (CAS#112-12-9)</td>
+<td align="right" rowspan="1" colspan="1">0.1404</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Glucose</td>
+<td align="right" rowspan="1" colspan="1">0.1392</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">2-Heptanone (CAS#110-43-0)</td>
+<td align="right" rowspan="1" colspan="1">0.1304</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">3-Methyl-1-butanol (CAS#123-51-3)</td>
+<td align="right" rowspan="1" colspan="1">0.0960</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Phenylacetaldehyde (CAS#122-78-1)</td>
+<td align="right" rowspan="1" colspan="1">-0.0625</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Methyl isovalerate (CAS#556-24-1)</td>
+<td align="right" rowspan="1" colspan="1">-0.0625</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Linalool (CAS#78-70-6)</td>
+<td align="right" rowspan="1" colspan="1">-0.0823</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">Methyl hexanoate (CAS#106-70-7)</td>
+<td align="right" rowspan="1" colspan="1">-0.0861</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">1,8-Cineole (CAS#470-82-6)</td>
+<td align="right" rowspan="1" colspan="1">-0.0876</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1"/>
+<td align="left" rowspan="1" colspan="1">pH</td>
+<td align="right" rowspan="1" colspan="1">-0.1264</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="t002fn001"><p>Top six and bottom six biochemical measures explaining sensory responses as determined by partial least squares (PLS) analysis. Model explains 64% of the variation in sensory components of overall liking, sweetness, sourness, and flavor with biochemical measures of glucose, fructose, sucrose, TA, pH, and 52 volatile compounds.</p></fn>
+<fn id="t002fn002"><p><sup><bold>z</bold></sup>Percent variation of each individual sensory parameter explained by the biochemical measures in the overall model is presented</p></fn>
+</table-wrap-foot>
+</table-wrap>
+<p>The variation of each sensory aspect explained by the six highest and lowest biochemical effectors is shown in <xref rid="pone.0138494.t002" ref-type="table">Table 2</xref>. The sensory parameter with the most variation explained by biochemical measures was sourness, with 78% accounted for. The monosaccharide fructose was the most impactful effector of overall liking, sweetness and flavor, and detractor from sourness (<xref rid="pone.0138494.t002" ref-type="table">Table 2</xref>). Its structural isomer glucose was also important in overall liking, sweetness, and flavor, but did not act to decrease sourness in this model. Fructose has been shown to be perceivably sweeter than glucose at equivalent concentrations [<xref rid="pone.0138494.ref038" ref-type="bibr">38</xref>–<xref rid="pone.0138494.ref040" ref-type="bibr">40</xref>]. It is known that the human sweetness receptor on the tongue undergoes varying conformational changes depending on the structure of the ligand that binds (e.g. fructose vs. glucose vs. artificial sweeteners), resulting in different degrees of perceived sweetness [<xref rid="pone.0138494.ref041" ref-type="bibr">41</xref>]. In the present study, sucrose did not contribute significantly to sweetness as it only accounts for approximately 1–2% of total blueberry sugars. Acidity as determined by pH also appeared to be important in all four sensory components assayed. TA was not associated with flavor but is a strong factor in the other three sensory components.</p>
+<p>Flavor had a strong relationship with fructose and pH, in addition to several volatiles also implicated in contributing to sweetness and sourness in this dataset (<xref rid="pone.0138494.t002" ref-type="table">Table 2</xref>). The influence of pH and fructose on the olfactory-mediated response of flavor may be due to difficultly for untrained consumer panelists to isolate flavor from taste. However, this could also be due to the integration of aromatics with taste in the fruit matrix and the brain; for example, pH can affect volatile emission in fruit tissue [<xref rid="pone.0138494.ref042" ref-type="bibr">42</xref>], and relative concentrations of compounds in solution can dramatically change their associated olfactory responses [<xref rid="pone.0138494.ref043" ref-type="bibr">43</xref>]. Interactions between taste and retronasal olfaction are also known to occur. For example, sweetness and other aromas have been shown to be enhanced depending on the combination of taste molecules and volatile molecules present in an ingested sample [<xref rid="pone.0138494.ref006" ref-type="bibr">6</xref>,<xref rid="pone.0138494.ref022" ref-type="bibr">22</xref>,<xref rid="pone.0138494.ref023" ref-type="bibr">23</xref>]. In the discussion of volatile compounds and their contribution to flavor, it should be noted that the specific aromatic descriptors of volatiles in the literature are limited in that concentration and interaction with the fruit matrix may alter sensory perception [<xref rid="pone.0138494.ref043" ref-type="bibr">43</xref>–<xref rid="pone.0138494.ref045" ref-type="bibr">45</xref>].</p>
+<p>Some of the volatiles included in the PLS model contribute to the explanation of more than one sensory descriptor as rated by the panelists. Volatile compounds β-caryophyllene oxide (CAS#1139-30-6) and 2-heptanone (CAS#110-43-0) are linked to an increase in overall liking, sweetness, and flavor in blueberries. β-Caryophyllene oxide has been identified in black currant (<italic>Ribes nigrum</italic> L.), black ground pepper (<italic>Piper nigrum</italic> L.), and hops (<italic>Humulus lupulus</italic> L.) and has been described orthonasally as “spicy” [<xref rid="pone.0138494.ref046" ref-type="bibr">46</xref>–<xref rid="pone.0138494.ref048" ref-type="bibr">48</xref>]. ‘Meadowlark’ constitutes samples with the highest concentrations of 2-heptanone, distributed across all years (2012–2014) and all locations (UFPSREU, Haines City, Waldo). 2-Heptanone has also been reported in strawberry, apple (<italic>Malus domestica</italic> Borkh.), and passion fruit (<italic>Passiflora edulis</italic> Sims) [<xref rid="pone.0138494.ref049" ref-type="bibr">49</xref>–<xref rid="pone.0138494.ref051" ref-type="bibr">51</xref>].</p>
+<p>Another pervasive compound, neral (CAS#106-26-3), is positively associated with liking and sweetness, but negatively associated with sourness. Neral is a geometric isomer of geranial, which together are recognized as ‘citral,’ and characteristic of lemon (<italic>Citrus × limon</italic> L.) [<xref rid="pone.0138494.ref052" ref-type="bibr">52</xref>]. Although geranial is also found in these blueberry samples, it was not identified as contributing to the sensory experience, highlighting the point that enantiomers may have significantly different sensory qualities.</p>
+<p>The favorability of the fruit was negatively associated with several volatile compounds in this study, including two compounds that have often been associated with typical blueberry flavor in literature, linalool (CAS#78-70-6) and 1,8-cineole (CAS#470-82-6) [<xref rid="pone.0138494.ref019" ref-type="bibr">19</xref>, <xref rid="pone.0138494.ref053" ref-type="bibr">53</xref>–<xref rid="pone.0138494.ref055" ref-type="bibr">55</xref>]. In this PLS model, linalool and 1,8-cineole detracted from overall liking, sweetness and flavor. 1,8-Cineole also contributed to sourness. 1,8-Cineole was highest in samples which were harvested in the earliest part of the season (late March). Interestingly, linalool was highest in samples which were all harvested from the Waldo location (high tunnel production). <italic>E</italic>-2-Hexenal (CAS#6728-26-3), which has been described orthonasally as fresh, leafy green, floral, sweet, and pungent [<xref rid="pone.0138494.ref044" ref-type="bibr">44</xref>], also reduced liking and sweetness in the model, and was a positive effector of sourness. This compound constituted the largest proportion of total volatile emission, and was especially high in early season selections during 2014.</p>
+<p>Two volatiles that were unique to explaining increases in blueberry flavor intensity were 2-undecanone (CAS#112-12-9) and 3-methyl-1-butanol (CAS#123-51-3). 2-Undecanone was characteristic of the variety ‘Scintilla.’ It has been previously reported in red raspberries (<italic>Rubus idaeus</italic> L.) and blackberries (<italic>Rubus</italic> spp. <italic>hyb</italic>), and has been described orthonasally as floral and citrusy [<xref rid="pone.0138494.ref056" ref-type="bibr">56</xref>,<xref rid="pone.0138494.ref057" ref-type="bibr">57</xref>]. 3-Methyl-1-butanol–a sweet, fruity, brandy-like compound found in tequila (<italic>Agave tequilana</italic> Weber), and grape (<italic>Vitis vinifera</italic> L.) and apple wines–was produced in the largest quantities by ‘Farthing’ and ‘Scintilla’ [<xref rid="pone.0138494.ref058" ref-type="bibr">58</xref>–<xref rid="pone.0138494.ref060" ref-type="bibr">60</xref>]. Increasing these two volatile compounds in the breeding germplasm could result in increased flavor intensity, as desired by blueberry consumers.</p>
+<p>This model could be used to target up- and downregulation of particular compounds in blueberries for increased consumer favor. To develop a better tasting berry based on this model, breeders may want to consider targeting pH between 3.2 and 3.5, increasing sugars, particularly fructose, β-caryophyllene oxide, 2-heptanone, neral, 2-undecanone, 3-methyl-1-butanol, and decreasing linalool, 1,8-cineole, and <italic>E</italic>-2-hexenal. However, also of consideration to the breeder is the reliability of biochemical production of these compounds in fruit, as determined by genetics, environment, and their interaction effects.</p>
+</sec>
+<sec id="sec006">
+<title>G×E Effects</title>
+<p>To further develop a realistic set of breeding targets for improved flavor, a G×E study was conducted to quantify the variation exhibited by these target compounds and to indicate which were most available to manipulate genetically. Six of the genotypes (‘Emerald,’ ‘Endura,’ ‘Farthing,’ ‘Meadowlark,’ ‘Primadonna,’ and ‘Scintilla’) used to sample biochemical and sensory variance were grown in three locations and harvested over the course of three years to determine the effects of genotype and environmental variables on taste and flavor compounds. Volatile emission has previously been shown to vary by location in strawberry, ginger (<italic>Zingiber officinale</italic> Roscoe), thyme (<italic>Thymus daenensis</italic> Celak and <italic>Thymus vulgaris</italic> L.), and peaches [<xref rid="pone.0138494.ref028" ref-type="bibr">28</xref>,<xref rid="pone.0138494.ref061" ref-type="bibr">61</xref>–<xref rid="pone.0138494.ref064" ref-type="bibr">64</xref>] and between open field and protected structures in strawberry, raspberry, and tomato [<xref rid="pone.0138494.ref010" ref-type="bibr">10</xref>,<xref rid="pone.0138494.ref061" ref-type="bibr">61</xref>,<xref rid="pone.0138494.ref065" ref-type="bibr">65</xref>]. Geographical and climactic differences of the locations in this study are listed in <xref rid="pone.0138494.s004" ref-type="supplementary-material">S4 Table</xref>. Blueberry plants grown at the Waldo location were grown under high tunnels while plants at UFPSREU and Haines City were open field.</p>
+<p>To determine the source of variance for the biochemical effectors of flavor (<xref rid="pone.0138494.t002" ref-type="table">Table 2</xref>), a linear model in which E was broken down into Location (L) and Year (Y) was constructed. The significance and percent variance for each term in the model are listed in <xref rid="pone.0138494.t003" ref-type="table">Table 3</xref>. All compounds besides hexanoic acid were significant for genotypic variation (<italic>P</italic>&lt;0.0001). In contrast, methyl hexanoate (CAS#106-70-7) and linalool exhibited only effects of G (<italic>P</italic>&lt;0.01). 6-Methyl-5-hepten-2-one (CAS#110-93-0) had the highest amount of variation sourced from genetics (89%). 6-Methyl-5-hepten-2-one has been shown to be a conversion product from the terpenoid citral (isomeric mixture of neral and geranial) by citral lyase in <italic>Penicillium digitatum</italic> spores [<xref rid="pone.0138494.ref066" ref-type="bibr">66</xref>], and does indeed have a significant negative pair-wise relationship to both neral and geranial in this blueberry biochemical study (<italic>P</italic> = 0.03, <italic>P</italic>&lt;0.0001, respectively). Other compounds that had large genetic influence were 2-undecanone (82%), 2-nonanone (CAS#821-55-6) (80%), linalool (70%), and 1,8-cineole (51%). Formation of 2-undecanone is mediated by 3-oxolaurate decarboxylase [<xref rid="pone.0138494.ref067" ref-type="bibr">67</xref>]. Like 2-undecanone, linalool and 1,8-cineole also come from the terpenoid pathway and are both preceded by substrate geranyl diphosphate [<xref rid="pone.0138494.ref068" ref-type="bibr">68</xref>]. The high degree of genetic control over these compounds makes them ideal targets for breeding for improved blueberry flavor, and knowledge of their enzymatic and genetic regulation opens the potential for marker development.</p>
+<table-wrap id="pone.0138494.t003" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pone.0138494.t003</object-id>
+<label>Table 3</label> <caption><title>Effects of genotype, year, and location on blueberry biochemical measures.</title></caption>
+<alternatives>
+<graphic id="pone.0138494.t003g" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0138494.t003" xlink:type="simple"/>
+<table>
+<colgroup span="1">
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+</colgroup>
+<thead>
+<tr>
+<th align="left" rowspan="1" colspan="1"/>
+<th colspan="8" align="center" rowspan="1"><italic>P</italic> Values (Percent Variation)</th>
+</tr>
+<tr>
+<th align="left" rowspan="1" colspan="1">Compounds</th>
+<th align="left" rowspan="1" colspan="1">L<xref rid="t003fn002" ref-type="table-fn"><sup>z</sup></xref></th>
+<th align="left" rowspan="1" colspan="1">Y</th>
+<th align="left" rowspan="1" colspan="1">L×Y</th>
+<th align="left" rowspan="1" colspan="1">G</th>
+<th align="left" rowspan="1" colspan="1">L×G</th>
+<th align="left" rowspan="1" colspan="1">Y×G</th>
+<th align="left" rowspan="1" colspan="1">G×L×Y</th>
+<th align="left" rowspan="1" colspan="1">Total<xref rid="t003fn003" ref-type="table-fn"><sup>y</sup></xref></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1">Fructose</td>
+<td align="right" rowspan="1" colspan="1">0.012 (3)</td>
+<td align="right" rowspan="1" colspan="1">0.054 (3)</td>
+<td align="right" rowspan="1" colspan="1">0.017 (4)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold> (31)</td>
+<td align="right" rowspan="1" colspan="1">0.019 (8)</td>
+<td align="right" rowspan="1" colspan="1">0.523 (3)</td>
+<td align="right" rowspan="1" colspan="1"><bold>0.009</bold> (13)</td>
+<td align="right" rowspan="1" colspan="1">65</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Glucose</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.001</bold> (6)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold> (16)</td>
+<td align="right" rowspan="1" colspan="1"><bold>0.003</bold> (5)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold> (19)</td>
+<td align="right" rowspan="1" colspan="1">0.086 (6)</td>
+<td align="right" rowspan="1" colspan="1">0.427 (4)</td>
+<td align="right" rowspan="1" colspan="1">0.172 (10)</td>
+<td align="right" rowspan="1" colspan="1">65</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">pH</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold> (30)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold> (6)</td>
+<td align="right" rowspan="1" colspan="1">0.267 (0)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold> (14)</td>
+<td align="right" rowspan="1" colspan="1">0.017 (1)</td>
+<td align="right" rowspan="1" colspan="1">0.574 (1)</td>
+<td align="right" rowspan="1" colspan="1">0.052 (1)</td>
+<td align="right" rowspan="1" colspan="1">52</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">TA</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold> (18)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold> (13)</td>
+<td align="right" rowspan="1" colspan="1">0.007 (5)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold> (21)</td>
+<td align="right" rowspan="1" colspan="1">0.192 (5)</td>
+<td align="right" rowspan="1" colspan="1">0.435 (2)</td>
+<td align="right" rowspan="1" colspan="1"><bold>0.009</bold> (11)</td>
+<td align="right" rowspan="1" colspan="1">74</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Methyl hexanoate (CAS#106-70-7)</td>
+<td align="right" rowspan="1" colspan="1">0.045 (5)</td>
+<td align="right" rowspan="1" colspan="1">0.023 (3)</td>
+<td align="right" rowspan="1" colspan="1">0.154 (5)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold> (22)</td>
+<td align="right" rowspan="1" colspan="1">0.144 (5)</td>
+<td align="right" rowspan="1" colspan="1">0.078 (8)</td>
+<td align="right" rowspan="1" colspan="1">0.625 (6)</td>
+<td align="right" rowspan="1" colspan="1">53</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">2-Heptanone (CAS#110-43-0)</td>
+<td align="right" rowspan="1" colspan="1"><bold>0.002</bold> (3)</td>
+<td align="right" rowspan="1" colspan="1">0.163 (1)</td>
+<td align="right" rowspan="1" colspan="1">0.029 (4)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold> (54)</td>
+<td align="right" rowspan="1" colspan="1"><bold>0.002</bold> (7)</td>
+<td align="right" rowspan="1" colspan="1">0.268 (2)</td>
+<td align="right" rowspan="1" colspan="1"><bold>0.003</bold> (7)</td>
+<td align="right" rowspan="1" colspan="1">79</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">6-Methyl-5-hepten-2-one (CAS#110-93-0)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.001</bold> (1)</td>
+<td align="right" rowspan="1" colspan="1">0.633 (0)</td>
+<td align="right" rowspan="1" colspan="1">0.542 (0)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold> (89)</td>
+<td align="right" rowspan="1" colspan="1">0.022 (1)</td>
+<td align="right" rowspan="1" colspan="1">0.046 (1)</td>
+<td align="right" rowspan="1" colspan="1">0.674 (1)</td>
+<td align="right" rowspan="1" colspan="1">94</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">1-Hexanol (CAS#111-27-3)</td>
+<td align="right" rowspan="1" colspan="1">0.018 (3)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold> (46)</td>
+<td align="right" rowspan="1" colspan="1">0.029 (3)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold> (12)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.001</bold> (10)</td>
+<td align="right" rowspan="1" colspan="1">0.137 (3)</td>
+<td align="right" rowspan="1" colspan="1">0.659 (3)</td>
+<td align="right" rowspan="1" colspan="1">79</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">2-Undecanone (CAS#112-12-9)</td>
+<td align="right" rowspan="1" colspan="1">0.241 (0)</td>
+<td align="right" rowspan="1" colspan="1"><bold>0.001</bold> (2)</td>
+<td align="right" rowspan="1" colspan="1">0.023 (1)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold> (82)</td>
+<td align="right" rowspan="1" colspan="1">0.013 (2)</td>
+<td align="right" rowspan="1" colspan="1">0.169 (1)</td>
+<td align="right" rowspan="1" colspan="1"><bold>0.003</bold> (3)</td>
+<td align="right" rowspan="1" colspan="1">91</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">β-Caryophyllene oxide (CAS#1139-30-6)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold> (3)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold> (4)</td>
+<td align="right" rowspan="1" colspan="1">0.236 (1)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold> (71)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.001</bold> (4)</td>
+<td align="right" rowspan="1" colspan="1">0.020 (3)</td>
+<td align="right" rowspan="1" colspan="1">0.029 (4)</td>
+<td align="right" rowspan="1" colspan="1">89</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">3-Methyl-1-butanol (CAS#123-51-3)</td>
+<td align="right" rowspan="1" colspan="1"><bold>0.008</bold> (5)</td>
+<td align="right" rowspan="1" colspan="1">0.047 (7)</td>
+<td align="right" rowspan="1" colspan="1">0.843 (2)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold> (24)</td>
+<td align="right" rowspan="1" colspan="1">0.196 (8)</td>
+<td align="right" rowspan="1" colspan="1">0.429 (5)</td>
+<td align="right" rowspan="1" colspan="1">0.92 (4)</td>
+<td align="right" rowspan="1" colspan="1">54</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Z-2-penten-1-ol (CAS#1576-95-0)</td>
+<td align="right" rowspan="1" colspan="1">0.038 (4)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold> (11)</td>
+<td align="right" rowspan="1" colspan="1">0.034 (8)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold> (18)</td>
+<td align="right" rowspan="1" colspan="1">0.039 (10)</td>
+<td align="right" rowspan="1" colspan="1">0.302 (5)</td>
+<td align="right" rowspan="1" colspan="1">0.198 (8)</td>
+<td align="right" rowspan="1" colspan="1">62</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">1,8-Cineole (CAS#470-82-6)</td>
+<td align="right" rowspan="1" colspan="1">0.026 (2)</td>
+<td align="right" rowspan="1" colspan="1"><bold>0.004</bold> (4)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.001</bold> (6)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold> (51)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.001</bold> (8)</td>
+<td align="right" rowspan="1" colspan="1">0.044 (2)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold> (10)</td>
+<td align="right" rowspan="1" colspan="1">84</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Neral (CAS#106-26-3)</td>
+<td align="right" rowspan="1" colspan="1">0.131 (3)</td>
+<td align="right" rowspan="1" colspan="1"><bold>0.004</bold> (5)</td>
+<td align="right" rowspan="1" colspan="1"><bold>0.002</bold> (9)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold> (18)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.001</bold> (15)</td>
+<td align="right" rowspan="1" colspan="1">0.030 (9)</td>
+<td align="right" rowspan="1" colspan="1">0.151 (8)</td>
+<td align="right" rowspan="1" colspan="1">66</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Methyl isovalerate (CAS#556-24-1)</td>
+<td align="right" rowspan="1" colspan="1"><bold>0.005</bold> (3)</td>
+<td align="right" rowspan="1" colspan="1">0.324 (1)</td>
+<td align="right" rowspan="1" colspan="1">0.608 (2)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold> (43)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.001</bold> (11)</td>
+<td align="right" rowspan="1" colspan="1">0.644 (2)</td>
+<td align="right" rowspan="1" colspan="1">0.825 (4)</td>
+<td align="right" rowspan="1" colspan="1">66</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">E-2-Hexenal (CAS#6728-26-3)</td>
+<td align="right" rowspan="1" colspan="1"><bold>0.001</bold> (6)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold> (20)</td>
+<td align="right" rowspan="1" colspan="1">0.020 (3)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold> (27)</td>
+<td align="right" rowspan="1" colspan="1">0.147 (4)</td>
+<td align="right" rowspan="1" colspan="1">0.004 (6)</td>
+<td align="right" rowspan="1" colspan="1">0.002 (12)</td>
+<td align="right" rowspan="1" colspan="1">77</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Linalool (CAS#78-70-6)</td>
+<td align="right" rowspan="1" colspan="1">0.280 (1)</td>
+<td align="right" rowspan="1" colspan="1">0.062 (1)</td>
+<td align="right" rowspan="1" colspan="1">0.135 (2)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold> (70)</td>
+<td align="right" rowspan="1" colspan="1">0.494 (2)</td>
+<td align="right" rowspan="1" colspan="1">0.051 (3)</td>
+<td align="right" rowspan="1" colspan="1">0.284 (4)</td>
+<td align="right" rowspan="1" colspan="1">82</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">2-Nonanone (CAS#821-55-6)</td>
+<td align="right" rowspan="1" colspan="1">0.032 (1)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold> (2)</td>
+<td align="right" rowspan="1" colspan="1"><bold>0.006</bold> (1)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold> (80)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.001</bold> (3)</td>
+<td align="right" rowspan="1" colspan="1"><bold>0.005</bold> (2)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.001</bold> (5)</td>
+<td align="right" rowspan="1" colspan="1">93</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Hexanoic acid (CAS#142-62-1)</td>
+<td align="right" rowspan="1" colspan="1">0.068 (2)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold> (14)</td>
+<td align="right" rowspan="1" colspan="1">0.121 (3)</td>
+<td align="right" rowspan="1" colspan="1">0.066 (7)</td>
+<td align="right" rowspan="1" colspan="1">0.992 (1)</td>
+<td align="right" rowspan="1" colspan="1">0.146 (9)</td>
+<td align="right" rowspan="1" colspan="1">0.999 (3)</td>
+<td align="right" rowspan="1" colspan="1">39</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Phenylacetaldehyde (CAS#122-78-1)</td>
+<td align="right" rowspan="1" colspan="1">0.964 (0)</td>
+<td align="right" rowspan="1" colspan="1">0.170 (7)</td>
+<td align="right" rowspan="1" colspan="1">0.027 (3)</td>
+<td align="right" rowspan="1" colspan="1"><bold>0.001</bold> (11)</td>
+<td align="right" rowspan="1" colspan="1">0.437 (2)</td>
+<td align="right" rowspan="1" colspan="1">0.404 (10)</td>
+<td align="right" rowspan="1" colspan="1">0.347 (3)</td>
+<td align="right" rowspan="1" colspan="1">36</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="t003fn001"><p>Partition of the variation of the top 20 blueberry biochemical measures due to effects of genotype (G), year (Y), and location (L), and all corresponding interactions. <italic>P&lt;</italic>0.01 are bolded.</p></fn>
+<fn id="t003fn002"><p><sup>z</sup>Proportion of variance (in parentheses) explained of each model term of effects genotype, location, year, and all interactions.</p></fn>
+<fn id="t003fn003"><p><sup>y</sup>Total variation of the compound explained by the model was summed, remaining variation is attributed to residual effects.</p></fn>
+</table-wrap-foot>
+</table-wrap>
+<p>Seven biochemical measures had significant G×L×Y interaction effects, including fructose and TA (<xref rid="pone.0138494.t003" ref-type="table">Table 3</xref>). Glucose varied most based on berry genotype (19%) and year of harvest (16%). Fructose had a higher contribution of genetics at nearly a third. pH varied simply by location (30%) and year (6%) with no interaction effects. 1-Hexanol (CAS#111-27-3) and <italic>E</italic>-2-Hexenal were the compounds most variable from year to year. <italic>E</italic>-2-Hexenal has also been reported as having strong environmental effects in peach [<xref rid="pone.0138494.ref028" ref-type="bibr">28</xref>]. These compounds would make poor breeding targets due to their susceptibility to environmental variation. Although β-caryophyllene oxide exhibited L×G effects, 71% of its variation can be accounted for through genotypic effects alone (<xref rid="pone.0138494.t003" ref-type="table">Table 3</xref>). This oxidized sesquiterpenoid is the main product of a terpene synthase, which produces a number of volatile sesquiterpenes. Badoc and Lamarti [<xref rid="pone.0138494.ref069" ref-type="bibr">69</xref>] indicated that tropical climates favor the formation of oxidized forms of volatiles in dill (<italic>Anethum graveolens</italic> L.), and in agreement, β-caryophyllene oxide concentrations increase as latitudes decrease in this study, although further studies would have to be conducted to confirm this correlation. 2-Heptanone also exhibited interaction effects of L, G, and Y, yet 54% of variation in its emission appears to be controlled genetically. Conversely, neral emission is less genetically controlled (18%) and is equally affected by L×G interaction effects (15%). These analyses suggest the potential to focus breeding resources on upregulating β-caryophyllene oxide and 2-heptanone rather than compounds such as neral.</p>
+<p>After focusing on compound performance across locations and years, we determined the significant variability of compounds for each genotype (<italic>P</italic>&lt;0.01) in the event that less predictable compounds could be prone to tighter biochemical regulation in a particular genetic background (<xref rid="pone.0138494.t004" ref-type="table">Table 4</xref>). ‘Emerald’ and ‘Scintilla’ had significant variability in the least number of compounds. ‘Endura’ was significantly variable for the highest number of compounds. ‘Endura’ was the only genotype to significantly vary for fructose concentration. Glucose was not variable in ‘Farthing’ and ‘Scintilla.’ ‘Scintilla’ also did not vary for pH or TA. All other genotypes had significant genotypic effects on pH. Based on these results, ‘Scintilla’ would be a good individual to use in crosses aimed at incorporating genetically regulated flavor compounds into new progeny because compounds tend to be predictable regardless of year and location, coupled with high sensory scores for the cultivar.</p>
+<table-wrap id="pone.0138494.t004" position="float">
+<object-id pub-id-type="doi">10.1371/journal.pone.0138494.t004</object-id>
+<label>Table 4</label> <caption><title>Blueberry biochemical variation by genotype.</title></caption>
+<alternatives>
+<graphic id="pone.0138494.t004g" position="float" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0138494.t004" xlink:type="simple"/>
+<table>
+<colgroup span="1">
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+<col align="left" valign="middle" span="1"/>
+</colgroup>
+<thead>
+<tr>
+<th align="left" rowspan="1" colspan="1"/>
+<th colspan="6" align="center" rowspan="1">Genotypes</th>
+</tr>
+<tr>
+<th align="left" rowspan="1" colspan="1">Compounds</th>
+<th align="right" rowspan="1" colspan="1">Endura</th>
+<th align="right" rowspan="1" colspan="1">Emerald</th>
+<th align="right" rowspan="1" colspan="1">Farthing</th>
+<th align="right" rowspan="1" colspan="1">Meadowlark</th>
+<th align="right" rowspan="1" colspan="1">Primadonna</th>
+<th align="right" rowspan="1" colspan="1">Scintilla</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" rowspan="1" colspan="1">Fructose</td>
+<td align="right" rowspan="1" colspan="1"><bold>0.003</bold></td>
+<td align="right" rowspan="1" colspan="1">0.015</td>
+<td align="right" rowspan="1" colspan="1">0.072</td>
+<td align="right" rowspan="1" colspan="1">0.219</td>
+<td align="right" rowspan="1" colspan="1">0.364</td>
+<td align="right" rowspan="1" colspan="1">0.842</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Glucose</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold></td>
+<td align="right" rowspan="1" colspan="1"><bold>0.0005</bold></td>
+<td align="right" rowspan="1" colspan="1">0.028</td>
+<td align="right" rowspan="1" colspan="1"><bold>0.0006</bold></td>
+<td align="right" rowspan="1" colspan="1"><bold>0.001</bold></td>
+<td align="right" rowspan="1" colspan="1">0.176</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">pH</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold></td>
+<td align="right" rowspan="1" colspan="1"><bold>0.0002</bold></td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold></td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold></td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold></td>
+<td align="right" rowspan="1" colspan="1">0.062</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">TA</td>
+<td align="right" rowspan="1" colspan="1"><bold>0.0009</bold></td>
+<td align="right" rowspan="1" colspan="1"><bold>0.001</bold></td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold></td>
+<td align="right" rowspan="1" colspan="1">0.054</td>
+<td align="right" rowspan="1" colspan="1">0.010</td>
+<td align="right" rowspan="1" colspan="1">0.077</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Methyl hexanoate (CAS#106-70-7)</td>
+<td align="right" rowspan="1" colspan="1"><bold>0.007</bold></td>
+<td align="right" rowspan="1" colspan="1">0.864</td>
+<td align="right" rowspan="1" colspan="1">0.661</td>
+<td align="right" rowspan="1" colspan="1">0.019</td>
+<td align="right" rowspan="1" colspan="1">0.681</td>
+<td align="right" rowspan="1" colspan="1">0.522</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">2-Heptanone (CAS#110-43-0)</td>
+<td align="right" rowspan="1" colspan="1">0.222</td>
+<td align="right" rowspan="1" colspan="1">0.237</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold></td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold></td>
+<td align="right" rowspan="1" colspan="1">0.152</td>
+<td align="right" rowspan="1" colspan="1"><bold>0.001</bold></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">6-Methyl-5-hepten-2-one (CAS#110-93-0)</td>
+<td align="right" rowspan="1" colspan="1">0.928</td>
+<td align="right" rowspan="1" colspan="1">0.950</td>
+<td align="right" rowspan="1" colspan="1">0.984</td>
+<td align="right" rowspan="1" colspan="1"><bold>0.0002</bold></td>
+<td align="right" rowspan="1" colspan="1">0.027</td>
+<td align="right" rowspan="1" colspan="1">0.996</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">1-Hexanol (CAS#111-27-3)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold></td>
+<td align="right" rowspan="1" colspan="1">0.858</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold></td>
+<td align="right" rowspan="1" colspan="1"><bold>0.005</bold></td>
+<td align="right" rowspan="1" colspan="1"><bold>0.002</bold></td>
+<td align="right" rowspan="1" colspan="1">0.593</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">2-Undecanone (CAS#112-12-9)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold></td>
+<td align="right" rowspan="1" colspan="1">0.834</td>
+<td align="right" rowspan="1" colspan="1">0.990</td>
+<td align="right" rowspan="1" colspan="1"><bold>0.0009</bold></td>
+<td align="right" rowspan="1" colspan="1">0.992</td>
+<td align="right" rowspan="1" colspan="1"><bold>0.002</bold></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">β-Caryophyllene oxide (CAS#1139-30-6)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold></td>
+<td align="right" rowspan="1" colspan="1">0.421</td>
+<td align="right" rowspan="1" colspan="1">0.152</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold></td>
+<td align="right" rowspan="1" colspan="1">0.019</td>
+<td align="right" rowspan="1" colspan="1"><bold>0.001</bold></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">3-Methyl-1-butanol (CAS#123-51-3)</td>
+<td align="right" rowspan="1" colspan="1">0.010</td>
+<td align="right" rowspan="1" colspan="1">0.718</td>
+<td align="right" rowspan="1" colspan="1"><bold>0.007</bold></td>
+<td align="right" rowspan="1" colspan="1">0.583</td>
+<td align="right" rowspan="1" colspan="1">0.424</td>
+<td align="right" rowspan="1" colspan="1">0.819</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Z-2-penten-1-ol (CAS#1576-95-0)</td>
+<td align="right" rowspan="1" colspan="1">0.148</td>
+<td align="right" rowspan="1" colspan="1">0.329</td>
+<td align="right" rowspan="1" colspan="1"><bold>0.002</bold></td>
+<td align="right" rowspan="1" colspan="1">0.102</td>
+<td align="right" rowspan="1" colspan="1"><bold>0.003</bold></td>
+<td align="right" rowspan="1" colspan="1">0.449</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">1,8-Cineole (CAS#470-82-6)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold></td>
+<td align="right" rowspan="1" colspan="1">0.191</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold></td>
+<td align="right" rowspan="1" colspan="1">0.762</td>
+<td align="right" rowspan="1" colspan="1">0.082</td>
+<td align="right" rowspan="1" colspan="1">0.788</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Neral (CAS#106-26-3)</td>
+<td align="right" rowspan="1" colspan="1"><bold>0.002</bold></td>
+<td align="right" rowspan="1" colspan="1">0.236</td>
+<td align="right" rowspan="1" colspan="1"><bold>0.0009</bold></td>
+<td align="right" rowspan="1" colspan="1">0.830</td>
+<td align="right" rowspan="1" colspan="1"><bold>0.007</bold></td>
+<td align="right" rowspan="1" colspan="1">0.202</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Methyl isovalerate (CAS#556-24-1)</td>
+<td align="right" rowspan="1" colspan="1">0.984</td>
+<td align="right" rowspan="1" colspan="1">1.000</td>
+<td align="right" rowspan="1" colspan="1">0.932</td>
+<td align="right" rowspan="1" colspan="1">0.021</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold></td>
+<td align="right" rowspan="1" colspan="1">0.953</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">E-2-Hexenal (CAS#6728-26-3)</td>
+<td align="right" rowspan="1" colspan="1"><bold>0.0003</bold></td>
+<td align="right" rowspan="1" colspan="1">0.269</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold></td>
+<td align="right" rowspan="1" colspan="1">0.013</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold></td>
+<td align="right" rowspan="1" colspan="1"><bold>0.007</bold></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Linalool (CAS#78-70-6)</td>
+<td align="right" rowspan="1" colspan="1">0.298</td>
+<td align="right" rowspan="1" colspan="1"><bold>0.003</bold></td>
+<td align="right" rowspan="1" colspan="1">0.885</td>
+<td align="right" rowspan="1" colspan="1">0.085</td>
+<td align="right" rowspan="1" colspan="1">0.266</td>
+<td align="right" rowspan="1" colspan="1">0.964</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">2-Nonanone (CAS#821-55-6)</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold></td>
+<td align="right" rowspan="1" colspan="1">0.925</td>
+<td align="right" rowspan="1" colspan="1">0.855</td>
+<td align="right" rowspan="1" colspan="1">0.035</td>
+<td align="right" rowspan="1" colspan="1">0.601</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.001</bold></td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Hexanoic acid (CAS#142-62-1)</td>
+<td align="right" rowspan="1" colspan="1">1.000</td>
+<td align="right" rowspan="1" colspan="1">0.751</td>
+<td align="right" rowspan="1" colspan="1">0.333</td>
+<td align="right" rowspan="1" colspan="1">0.013</td>
+<td align="right" rowspan="1" colspan="1"><bold>&lt;0.0001</bold></td>
+<td align="right" rowspan="1" colspan="1">0.332</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1">Phenylacetaldehyde (CAS#122-78-1)</td>
+<td align="right" rowspan="1" colspan="1">0.074</td>
+<td align="right" rowspan="1" colspan="1">0.205</td>
+<td align="right" rowspan="1" colspan="1">0.022</td>
+<td align="right" rowspan="1" colspan="1">0.070</td>
+<td align="right" rowspan="1" colspan="1">0.997</td>
+<td align="right" rowspan="1" colspan="1">0.530</td>
+</tr>
+<tr>
+<td align="left" rowspan="1" colspan="1"># <italic>P</italic>&lt;0.01</td>
+<td align="right" rowspan="1" colspan="1">12</td>
+<td align="right" rowspan="1" colspan="1">4</td>
+<td align="right" rowspan="1" colspan="1">9</td>
+<td align="right" rowspan="1" colspan="1">7</td>
+<td align="right" rowspan="1" colspan="1">8</td>
+<td align="right" rowspan="1" colspan="1">5</td>
+</tr>
+</tbody>
+</table>
+</alternatives>
+<table-wrap-foot>
+<fn id="t004fn001"><p>Significance of variation (location and year) of the top 20 biochemical measurements that explain sensory responses in blueberry when partitioned by genotype. Significance levels <italic>P</italic>&lt;0.01 are bolded.</p></fn>
+</table-wrap-foot>
+</table-wrap>
+</sec>
+</sec>
+<sec id="sec007" sec-type="conclusions">
+<title>Conclusions</title>
+<p>Genotypic variation exists for sensory components, and there is a large perceivable range of derived pleasure and intensity of sensory components when eating blueberries. The blueberry flavor formula we present may not be applicable to all humans due to genetic variation in human sensory perception: there are approximately 400 genes that encode olfactory receptors in humans, among which nearly 6000 polymorphic events have been identified, resulting in high allelic diversity between individuals [<xref rid="pone.0138494.ref043" ref-type="bibr">43</xref>,<xref rid="pone.0138494.ref070" ref-type="bibr">70</xref>]. However, by collecting sensory and biochemical data from multiple year, location, and genotype trials, we sought to generate a broad enough sample to develop a robust model for improving blueberry flavor based on breeding for specific biochemical compounds. By conducting this G×E analysis, we were able to identify certain biochemical compounds that were associated with increased or decreased consumer liking and had a low degree of environmental variation. These compounds have thus become the primary targets to improve blueberry flavor in our breeding program.</p>
+</sec>
+<sec id="sec008" sec-type="materials|methods">
+<title>Methods</title>
+<sec id="sec009">
+<title>Ethics statement</title>
+<p>The field studies reported here did not involve endangered or protected species. Two locations utilized for this research (Waldo, FL and Haines City, FL) were privately-owned agricultural farms. The owners of both locations provided permission to conduct the research trial. The third location (UF Plant Science Research and Education Unit) is the primary agricultural research site for the University of Florida and no permission is needed to conduct research for UF faculty. Consumer panels were conducted at the Food Science and Human Nutrition Department at the University of Florida (UF) in Gainesville, FL. The UF Institutional Review Board 2 (IRB2) chaired by Ira S. Fischler approved the protocol and written consent form (case #2003-U-0491) which participants are required to complete.</p>
+</sec>
+<sec id="sec010">
+<title>Plant material and environmental data</title>
+<p>Southern highbush blueberry (<italic>V</italic>. <italic>corymbosum</italic> L.) cultivars and advanced breeding selections evaluated in this study were ‘Chickadee™’ (‘FL04-235’), ‘Emerald,’ ‘Endura™’ (‘FL06-377’), ‘Farthing,’ ‘Kestrel™’ (‘FL02-40’), ‘Flicker™’ (‘FL96-43’), ‘Meadowlark™’ (‘FL01-173’), ‘Primadonna,’ ‘Scintilla,’ ‘Vireo™’ (‘FL05-107’), ‘Windsor,’ ‘FL01-25,’ ‘FL06-435,’ ‘FL06-510,’ ‘FL06-571,’ ‘FL07-290,’ ‘FL08-22,’ ‘FL10-107,’ and ‘FL10-186.’ Some recent cultivar releases indicated above have utilized the selection testing number for plant patent protection while a trademarked name is recognized in commerce. The trademarked names will be used throughout this manuscript (‘Chickadee,’ ‘Endura,’ ‘Kestrel,’ ‘Flicker,’ ‘Meadowlark,’ and ‘Vireo’). Relatedness of all genotypes based on pedigree information is depicted in <xref rid="pone.0138494.g001" ref-type="fig">Fig 1A</xref>. Three kg of fruit was hand-harvested from either the UF Plant Science Research and Education Unit (UFPSREU lat. 29°24'37''N, long. 82°10'12' W) or two grower-cooperator farms located near Waldo, FL (lat. 29°46'8''N, long. 82°7'53' W), and Haines City, FL (lat. 28°3'26''N, long. 81°33'50''W) the day prior to the consumer sensory panel and stored overnight at 4°C. 200 g of fruit was retained for biochemical analyses.</p>
+<p>Genotypes investigated for G×E analysis were ‘Emerald,’ ‘Endura,’ ‘Farthing,’ ‘Meadowlark,’ ‘Primadonna,’ and ‘Scintilla.’ These six genotypes were grown in two locations (UFPSREU and Haines City, FL) and five genotypes were grown in a third location (Waldo, FL). Blueberry plants at UFPSREU and Haines City were grown under open field conditions while plants at Waldo were grown under protective high tunnels.</p>
+<p>Weather stations were posted at the three sites, which recorded temperature, relative humidity, and rainfall. Solar radiation measures were obtained from the Florida Automated Weather Network (FAWN) stations at or closest to each site (UFPSREU FAWN, Putnam Hall FAWN for Waldo, Lake Alfred FAWN for Haines City).</p>
+</sec>
+<sec id="sec011">
+<title>Sensory analysis</title>
+<p>Over the course of three years, 19 blueberry genotypes were evaluated in 30 sensory panels by 217 panelists, with an average of 92 panelists per panel. Panelists were trained with the scaling methods and were encouraged to return for the remainder of the study. Panelists rated overall liking, texture liking, sweetness, sourness, and flavor intensity using hedonic general Labeled Magnitude Scales (gLMS) (-100 to +100; -100 = greatest disliking of any kind, +100 = greatest liking of any kind) and intensity gLMS (0 to +100; 0 = no sensation, 100 = most intense sensation of any kind), which allow for improved comparison between panelists and between years [<xref rid="pone.0138494.ref071" ref-type="bibr">71</xref>,<xref rid="pone.0138494.ref072" ref-type="bibr">72</xref>]. Panelists were also asked to rate the intensity of taste and flavor sensations of a hypothetical ideal blueberry on this scale. Each panelist received two to four berries of five to six genotypes in a single panel in a Williams design, which was generated by Compusense 5.6 (Compusense Inc., Guelph, Ontario, Canada). They were asked to eat the blueberries of each genotype at once, and to take a bite of cracker and sip of water in between samples. Ratings were recorded using Compusense software.</p>
+</sec>
+<sec id="sec012">
+<title>Measurement of biochemical components</title>
+<p>Soluble solids content (SSC), titratable acidity (TA), and volatiles were quantified as in Gilbert <italic>et al</italic>. [<xref rid="pone.0138494.ref003" ref-type="bibr">3</xref>]. The volatiles were collected for two hours via dynamic headspace with HaySep Q 80–100 porous polymer adsorbent (Valco Instruments Company Inc., Houston, TX) and eluted with methylene chloride and nonyl acetate as an elution standard. Elutions were run on an Agilent 7890A Gas Chromatograph Flame Ionization Detector (GC-FID) DB-5 column (30 m length × 250 mm diameter × 1 mm film) for quantification and on an Agilent 7890A Gas Chromatograph coupled to an Agilent 5977A Mass Selective Detector (GC/MSD) for qualification (Agilent, Santa Clara, CA). Integrated peak area of each signal was normalized for elution, fitted to relative pure chemical response, corrected for sample mass, and expressed as nanograms per gram fresh weight per hour (ng gFW<sup>-1</sup> h<sup>-1</sup>). Response fitting was calculated using the response factor of pure chemical standards (Sigma-Aldrich, St. Louis, MO) run on the same instrument (<xref rid="pone.0138494.s001" ref-type="supplementary-material">S1 Table</xref>).</p>
+<p>Glucose, fructose, and sucrose were extracted via solid phase extraction (SPE) (adapted from [<xref rid="pone.0138494.ref073" ref-type="bibr">73</xref>]) and quantified on an Agilent 1260 Infinity Binary Liquid Chromatograph (LC) system coupled to an Agilent 6430 Triple Quadrupole (QQQ) (Agilent, Santa Clara, CA). Tissue was ground in N<sub>2(l)</sub>, 100 mg was dissolved in 1.9 mL buffer (74% HPLC-grade water, 20% methanol, 5% acetic acid, and 1% 0.15 M lactulose internal standard), spun down for 20 min, and the resulting supernatant was filtered using Captiva Premium syringe layered 0.45 μm filters (Agilent, Santa Clara, CA), evaporated to 1 mL in a vacuum centrifuge (Heto VR-maxi, Heto-Holten A/S, Allerød, Denmark) at 50°C, and then added to 4 mL acetonitrile. Mega BondElut NH2 columns (Agilent, Santa Clara, CA) were activated with 2 mL methanol followed by 5 mL 4:1 acetonitrile-water. The sample was then passed through the NH2 cartridge and sugars were eluted with 3 mL HPLC-grade water in an ultracentrifuge (Avanti J-25 Centrifuge, Beckman Coulter Inc., Brea, CA) at 5000 rpm for 5 min. Samples were diluted 25-fold to be run on the LC. Isocratic mobile phase flow rate of 0.4 mL min<sup>-1</sup> consisted of 80% channel A, aqueous 0.1% formic acid, and 20% channel B, 0.1% formic acid in acetonitrile. The Agilent Hi-Plex H column (300 × 6.5 mm) was held at a constant temperature of 30°C. An injection volume of 10 μL was used for all biological, standard, and quality control samples. Electrospray ionization helium gas temperature was 350°C with a flow of 7 L min<sup>-1</sup>. Nebulizer pressure was at 60 psi and capillary potential was 2000 V. The QQQ was run in positive mode with an electron multiplier value of 200 and targets were observed using multiple reaction monitoring. A multiple compound standard series was used to establish individual compound response of sucrose, glucose, and fructose using MassHunter Quantitative Analysis (Agilent, Santa Clara, CA) software. Standards had a fixed lactulose concentration of 40 μM. Integrated area of sugars in biological samples were fitted to relative response, normalized for dilution, corrected for sample mass, and expressed as milligrams per gram fresh weight (mg gFW<sup>-1</sup>).</p>
+</sec>
+<sec id="sec013">
+<title>Statistical analyses</title>
+<sec id="sec014">
+<title>Genotype, sensory and biochemical relationships</title>
+<p>Genotypic relatedness based on pedigree and biochemical profiles were compared using hierarchical cluster analyses. Two-way ward cluster analysis of genotypic relatedness based on pedigree information was performed in R (R, Vienna, Austria). Two-way ward cluster analysis of genotypic relatedness based on biochemical profiles was constructed in JMP® Pro 10 (SAS Institute Inc., Cary, NC).</p>
+<p>Pair-wise correlations and significance between sensory measurements and primary biochemical components were calculated, with panelist as a random effect. Least Square Means (LSMeans) of the sensory data for each sample were obtained to account of the random effect of panelist. A partial least squares (PLS) analysis was constructed in JMP® Pro 10 (SAS Institute Inc., Cary, NC) to reveal effectors of sensory ratings [<xref rid="pone.0138494.ref033" ref-type="bibr">33</xref>–<xref rid="pone.0138494.ref037" ref-type="bibr">37</xref>]. The response variables (Y) considered corresponded to LSMeans of overall liking, sweetness, sourness, and blueberry flavor intensity. Glucose, fructose, sucrose, TA, pH, and 52 volatile compounds (<xref rid="pone.0138494.s002" ref-type="supplementary-material">S2 Table</xref>) were considered as explanatory variables (X). The inclusion of texture liking was evaluated independently given that no explanatory physical measure was made for sample texture. Variables were centered and scaled (hence, correlation matrices were used), and a 20-fold cross-validation method was used. The model was created without texture for analysis.</p>
+</sec>
+<sec id="sec015">
+<title>Partitioning biochemical variation due to genetics and environment</title>
+<p>A partition of the variation was done by fitting a linear model to each biochemical compound based on the three year G×E study using the genotypes were ‘Emerald,’ ‘Endura,’ ‘Farthing,’ ‘Meadowlark,’ ‘Primadonna,’ and ‘Scintilla’ that were grown in three sites and harvested three times per year for three years, with the exception of ‘Scintilla,’ which was not grown at Waldo:
+<disp-formula id="pone.0138494.e001">
+<alternatives>
+<graphic id="pone.0138494.e001g" position="anchor" mimetype="image" xlink:href="info:doi/10.1371/journal.pone.0138494.e001" xlink:type="simple"/>
+<mml:math display="block" id="M1" overflow="scroll">
+<mml:msub><mml:mrow><mml:mi>y</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mi>j</mml:mi><mml:mi>k</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mi>μ</mml:mi><mml:mo>+</mml:mo><mml:msub><mml:mrow><mml:mi>G</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mrow><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mi>j</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mrow><mml:mi>Y</mml:mi></mml:mrow><mml:mrow><mml:mi>k</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi>G</mml:mi><mml:mo>×</mml:mo><mml:mi>L</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mi>j</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi>L</mml:mi><mml:mo>×</mml:mo><mml:mi>Y</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mrow><mml:mi>j</mml:mi><mml:mi>k</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi>G</mml:mi><mml:mo>×</mml:mo><mml:mi>Y</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mi>k</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi>G</mml:mi><mml:mo>×</mml:mo><mml:mi>L</mml:mi><mml:mo>×</mml:mo><mml:mi>Y</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mi>j</mml:mi><mml:mi>k</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mrow><mml:mi>ε</mml:mi></mml:mrow><mml:mrow><mml:mi>i</mml:mi><mml:mi>j</mml:mi><mml:mi>k</mml:mi></mml:mrow></mml:msub>
+</mml:math>
+</alternatives>
+</disp-formula>
+where <italic>y</italic><sub><italic>ijk</italic></sub> is the response of the <italic>i</italic>th genotype, in the <italic>j</italic>th location for the <italic>k</italic>th year, <italic>μ</italic> is the overall mean. <italic>G</italic><sub><italic>i</italic></sub> is the fixed effect of genotype, <italic>L</italic><sub><italic>j</italic></sub> is the fixed effect of location and <italic>Y</italic><sub><italic>k</italic></sub> is the fixed effect of year. All other terms correspond to interactions between the main factors. Environment was defined as the location within a given year. The residual term <italic>ε</italic><sub><italic>ij</italic></sub> was assumed to be normally distributed where all observations within the same environment were correlated based on a compound symmetry error structure. Significance of each of the model terms was done using an approximated F-test with the Kenward and Roger [<xref rid="pone.0138494.ref074" ref-type="bibr">74</xref>] correction for the degrees of freedom. The Studentized residuals of each variable were checked for normality before proceeding with the analysis. The specific genotypes levels were compared amongst each other and LSMeans were estimated. The proportion of variance explained of each model term was also obtained based on the Type III Sum of Squares. The model was fitted using PROC MIXED in SAS 9.4 (SAS Institute Inc., Cary, NC, USA).</p>
+</sec>
+</sec>
+</sec>
+<sec id="sec016">
+<title>Supporting Information</title>
+<supplementary-material id="pone.0138494.s001" xlink:href="info:doi/10.1371/journal.pone.0138494.s001" mimetype="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" position="float" xlink:type="simple">
+<label>S1 Table</label>
+<caption>
+<title>Chemical standards and response factors.</title>
+<p>(XLSX)</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="pone.0138494.s002" xlink:href="info:doi/10.1371/journal.pone.0138494.s002" mimetype="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" position="float" xlink:type="simple">
+<label>S2 Table</label>
+<caption>
+<title>Sensory ratings and biochemical measures of all samples from 2012–2014.</title>
+<p>(XLSX)</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="pone.0138494.s003" xlink:href="info:doi/10.1371/journal.pone.0138494.s003" mimetype="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" position="float" xlink:type="simple">
+<label>S3 Table</label>
+<caption>
+<title>Pairwise relationships between sensory ratings and biochemical measures.</title>
+<p>(XLSX)</p>
+</caption>
+</supplementary-material>
+<supplementary-material id="pone.0138494.s004" xlink:href="info:doi/10.1371/journal.pone.0138494.s004" mimetype="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" position="float" xlink:type="simple">
+<label>S4 Table</label>
+<caption>
+<title>Different environment characteristics (per location per season).</title>
+<p>(XLSX)</p>
+</caption>
+</supplementary-material>
+</sec>
+</body>
+<back>
+<ack>
+<p>The authors acknowledge Straughn Farms, Mixon Family Farms, D. Norden, and W. Collante for maintenance of plant material used in the study, C. Cellon for the pedigree analysis, and E. Dreyer and S. Marshall for assistance in conducting consumer evaluation trials.</p>
+</ack>
+<ref-list>
+<title>References</title>
+<ref id="pone.0138494.ref001"><label>1</label><mixed-citation publication-type="other" xlink:type="simple">USDA ERS [Internet]. 2014 [cited 2015 March 11]. <ext-link ext-link-type="uri" xlink:href="http://www.ers.usda.gov/" xlink:type="simple">http://www.ers.usda.gov/</ext-link></mixed-citation></ref>
+<ref id="pone.0138494.ref002"><label>2</label><mixed-citation publication-type="book" xlink:type="simple"><name name-style="western"><surname>Payne</surname> <given-names>TJ</given-names></name>. <source>North American Highbush Blueberry Market Situation</source>. <publisher-name>US Highbush Blueberry Council</publisher-name> [Internet]. <year>2014</year> [cited 2015 March 11]. Available from: <ext-link ext-link-type="uri" xlink:href="http://www.blueberrytech.org/publications/market-situation2014.pdf" xlink:type="simple">http://www.blueberrytech.org/publications/market-situation2014.pdf</ext-link></mixed-citation></ref>
+<ref id="pone.0138494.ref003"><label>3</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Gilbert</surname> <given-names>JL</given-names></name>, <name name-style="western"><surname>Olmstead</surname> <given-names>JW</given-names></name>, <name name-style="western"><surname>Colquhoun</surname> <given-names>TA</given-names></name>, <name name-style="western"><surname>Levin</surname> <given-names>LA</given-names></name>, <name name-style="western"><surname>Clark</surname> <given-names>DG</given-names></name>, <name name-style="western"><surname>Moskowitz</surname> <given-names>HR</given-names></name>. <article-title>Consumer-assisted selection of blueberry fruit quality traits</article-title>. <source>HortScience</source>. <year>2014</year>;<volume>49</volume>(<issue>7</issue>):<fpage>864</fpage>–<lpage>873</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref004"><label>4</label><mixed-citation publication-type="book" xlink:type="simple"><name name-style="western"><surname>Taylor</surname> <given-names>AJ</given-names></name>, <name name-style="western"><surname>Roberts</surname> <given-names>DD</given-names></name>. <chapter-title>Flavor perception</chapter-title>. <publisher-loc>Oxford</publisher-loc>: <publisher-name>Blackwell</publisher-name>; <year>2004</year>.</mixed-citation></ref>
+<ref id="pone.0138494.ref005"><label>5</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Barrett</surname> <given-names>DM</given-names></name>, <name name-style="western"><surname>Beaulieu</surname> <given-names>JC</given-names></name>, <name name-style="western"><surname>Shewfelt</surname> <given-names>R</given-names></name>. <article-title>Color, flavor, texture, and nutritional quality of fresh-cut fruits and vegetables: desirable levels, instrumental and sensory measurement, and the effects of processing</article-title>. <source>Crit Rev Food Sci Nutr</source> <year>2010</year>;<volume>50</volume>(<issue>5</issue>):<fpage>369</fpage>–<lpage>389</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1080/10408391003626322" xlink:type="simple">10.1080/10408391003626322</ext-link></comment> <object-id pub-id-type="pmid">20373184</object-id></mixed-citation></ref>
+<ref id="pone.0138494.ref006"><label>6</label><mixed-citation publication-type="book" xlink:type="simple"><name name-style="western"><surname>Lawless</surname> <given-names>HT</given-names></name>, <name name-style="western"><surname>Heymann</surname> <given-names>H</given-names></name>. <source>Sensory Evaluation of Food</source>. <publisher-loc>New York</publisher-loc>: <publisher-name>Springer</publisher-name>; <year>2010</year>.</mixed-citation></ref>
+<ref id="pone.0138494.ref007"><label>7</label><mixed-citation publication-type="book" xlink:type="simple"><name name-style="western"><surname>Gould</surname> <given-names>WA</given-names></name>. <chapter-title>Tomato production, processing and quality evaluation</chapter-title>. <publisher-loc>Westport</publisher-loc>: <publisher-name>The AVI Publishing Company</publisher-name>; <year>1983</year>.</mixed-citation></ref>
+<ref id="pone.0138494.ref008"><label>8</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Forney</surname> <given-names>CF</given-names></name>. <article-title>Horticultural and other factors affecting aroma volatile composition of small fruit</article-title>. <source>HortTechnology</source>. <year>2001</year>;<volume>11</volume>(<issue>4</issue>):<fpage>529</fpage>–<lpage>538</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref009"><label>9</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Bojanowski</surname> <given-names>V</given-names></name>, <name name-style="western"><surname>Hummel</surname> <given-names>T</given-names></name>. <article-title>Retronasal perception of odors</article-title>. <source>Physiol Behav</source>. <year>2012</year>;<volume>107</volume>(<issue>4</issue>):<fpage>484</fpage>–<lpage>487</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.physbeh.2012.03.001" xlink:type="simple">10.1016/j.physbeh.2012.03.001</ext-link></comment> <object-id pub-id-type="pmid">22425641</object-id></mixed-citation></ref>
+<ref id="pone.0138494.ref010"><label>10</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Cebolla-Cornejo</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Rosello</surname> <given-names>S</given-names></name>, <name name-style="western"><surname>Valcarcel</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Serrano</surname> <given-names>E</given-names></name>, <name name-style="western"><surname>Beltran</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Nuez</surname> <given-names>F</given-names></name>. <article-title>Evaluation of genotype and environment effects on taste and aroma flavor components of Spanish fresh tomato varieties</article-title>. <source>J Agr Food Chem</source>. <year>2011</year>;<volume>59</volume>(<issue>6</issue>):<fpage>2440</fpage>–<lpage>2450</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref011"><label>11</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Moore</surname> <given-names>PP</given-names></name>, <name name-style="western"><surname>Burrows</surname> <given-names>C</given-names></name>, <name name-style="western"><surname>Fellman</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Mattinson</surname> <given-names>DS</given-names></name>. <article-title>Genotype x environment variation in raspberry fruit aroma volatiles</article-title>. <source>Acta Hortic</source>. <year>2002</year>;<volume>585</volume>:<fpage>511</fpage>–<lpage>516</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref012"><label>12</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Galletta</surname> <given-names>GJ</given-names></name>, <name name-style="western"><surname>Ballinge</surname> <given-names>W</given-names></name>, <name name-style="western"><surname>Monroe</surname> <given-names>RJ</given-names></name>, <name name-style="western"><surname>Kushman</surname> <given-names>LJ</given-names></name>. <article-title>Relationships between fruit acidity and soluble solids levels of highbush blueberry clones and fruit keeping quality.</article-title> <source>J Am Soc Hortic Sci.</source> <year>1971</year>;<volume>96</volume>(<issue>6</issue>):<fpage>758</fpage>–<lpage>762</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref013"><label>13</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Ballington</surname> <given-names>JR</given-names></name>, <name name-style="western"><surname>Ballinger</surname> <given-names>WE</given-names></name>, <name name-style="western"><surname>Swallow</surname> <given-names>WH</given-names></name>, <name name-style="western"><surname>Galletta</surname> <given-names>GJ</given-names></name>, <name name-style="western"><surname>Kushman</surname> <given-names>LJ</given-names></name>. <article-title>Fruit-quality characterization of 11 <italic>Vaccinium</italic> species.</article-title> <source>J Am Soc Hortic Sci</source>. <year>1984</year>;<volume>109</volume>(<issue>5</issue>):<fpage>684</fpage>–<lpage>689</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref014"><label>14</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Saftner</surname> <given-names>R</given-names></name>, <name name-style="western"><surname>Polashock</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Ehlenfeldt</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Vinyard</surname> <given-names>B</given-names></name>. <article-title>Instrumental and sensory quality characteristics of blueberry fruit from twelve cultivars</article-title>. <source>Postharvest Biol Tech</source>. <year>2008</year>;<volume>49</volume>(<issue>1</issue>):<fpage>19</fpage>–<lpage>26</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref015"><label>15</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Gilbert</surname> <given-names>JL</given-names></name>, <name name-style="western"><surname>Schwieterman</surname> <given-names>ML</given-names></name>, <name name-style="western"><surname>Colquhoun</surname> <given-names>TA</given-names></name>, <name name-style="western"><surname>Clark</surname> <given-names>DG</given-names></name>, <name name-style="western"><surname>Olmstead</surname> <given-names>JW</given-names></name>. <article-title>Potential for increasing Southern highbush blueberry flavor acceptance by breeding for major volatile components</article-title>. <source>HortScience.</source> <year>2013</year>;<volume>48</volume>(<issue>7</issue>):<fpage>835</fpage>–<lpage>843</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref016"><label>16</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Baloga</surname> <given-names>DW</given-names></name>, <name name-style="western"><surname>Vorsa</surname> <given-names>N</given-names></name>, <name name-style="western"><surname>Lawter</surname> <given-names>L</given-names></name>. <article-title>Dynamic headspace gas chromatography-mass spectrometry analysis of volatile flavor compounds from wild diploid blueberry species</article-title>. <source>ACS Sym Ser</source>. <year>1995</year>; <volume>596</volume>:<fpage>235</fpage>–<lpage>247</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref017"><label>17</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Mattheis</surname> <given-names>JP</given-names></name>, <name name-style="western"><surname>Fellman</surname> <given-names>JK</given-names></name>. <article-title>Preharvest factors influencing flavor of fresh fruit and vegetables</article-title>. <source>Postharvest Biol Tech</source>. <year>1999</year>;<volume>15</volume>(<issue>3</issue>):<fpage>227</fpage>–<lpage>232</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref018"><label>18</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Almenar</surname> <given-names>E</given-names></name>, <name name-style="western"><surname>Samsudin</surname> <given-names>H</given-names></name>, <name name-style="western"><surname>Auras</surname> <given-names>R</given-names></name>, <name name-style="western"><surname>Harte</surname> <given-names>J</given-names></name>. <article-title>Consumer acceptance of fresh blueberries in bio-based packages</article-title>. <source>J Sci Food Agr</source>. <year>2010</year>;<volume>90</volume>(<issue>7</issue>):<fpage>1121</fpage>–<lpage>1128</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref019"><label>19</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Du</surname> <given-names>XF</given-names></name>, <name name-style="western"><surname>Plotto</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Song</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Olmstead</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Rouseff</surname> <given-names>R</given-names></name>. <article-title>Volatile composition of four Southern highbush blueberry cultivars and effect of growing location and harvest date</article-title>. <source>J Agr Food Chem</source>. <year>2011</year>;<volume>59</volume>(<issue>15</issue>):<fpage>8347</fpage>–<lpage>8357</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref020"><label>20</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Eichholz</surname> <given-names>I</given-names></name>, <name name-style="western"><surname>Huyskens-Keil</surname> <given-names>S</given-names></name>, <name name-style="western"><surname>Keller</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Ulrich</surname> <given-names>D</given-names></name>, <name name-style="western"><surname>Kroh</surname> <given-names>LW</given-names></name>, <name name-style="western"><surname>Rohn</surname> <given-names>S</given-names></name>. <article-title>UV-B-induced changes of volatile metabolites and phenolic compounds in blueberries (<italic>Vaccinium corymbosum</italic> L.)</article-title>. <source>Food Chem.</source> <year>2011</year>;<volume>126</volume>(<issue>1</issue>):<fpage>60</fpage>–<lpage>64</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref021"><label>21</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Colquhoun</surname> <given-names>TA</given-names></name>, <name name-style="western"><surname>Schwieterman</surname> <given-names>ML</given-names></name>, <name name-style="western"><surname>Gilbert</surname> <given-names>JL</given-names></name>, <name name-style="western"><surname>Jaworski</surname> <given-names>EA</given-names></name>, <name name-style="western"><surname>Langer</surname> <given-names>KM</given-names></name>, <name name-style="western"><surname>Jones</surname> <given-names>CR</given-names></name>, <etal>et al.</etal> <article-title>Light modulation of volatile organic compounds from petunia flowers and select fruits</article-title>. <source>Postharvest Biol Tech</source>. <year>2013</year>;<volume>86</volume>:<fpage>37</fpage>–<lpage>44</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref022"><label>22</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Tieman</surname> <given-names>D</given-names></name>, <name name-style="western"><surname>Bliss</surname> <given-names>P</given-names></name>, <name name-style="western"><surname>McIntyre</surname> <given-names>LM</given-names></name>, <name name-style="western"><surname>Blandon-Ubeda</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Bies</surname> <given-names>D</given-names></name>, <name name-style="western"><surname>Odabasi</surname> <given-names>AZ</given-names></name>. <etal>et al</etal> <article-title>The chemical interactions underlying tomato flavor preferences</article-title>. <source>Curr Biol.</source> <year>2012</year>;<volume>22</volume>(<issue>11</issue>):<fpage>1035</fpage>–<lpage>1039</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.cub.2012.04.016" xlink:type="simple">10.1016/j.cub.2012.04.016</ext-link></comment> <object-id pub-id-type="pmid">22633806</object-id></mixed-citation></ref>
+<ref id="pone.0138494.ref023"><label>23</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Schwieterman</surname> <given-names>ML</given-names></name>, <name name-style="western"><surname>Colquhoun</surname> <given-names>TA</given-names></name>, <name name-style="western"><surname>Jaworski</surname> <given-names>EA</given-names></name>, <name name-style="western"><surname>Bartoshuk</surname> <given-names>LM</given-names></name>, <name name-style="western"><surname>Gilbert</surname> <given-names>JL</given-names></name>, <name name-style="western"><surname>Tieman</surname> <given-names>DM</given-names></name>, <etal>et al.</etal> <article-title>Strawberry flavor: Diverse chemical compositions, a seasonal influence, and effects on sensory perception</article-title>. <source>PLOS ONE</source>. <year>2014</year>;<volume>9</volume>(<issue>2</issue>):<fpage>12</fpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref024"><label>24</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Szczesniak</surname> <given-names>AS</given-names></name>, <name name-style="western"><surname>Ilker</surname> <given-names>R</given-names></name>. <article-title>The meaning of textural characteristics–juiciness in plant foodstuffs</article-title>. <source>J Texture Stud</source>. <year>1988</year>; <volume>19</volume>(<issue>1</issue>):<fpage>61</fpage>–<lpage>78</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref025"><label>25</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Pangborn</surname> <given-names>RM</given-names></name>, <name name-style="western"><surname>Marsh</surname> <given-names>GL</given-names></name>, <name name-style="western"><surname>Channel</surname> <given-names>WR</given-names></name>, <name name-style="western"><surname>Campbell</surname> <given-names>H</given-names></name>. <article-title>Consumer opinion of sweeteners in frozen concentrated lemonade and orange juice drink</article-title>. <source>Food Technol.</source> <year>1960</year>;<volume>14</volume>(<issue>6</issue>):<fpage>B36</fpage>–<lpage>B36</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref026"><label>26</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Frank</surname> <given-names>RA</given-names></name>, <name name-style="western"><surname>Vanderklaauw</surname> <given-names>NJ</given-names></name>, <name name-style="western"><surname>Schifferstein</surname> <given-names>HNJ</given-names></name>. <article-title>Both perceptual and conceptual factors influence taste-odor and taste-taste interactions</article-title>. <source>Percept Psychophys</source>. <year>1993</year>;<volume>54</volume>(<issue>3</issue>):<fpage>343</fpage>–<lpage>354</lpage>. <object-id pub-id-type="pmid">8414893</object-id></mixed-citation></ref>
+<ref id="pone.0138494.ref027"><label>27</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Blaker</surname> <given-names>KM</given-names></name>, <name name-style="western"><surname>Plotto</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Baldwin</surname> <given-names>EA</given-names></name>, <name name-style="western"><surname>Olmstead</surname> <given-names>JW</given-names></name>. <article-title>Correlation between sensory and instrumental measurements of standard and crisp-texture southern highbush blueberries (<italic>Vaccinium corymbosum</italic> L. interspecific hybrids)</article-title>. <source>J Sci Food Agr</source>. <year>2014</year>;<volume>94</volume>(<issue>13</issue>):<fpage>2785</fpage>–<lpage>2793</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref028"><label>28</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Sánchez</surname> <given-names>G</given-names></name>, <name name-style="western"><surname>Martinez</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Romeu</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Garcia</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Monforte</surname> <given-names>AJ</given-names></name>, <name name-style="western"><surname>Badenes</surname> <given-names>ML</given-names></name>, <name name-style="western"><surname>Granell</surname> <given-names>A</given-names></name>. <article-title>The peach volatilome modularity is reflected at the genetic and environmental response levels in a QTL mapping population</article-title>. <source>BMC Plant Biol</source>. <year>2014</year>;<volume>14</volume>:<fpage>137</fpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1186/1471-2229-14-137" xlink:type="simple">10.1186/1471-2229-14-137</ext-link></comment> <object-id pub-id-type="pmid">24885290</object-id></mixed-citation></ref>
+<ref id="pone.0138494.ref029"><label>29</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Weel</surname> <given-names>KGC</given-names></name>, <name name-style="western"><surname>Boelrijk</surname> <given-names>AEM</given-names></name>, <name name-style="western"><surname>Alting</surname> <given-names>AC</given-names></name>, <name name-style="western"><surname>van Mil</surname> <given-names>P</given-names></name>, <name name-style="western"><surname>Burger</surname> <given-names>JJ</given-names></name>, <name name-style="western"><surname>Gruppen</surname> <given-names>H</given-names></name>, <etal>et al.</etal> <article-title>Flavor release and perception of flavored whey protein gels: Perception is determined by texture rather than by release</article-title>. <source>J Agr Food Chem</source>. <year>2002</year>;<volume>50</volume>(<issue>18</issue>):<fpage>5149</fpage>–<lpage>5155</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref030"><label>30</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Yarmolinsky</surname> <given-names>DA</given-names></name>, <name name-style="western"><surname>Zuker</surname> <given-names>CS</given-names></name>, <name name-style="western"><surname>Ryba</surname> <given-names>NJP</given-names></name>. <article-title>Common sense about taste: From mammals to insects</article-title>. <source>Cell</source>. <year>2009</year>;<volume>139</volume>(<issue>2</issue>):<fpage>234</fpage>–<lpage>244</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.cell.2009.10.001" xlink:type="simple">10.1016/j.cell.2009.10.001</ext-link></comment> <object-id pub-id-type="pmid">19837029</object-id></mixed-citation></ref>
+<ref id="pone.0138494.ref031"><label>31</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kader</surname> <given-names>F</given-names></name>, <name name-style="western"><surname>Rovel</surname> <given-names>B</given-names></name>, <name name-style="western"><surname>Metche</surname> <given-names>M</given-names></name>. <article-title>Role of invertase in sugar content in highbush blueberries (<italic>Vaccinium corymbosum</italic> L)</article-title>. <source>Food Sci Technol-Leb</source>. <year>1993</year>;<volume>26</volume>(<issue>6</issue>):<fpage>593</fpage>–<lpage>595</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref032"><label>32</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Darnell</surname> <given-names>RL</given-names></name>, <name name-style="western"><surname>Canomedrano</surname> <given-names>R</given-names></name>, <name name-style="western"><surname>Koch</surname> <given-names>KE</given-names></name>, <name name-style="western"><surname>Avery</surname> <given-names>ML</given-names></name>. <article-title>Differences in sucrose metabolism relative to accumulation of bird-deterrent sucrose levels in fruits of wild and domestic <italic>Vaccinium</italic> species</article-title>. <source>Physiol Plantarum.</source> <year>1994</year>;<volume>92</volume>(<issue>2</issue>):<fpage>336</fpage>–<lpage>342</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref033"><label>33</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Togari</surname> <given-names>N</given-names></name>, <name name-style="western"><surname>Kobayashi</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Aishima</surname> <given-names>T</given-names></name>. <article-title>Relating sensory properties of tea aroma to gas chromatographic data by chemometric calibration methods</article-title>. <source>Food Res Int</source>. <year>1995</year>;<volume>28</volume>(<issue>5</issue>):<fpage>485</fpage>–<lpage>493</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref034"><label>34</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hough</surname> <given-names>G</given-names></name>, <name name-style="western"><surname>Califano</surname> <given-names>AN</given-names></name>, <name name-style="western"><surname>Bertola</surname> <given-names>NC</given-names></name>, <name name-style="western"><surname>Bevilacqua</surname> <given-names>AE</given-names></name>, <name name-style="western"><surname>Martinez</surname> <given-names>E</given-names></name>, <name name-style="western"><surname>Vega</surname> <given-names>MJ</given-names></name>, <name name-style="western"><surname>Zaritzky</surname> <given-names>NE</given-names></name>. <article-title>Partial least squares correlations between sensory and instrumental measurements of flavor and texture for Reggianito grating cheese</article-title>. <source>Food Qual Prefer</source>. <year>1996</year>;<volume>7</volume>(<issue>1</issue>):<fpage>47</fpage>–<lpage>53</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref035"><label>35</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>de Kermadec</surname> <given-names>F</given-names></name>, <name name-style="western"><surname>Durand</surname> <given-names>JF</given-names></name>, <name name-style="western"><surname>Sabatier</surname> <given-names>R</given-names></name>. <article-title>Comparison between linear and nonlinear PLS methods to explain overall liking from sensory characteristics</article-title>. <source>Food Qual Prefer</source>. <year>1997</year>;<volume>8</volume>(<issue>5–6</issue>):<fpage>395</fpage>–<lpage>402</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref036"><label>36</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Toscas</surname> <given-names>PJ</given-names></name>, <name name-style="western"><surname>Shaw</surname> <given-names>FD</given-names></name>, <name name-style="western"><surname>Beilken</surname> <given-names>SL</given-names></name>. <article-title>Partial least squares (PLS) regression for the analysis of instrument measurements and sensory meat quality data</article-title>. <source>Meat Sci</source>. <year>1999</year>; <volume>52</volume>:<fpage>173</fpage>–<lpage>178</lpage>. <object-id pub-id-type="pmid">22062369</object-id></mixed-citation></ref>
+<ref id="pone.0138494.ref037"><label>37</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Tenenhaus</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Pages</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Ambroisine</surname> <given-names>L</given-names></name>, <name name-style="western"><surname>Guinot</surname> <given-names>C</given-names></name>. <article-title>PLS methodology to study relationships between hedonic judgements and product characteristics</article-title>. <source>Food Qual Prefer</source>. <year>2005</year>;<volume>16</volume>(<issue>4</issue>):<fpage>315</fpage>–<lpage>325</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref038"><label>38</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Moskowitz</surname> <given-names>H</given-names></name>. <article-title>Ratio scales of sugar sweetness</article-title>. <source>Percept Psychophys</source>. <year>1970</year>;<volume>7</volume>(<issue>5</issue>):<fpage>315</fpage>–<lpage>320</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref039"><label>39</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Moskowitz</surname> <given-names>H</given-names></name>. <article-title>Sweetness and pleasantness of sugars</article-title>. <source>Am J Psychol</source>. <year>1971</year>;<volume>84</volume>(<issue>3</issue>):<fpage>387</fpage>–<lpage>405</lpage>. <object-id pub-id-type="pmid">5142585</object-id></mixed-citation></ref>
+<ref id="pone.0138494.ref040"><label>40</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Mahawanich</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>Schmidt</surname> <given-names>SJ</given-names></name>. <article-title>Molecular mobility and the perceived sweetness of sucrose, fructose, and glucose solutions.</article-title> <source>Food Chem.</source> <year>2004</year>;<volume>84</volume>(<issue>2</issue>):<fpage>169</fpage>–<lpage>179</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref041"><label>41</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Vigues</surname> <given-names>S</given-names></name>, <name name-style="western"><surname>Dotson</surname> <given-names>CD</given-names></name>, <name name-style="western"><surname>Munger</surname> <given-names>SD</given-names></name>. <article-title>The receptor basis of sweet taste in mammals</article-title>. <source>Results Probl Cell Differ.</source> <year>2009</year>;<volume>47</volume>:<fpage>187</fpage>–<lpage>202</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/400_2008_2" xlink:type="simple">10.1007/400_2008_2</ext-link></comment> <object-id pub-id-type="pmid">19083128</object-id></mixed-citation></ref>
+<ref id="pone.0138494.ref042"><label>42</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Yu</surname> <given-names>TH</given-names></name>, <name name-style="western"><surname>Wu</surname> <given-names>CM</given-names></name>, <name name-style="western"><surname>Chen</surname> <given-names>SY</given-names></name>. <article-title>Effects of pH adjustment and heat-treatment on the stability and the formation of volatile compounds of garlic</article-title>. <source>J Agr Food Chem</source>. <year>1989</year>;<volume>37</volume>(<issue>3</issue>):<fpage>730</fpage>–<lpage>734</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref043"><label>43</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Niimura</surname> <given-names>Y</given-names></name>. <article-title>Olfactory receptor multigene family in vertebrates: From the viewpoint of evolutionary genomics</article-title>. <source>Curr Genomics</source>. <year>2012</year>;<volume>13</volume>(<issue>2</issue>):<fpage>103</fpage>–<lpage>114</lpage>. <object-id pub-id-type="pmid">23024602</object-id></mixed-citation></ref>
+<ref id="pone.0138494.ref044"><label>44</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hongsoongnern</surname> <given-names>P</given-names></name>, <name name-style="western"><surname>Chambers</surname> <given-names>E</given-names></name>. <article-title>A lexicon for green odor or flavor and characteristics of chemicals associated with green</article-title>. <source>J Sens Stud</source>. <year>2008</year>;<volume>23</volume>(<issue>2</issue>):<fpage>205</fpage>–<lpage>221</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref045"><label>45</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Ryan</surname> <given-names>D</given-names></name>, <name name-style="western"><surname>Prenzler</surname> <given-names>PD</given-names></name>, <name name-style="western"><surname>Saliba</surname> <given-names>AJ</given-names></name>, <name name-style="western"><surname>Scollary</surname> <given-names>GR</given-names></name>. <article-title>The significance of low impact odorants in global odour perception</article-title>. <source>Trends Food Sci Tech</source>. <year>2008</year>;<volume>19</volume>(<issue>7</issue>):<fpage>383</fpage>–<lpage>389</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref046"><label>46</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Golebiowski</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Ostrowski</surname> <given-names>B</given-names></name>, <name name-style="western"><surname>Paszkiewicz</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Czerwicka</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Kumirska</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Halinski</surname> <given-names>L</given-names></name>, <etal>et al.</etal> <article-title>Chemical composition of commercially available essential oils from blackcurrant, ginger, and peppermint.</article-title> <source>Chem Nat Compd.</source> <year>2008</year>;<volume>44</volume>(<issue>6</issue>):<fpage>794</fpage>–<lpage>796</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref047"><label>47</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Murthy</surname> <given-names>CT</given-names></name>, <name name-style="western"><surname>Bhattacharya</surname> <given-names>S</given-names></name>. <article-title>Cryogenic grinding of black pepper.</article-title> <source>J Food Eng</source>. <year>2008</year>;<volume>85</volume>(<issue>1</issue>):<fpage>18</fpage>–<lpage>28</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref048"><label>48</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Van Opstaele</surname> <given-names>F</given-names></name>, <name name-style="western"><surname>Praet</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>Aerts</surname> <given-names>G</given-names></name>, <name name-style="western"><surname>De Cooman</surname> <given-names>L</given-names></name>. <article-title>Characterization of novel single-variety oxygenated sesquiterpenoid hop oil fractions via headspace solid-phase microextraction and gas chromatography-mass spectrometry/olfactometry</article-title>. <source>J Agr Food Chem</source>. <year>2013</year>;<volume>61</volume>(<issue>44</issue>):<fpage>10555</fpage>–<lpage>10564</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref049"><label>49</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Dimick</surname> <given-names>PS</given-names></name>, <name name-style="western"><surname>Hoskin</surname> <given-names>JC</given-names></name>. <article-title>Review of apple flavor–State of the art</article-title>. <source>CRC Cr Rev Food Sci</source>. <year>1983</year>;<volume>18</volume>(<issue>4</issue>):<fpage>387</fpage>–<lpage>409</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref050"><label>50</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Larsen</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Poll</surname> <given-names>L</given-names></name>. <article-title>Odor thresholds of some important aroma compounds in strawberries</article-title>. <source>Z Lebensm Unters For</source>. <year>1992</year>;<volume>195</volume>(<issue>2</issue>):<fpage>120</fpage>–<lpage>123</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref051"><label>51</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Werkhoff</surname> <given-names>P</given-names></name>, <name name-style="western"><surname>Guntert</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Krammer</surname> <given-names>G</given-names></name>, <name name-style="western"><surname>Sommer</surname> <given-names>H</given-names></name>, <name name-style="western"><surname>Kaulen</surname> <given-names>J</given-names></name>. <article-title>Vacuum headspace method in aroma research: Flavor chemistry of yellow passion fruits.</article-title> <source>J Agric Food Chem</source>. <year>1998</year>;<volume>46</volume>(<issue>3</issue>):<fpage>1076</fpage>–<lpage>1093</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref052"><label>52</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Schieberle</surname> <given-names>P</given-names></name>, <name name-style="western"><surname>Grosch</surname> <given-names>W</given-names></name>. <article-title>Identification of potent flavor compounds formed in an aqueous lemon citric-acid emulsion</article-title>. <source>J Agr Food Chem</source>. <year>1988</year>;<volume>36</volume>(<issue>4</issue>):<fpage>797</fpage>–<lpage>800</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref053"><label>53</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Parliament</surname> <given-names>TH</given-names></name>, <name name-style="western"><surname>Kolor</surname> <given-names>MG</given-names></name>. <article-title>Identification of the major volatile components of blueberry</article-title>. <source>J Food Sci</source>. <year>1975</year>;<volume>40</volume>:<fpage>762</fpage>–<lpage>763</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref054"><label>54</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Hirvi</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>Honkanen</surname> <given-names>E</given-names></name>. <article-title>The aroma of blueberries</article-title>. <source>J Sci Food Agr</source>. <year>1983</year>;<volume>34</volume>(<issue>9</issue>):<fpage>992</fpage>–<lpage>996</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref055"><label>55</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Horvat</surname> <given-names>RJ</given-names></name>, <name name-style="western"><surname>Senter</surname> <given-names>SD</given-names></name>. <article-title>Comparison of volatile constituents from rabbiteye blueberries (<italic>Vaccinium ashei</italic>) during ripening</article-title>. <source>J Food Sci.</source> <year>1985</year>;<volume>50</volume>(<issue>2</issue>):<fpage>429</fpage>–<lpage>431</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref056"><label>56</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Klesk</surname> <given-names>K</given-names></name>, <name name-style="western"><surname>Qian</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Martin</surname> <given-names>RR</given-names></name>. <article-title>Aroma extract dilution analysis of cv. Meeker (<italic>Rubus idaeus</italic> L.) red raspberries from Oregon and Washington</article-title>. <source>J Agr Food Chem</source>. <year>2004</year>;<volume>52</volume>(<issue>16</issue>):<fpage>5155</fpage>–<lpage>5161</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref057"><label>57</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Qian</surname> <given-names>MC</given-names></name>, <name name-style="western"><surname>Wang</surname> <given-names>YY</given-names></name>. <article-title>Seasonal variation of volatile composition and odor activity value of 'Marion' (<italic>Rubus spp</italic>. hyb) and 'Thornless Evergreen' (<italic>R</italic>. <italic>laciniatus</italic> L.) blackberries</article-title>. <source>J Food Sci.</source> <year>2005</year>;<volume>70</volume>(<issue>1</issue>):<fpage>C13</fpage>–<lpage>C20</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref058"><label>58</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Benn</surname> <given-names>SM</given-names></name>, <name name-style="western"><surname>Peppard</surname> <given-names>TL</given-names></name>. <article-title>Characterization of tequila flavor by instrumental and sensory analysis</article-title>. <source>J Agr Food Chem.</source> <year>1996</year>;<volume>44</volume>(<issue>2</issue>):<fpage>557</fpage>–<lpage>566</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref059"><label>59</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Wang</surname> <given-names>L</given-names></name>, <name name-style="western"><surname>Xu</surname> <given-names>Y</given-names></name>, <name name-style="western"><surname>Zhao</surname> <given-names>G</given-names></name>, <name name-style="western"><surname>Li</surname> <given-names>J</given-names></name>. <article-title>Rapid analysis of flavor volatiles in apple wine using headspace solid-phase microextraction</article-title>. <source>J I Brewing</source>. <year>2004</year>;<volume>110</volume>(<issue>1</issue>):<fpage>57</fpage>–<lpage>65</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref060"><label>60</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Styger</surname> <given-names>G</given-names></name>, <name name-style="western"><surname>Prior</surname> <given-names>B</given-names></name>, <name name-style="western"><surname>Bauer</surname> <given-names>FF</given-names></name>. <article-title>Wine flavor and aroma.</article-title> <source>J Ind Microbiol Biot</source>. <year>2011</year>;<volume>38</volume>(<issue>9</issue>):<fpage>1145</fpage>–<lpage>1159</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref061"><label>61</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Rohloff</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Nestby</surname> <given-names>R</given-names></name>, <name name-style="western"><surname>Folkestad</surname> <given-names>JA</given-names></name>, <name name-style="western"><surname>Iversen</surname> <given-names>TH</given-names></name>. <article-title>Influence of rain cover cultivation on taste and aroma quality of strawberries (<italic>Fragaria ananassa</italic> Duch.)</article-title>. <source>J Food Agric Environ</source>. <year>2004</year>;<volume>2</volume>(<issue>2</issue>):<fpage>74</fpage>–<lpage>82</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref062"><label>62</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Figueiredo</surname> <given-names>AC</given-names></name>, <name name-style="western"><surname>Barroso</surname> <given-names>JG</given-names></name>, <name name-style="western"><surname>Pedro</surname> <given-names>LG</given-names></name>, <name name-style="western"><surname>Scheffer</surname> <given-names>JJC</given-names></name>. <article-title>Factors affecting secondary metabolite production in plants: volatile components and essential oils</article-title>. <source>Flavour Frag J</source>. <year>2008</year>;<volume>23</volume>(<issue>4</issue>):<fpage>213</fpage>–<lpage>226</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref063"><label>63</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Pirbalouti</surname> <given-names>AG</given-names></name>, <name name-style="western"><surname>Hashemi</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Ghahfarokhi</surname> <given-names>FT</given-names></name>. <article-title>Essential oil and chemical compositions of wild and cultivated <italic>Thymus daenensis</italic> Celak and <italic>Thymus vulgaris</italic> L</article-title>. <source>Ind Crop Prod</source>. <year>2013</year>;<volume>48</volume>:<fpage>43</fpage>–<lpage>48</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref064"><label>64</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Samykanno</surname> <given-names>K</given-names></name>, <name name-style="western"><surname>Pang</surname> <given-names>E</given-names></name>, <name name-style="western"><surname>Marriott</surname> <given-names>PJ</given-names></name>. <article-title>Genotypic and environmental effects on flavor attributes of 'Albion' and 'Juliette' strawberry fruits</article-title>. <source>Sci Hortic</source>. <year>2013</year>;<volume>164</volume>:<fpage>633</fpage>–<lpage>642</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref065"><label>65</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Paterson</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Kassim</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>McCallum</surname> <given-names>S</given-names></name>, <name name-style="western"><surname>Woodhead</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Smith</surname> <given-names>K</given-names></name>, <name name-style="western"><surname>Zait</surname> <given-names>D</given-names></name>, <name name-style="western"><surname>Graham</surname> <given-names>J</given-names></name>. <article-title>Environmental and seasonal influences on red raspberry flavour volatiles and identification of quantitative trait loci (QTL) and candidate genes</article-title>. <source>Theor Appl Genet</source>. <year>2013</year>;<volume>126</volume>(<issue>1</issue>):<fpage>33</fpage>–<lpage>48</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s00122-012-1957-9" xlink:type="simple">10.1007/s00122-012-1957-9</ext-link></comment> <object-id pub-id-type="pmid">22890807</object-id></mixed-citation></ref>
+<ref id="pone.0138494.ref066"><label>66</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Wolken</surname> <given-names>WAM</given-names></name>, <name name-style="western"><surname>van der Werf</surname> <given-names>MJ</given-names></name>. <article-title>Geraniol biotransformation-pathway in spores of Penicillium digitatum</article-title>. <source>Appl Microbiol Biot</source>. <year>2001</year>;<volume>57</volume>(<issue>5–6</issue>):<fpage>731</fpage>–<lpage>737</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref067"><label>67</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Franke</surname> <given-names>W</given-names></name>, <name name-style="western"><surname>Platzeck</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Eichhorn</surname> <given-names>G</given-names></name>. <article-title>On the knowledge of fatty acid catabolism by mold fungi. III. On a decarboxylase for average beta-ketomonocarbonic acids (beta-ketolaurate decarboxylase)</article-title>. <source>Arch Microbiol</source>. <year>1961</year>;<volume>40</volume>:<fpage>73</fpage>–<lpage>93</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref068"><label>68</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Bohlmann</surname> <given-names>J</given-names></name>, <name name-style="western"><surname>Meyer-Gauen</surname> <given-names>G</given-names></name>, <name name-style="western"><surname>Croteau</surname> <given-names>R</given-names></name>. <article-title>Plant terpenoid synthases: Molecular biology and phylogenetic analysis</article-title>. <source>P Nat Acad Sci USA</source>. <year>1998</year>;<volume>95</volume>(<issue>8</issue>):<fpage>4126</fpage>–<lpage>4133</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref069"><label>69</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Badoc</surname> <given-names>A</given-names></name>, <name name-style="western"><surname>Lamarti</surname> <given-names>A</given-names></name>. <article-title>A chemotaxic evaluation of <italic>Anethum graveolens</italic> L. (dill) of various origins</article-title>. <source>J Essent Oil Res</source>. <year>1991</year>;<volume>3</volume>:<fpage>269</fpage>–<lpage>278</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref070"><label>70</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Olender</surname> <given-names>T</given-names></name>, <name name-style="western"><surname>Waszak</surname> <given-names>SM</given-names></name>, <name name-style="western"><surname>Viavant</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Khen</surname> <given-names>M</given-names></name>, <name name-style="western"><surname>Ben-Asher</surname> <given-names>E</given-names></name>, <name name-style="western"><surname>Reyes</surname> <given-names>A</given-names></name>, <etal>et al.</etal> <article-title>Personal receptor repertoires: olfaction as a model</article-title>. <source>BMC Genomics</source>. <year>2012</year>;<volume>13</volume>:<fpage>16</fpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref071"><label>71</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Bartoshuk</surname> <given-names>LM</given-names></name>, <name name-style="western"><surname>Duffy</surname> <given-names>V</given-names></name>, <name name-style="western"><surname>Green</surname> <given-names>BG</given-names></name>, <name name-style="western"><surname>Hoffman</surname> <given-names>HJ</given-names></name>, <name name-style="western"><surname>Ko</surname> <given-names>CW</given-names></name>, <name name-style="western"><surname>Lucchina</surname> <given-names>LA</given-names></name>, <etal>et al.</etal> <article-title>Valid across-group comparisons with labeled scales: the gLMS versus magnitude matching</article-title>. <source>Physiol Behav</source>. <year>2004</year>;<volume>82</volume>(<issue>1</issue>):<fpage>109</fpage>–<lpage>114</lpage>. <object-id pub-id-type="pmid">15234598</object-id></mixed-citation></ref>
+<ref id="pone.0138494.ref072"><label>72</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Bartoshuk</surname> <given-names>LM</given-names></name>, <name name-style="western"><surname>Fast</surname> <given-names>K</given-names></name>, <name name-style="western"><surname>Snyder</surname> <given-names>DJ</given-names></name>. <article-title>Differences in our sensory—Invalid comparisons with labeled scales</article-title>. <source>Curr Dir Psychol Sci</source>. <year>2005</year>;<volume>14</volume>(<issue>3</issue>):<fpage>122</fpage>–<lpage>125</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref073"><label>73</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Troje</surname> <given-names>ZS</given-names></name>, <name name-style="western"><surname>Frobe</surname> <given-names>Z</given-names></name>, <name name-style="western"><surname>Perovic</surname> <given-names>D</given-names></name>. <article-title>Analysis of selected alkaloids and sugars in tobacco extract</article-title>. <source>J Chromatogr A</source>. <year>1997</year>;<volume>775</volume>:<fpage>101</fpage>–<lpage>107</lpage>.</mixed-citation></ref>
+<ref id="pone.0138494.ref074"><label>74</label><mixed-citation publication-type="journal" xlink:type="simple"><name name-style="western"><surname>Kenward</surname> <given-names>MG</given-names></name>, <name name-style="western"><surname>Roger</surname> <given-names>JH</given-names></name>. <article-title>Small sample inference for fixed effects from restricted maximum likelihood</article-title>. <source>Biometrics</source>. <year>1997</year>;<volume>53</volume>(<issue>3</issue>):<fpage>983</fpage>–<lpage>997</lpage>. <object-id pub-id-type="pmid">9333350</object-id></mixed-citation></ref>
+</ref-list>
+</back>
+</article>
