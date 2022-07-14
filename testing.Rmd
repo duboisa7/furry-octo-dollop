@@ -35,15 +35,15 @@ library(rscala)
 
 ### FOR MAC/LINUX ###
 #system function allows you to run command line functions
-#pdfs <- system("ls -1 /Blueberry/PDFs/*.pdf", intern = T)
+pdfs <- system("ls -1 PDFs/*.pdf", intern = T)
 
 ### FOR WINDOWS ###
 #create a list of all the PDF documents
-pdfs <- dir("C:/Users/duboisa7/Documents/GitKraken/BB/Blueberry/PDFs",
-             full.names = T,
-             recursive = T,
-             pattern = "*.pdf") %>%
-  as.list()
+#pdfs <- dir("C:/Users/duboisa7/Documents/GitKraken/BB/Blueberry/PDFs",
+#             full.names = T,
+#             recursive = T,
+#             pattern = "*.pdf") %>%
+#  as.list()
 
 
 
@@ -98,10 +98,8 @@ pdf.info <- do.call(rbind, temp) %>%
 
 ```{r pull tables}
 
-test <- "https://github.com/ropensci/tabulizer/raw/master/inst/examples/data.pdf"
 
 
-pdf_data()
 
 ```
 
