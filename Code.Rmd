@@ -35,7 +35,7 @@ library(stringr)
 
 # all folder and file names cannot contain any spaces for parsing with Grobid so they should be adjusted before copying into the virtual environment 
 
-system(bash c- "cp /mnt/c/Users/mayhe/Documents/Database/PDFs/ /home/msufsl/grobid_client_python/resources/PDFs/")
+system("wsl" "cp /mnt/c/Users/mayhe/Documents/Database/PDFs/ /home/msufsl/grobid_client_python/resources/PDFs/", wait = TRUE, invisible = FALSE, intern = TRUE, ignore.stdout = FALSE, ignore.stderr = FALSE)
 
 
 
