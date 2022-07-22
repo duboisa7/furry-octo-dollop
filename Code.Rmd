@@ -24,12 +24,12 @@ library(xml2)
 library(flatxml)
 library(xmlconvert)
 library(stringr)
+library(XML)
+
 
 ```
 
 ## Copy PDFs from project folder to WSL
-
-
 
 ``` {r copy PDFs to virtual environment}
 
@@ -40,7 +40,6 @@ system("wsl" "cp /mnt/c/Users/mayhe/Documents/Database/PDFs/ /home/msufsl/grobid
 
 
 ```
-
 
 ## Start up the Grobid server
 
@@ -74,18 +73,107 @@ system(bash -c "python3 grobidtest3.py", show.output.on.console = TRUE, minimize
 
 ```
 
-## Import XMLs
+## Function to Extract XML data
 
-```{r import XML files}
+```{r function to extract XML data}
 
-p3test <- read_xml("XMLs/pdf3.tei.xml")
+#Create a function to read in all XML files and extract front page info
+info.fun <- function(XMLs){
+  
+  rawXML <- fxml_importXMLFlat(XMLs)
+  
+#extract title
+title <- rawXML %>%
+  filter(level3 == "fileDesc", level4 == "titleStmt", level5 == "title", elem. == "title", is.na(attr.)) %>%
+   select(-c(level1, level2, level3, level4, level5, level6, level7, level8, level9, level10, attr.))
 
-xmlchildren<- xml_children(p3test)
+#extract authors
+authors <- rawXML %>%
+  filter(level3 == "fileDesc", level4 == "sourceDesc", level5 == "biblStruct", level8 == "persName", value. != "NA", value. != "first", value. != "middle") %>%
+  select(-c(level1, level2, level3, level4, level5, level6, level7, level8, level9, level10, attr.))
 
-xmlns<- xml_ns(p3test)
+#extract doi
+doi <- rawXML %>%
+  filter(level3 == "fileDesc", level6 == "idno", is.na(attr.))
 
-authors <- xml_find_all(p3test, ".//d1:author")
+doi <- doi[str_detect(doi$value., "^10"), ] %>%
+  select(-c(level1, level2, level3, level4, level5, level6, level7, level8, level9, level10, attr.))
+  
+#extract published date
+year <- rawXML %>%
+  filter(level3 == "fileDesc", level5 == "biblStruct", level8 == "date", attr. == "when") %>%
+  select(-c(level1, level2, level3, level4, level5, level6, level7, level8, level9, level10, attr.))  
+
+return(result <- bind_rows(year, title, authors, doi) %>%
+ select(-elemid.) %>%
+  pivot_wider(names_from = elem., values_from = value.) %>%
+  select(-forename) %>%
+  rename(Authors = surname,
+         Published = date,
+         Title = title, 
+         DOI = idno))  
+
+}
 
 
+```
+
+##Use lapply to apply function that reads XMLs and extracts data
+```{r lapply}
+
+#Create list of all XMLs to process
+xmls <- dir("C:/Users/mayhe/Documents/Database/Database/XMLs",
+             full.names = T,
+             recursive = T,
+             pattern = "*.xml") %>%
+  as.list()
+
+temp <- lapply(xmls, FUN = info.fun)
+
+frontinfo <- do.call(rbind, temp)
+
+
+```
+
+##Manual Extraction (Don't Use)
+```{r manual extraction}
+
+#create dataframe from imported XML  
+p3df <- fxml_importXMLFlat("XMLs/pdf3.tei.xml")
+
+#extract title
+title <- p3df %>%
+  filter(level3 == "fileDesc", level4 == "titleStmt", level5 == "title", elem. == "title", is.na(attr.)) %>%
+   select(-c(level1, level2, level3, level4, level5, level6, level7, level8, level9, level10, attr.))
+
+#extract authors
+authors <- p3df %>%
+  filter(level3 == "fileDesc", level4 == "sourceDesc", level5 == "biblStruct", level8 == "persName", value. != "NA", value. != "first", value. != "middle") %>%
+  select(-c(level1, level2, level3, level4, level5, level6, level7, level8, level9, level10, attr.))
+
+#extract doi
+doi <- p3df %>%
+  filter(level3 == "fileDesc", level6 == "idno", is.na(attr.))
+
+doi <- doi[str_detect(doi$value., "^10"), ] %>%
+  select(-c(level1, level2, level3, level4, level5, level6, level7, level8, level9, level10, attr.))
+  
+  
+#extract published date
+year <- p3df %>%
+  filter(level3 == "fileDesc", level5 == "biblStruct", level8 == "date", attr. == "when") %>%
+  select(-c(level1, level2, level3, level4, level5, level6, level7, level8, level9, level10, attr.))
+
+#combine data into new frame for all front page info
+manualinfo <- bind_rows(year, title, authors, doi) %>%
+ select(-elemid.) %>%
+  pivot_wider(names_from = elem., values_from = value.) %>%
+  select(-forename) %>%
+  rename(Authors = surname,
+         Published = date,
+         Title = title, 
+         DOI = idno)
+
+remove(authors, doi, year, title)
 
 ```
