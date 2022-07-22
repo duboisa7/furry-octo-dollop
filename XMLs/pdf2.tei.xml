@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Correlation of consumer perception of stickiness and contributing texture attributes to trained panelist temporal evaluations in a caramel system</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability status="unknown"><p>Copyright Elsevier BV</p>
+				</availability>
+				<date type="published" when="2017-11-26">26 November 2017</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Emily</forename><forename type="middle">J</forename><surname>Mayhew</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Illinois at Urbana-Champaign</orgName>
+								<address>
+									<addrLine>399A Bevier Hall, 905 S Goodwin Ave</addrLine>
+									<postCode>61801</postCode>
+									<settlement>Urbana</settlement>
+									<region>IL</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Shelly</forename><forename type="middle">J</forename><surname>Schmidt</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">University of Illinois at Urbana-Champaign</orgName>
+								<address>
+									<addrLine>367 Bevier Hall, 905 S Goodwin Ave</addrLine>
+									<postCode>61801</postCode>
+									<settlement>Urbana</settlement>
+									<region>IL</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Pascal</forename><surname>Schlich</surname></persName>
+							<email>pascal.schlich@inra.fr</email>
+							<affiliation key="aff2">
+								<orgName type="department">Centre des Sciences du Goût et de l&apos;Alimentation</orgName>
+								<orgName type="institution" key="instit1">CNRS</orgName>
+								<orgName type="institution" key="instit2">INRA</orgName>
+								<orgName type="institution" key="instit3">Univ. Bourgogne Franche-Comté</orgName>
+								<address>
+									<addrLine>9E Boulevard Jeanne d&apos;Arc</addrLine>
+									<postCode>F-21000</postCode>
+									<settlement>Dijon</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Soo-Yeun</forename><surname>Lee</surname></persName>
+							<email>soolee@illinois.edu</email>
+							<affiliation key="aff3">
+								<orgName type="institution">University of Illinois at Urbana-Champaign</orgName>
+								<address>
+									<addrLine>351 Bevier Hall MC-182, 905 S Goodwin Ave</addrLine>
+									<postCode>61801</postCode>
+									<settlement>Urbana</settlement>
+									<region>IL</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Correlation of consumer perception of stickiness and contributing texture attributes to trained panelist temporal evaluations in a caramel system</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Food Quality and Preference</title>
+						<title level="j" type="abbrev">Food Quality and Preference</title>
+						<idno type="ISSN">0950-3293</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">65</biblScope>
+							<biblScope unit="page" from="72" to="80"/>
+							<date type="published" when="2017-11-26">26 November 2017</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">995CECED2FAF56AE3077C77E22FE1429</idno>
+					<idno type="DOI">10.1016/j.foodqual.2017.11.009</idno>
+					<note type="submission">Received 17 February 2017; Received in revised form 27 October 2017; Accepted 24 November 2017</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-20T20:36+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Caramel Stickiness Texture Temporal Dominance of Sensation Check-All-That-Apply Consumer testing</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Stickiness is a critical, but complex attribute with relevance to many food systems. Consumer perception of stickiness is subjective and variable; however, stickiness ratings and texture insights from trained panels are often used to make decisions about consumer products. Our objectives were to correlate trained panel evaluations to consumer perception of stickiness and to identify texture attributes that contribute to stickiness. Nine diverse caramel samples were assessed by two panels. First, trained panelists participated in texture term generation, Temporal Dominance of Sensation (TDS), and tactile and oral stickiness intensity rating. Next, 75 consumers participated in a two-part test: first, they completed a Check-All-That-Apply (CATA) exercise with the TDS panel-generated terms; second, they rated each sample for overall tactile and oral stickiness intensity. Trained panelist and consumer stickiness ratings were then correlated to each other and to TDS parameters for each attribute. Consumers and trained panelists showed good agreement in tactile (r = 0.85, p &lt; .01) and oral (r = 0.94, p &lt; .001) stickiness ratings. Samples presenting high levels of tacky, stringy, and enveloping attributes were rated the stickiest. A subset of attributes, including toothpacking and deformable, correlated positively with stickiness when multiple selections were permitted (CATA) and negatively when only one selection was permitted (TDS). This contradiction suggests two tiers of stickiness-contributing attributes; tier-two attributes (toothpacking, deformable, cohesive) increased stickiness perception, but less so than tier-one attributes (tacky, stringy, enveloping). Identification of texture factors that most strongly relate to consumer perception of stickiness will enable informed testing of stickiness properties and formulation of sticky products.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>The prevalent application of trained panelist data to explaining or predicting consumer preferences and perceptions has sparked an interest in the relevance of trained panel data to the consumer experience, as well as in the ability of consumers to provide robust descriptive data <ref type="bibr">(Ares et al., 2015;</ref><ref type="bibr" target="#b10">Gómez, Fiorenza, Izquierdo, &amp; Costell, 1998;</ref><ref type="bibr" target="#b11">Hersleth, Berggren, Westad, &amp; Martens, 2005;</ref><ref type="bibr" target="#b27">Worch, Le, &amp; Punter, 2010)</ref>. Conclusions concerning the relative validity of descriptive consumer data have differed depending on products and attributes tested, sensory testing and data analysis methodologies used, and researcher perspective on acceptable variability. Product complexity has also been cited as a key factor in determining the ability of consumers to generate consistent and meaningful sensory data <ref type="bibr">(Ares et al., 2015)</ref>.</p><p>A prevalent and impactful complex sensory attribute, sticky texture has been the subject of much research and discussion, but little consensus <ref type="bibr" target="#b14">(Kilcast &amp; Roberts, 1998)</ref>. Stickiness of foods has often been associated with dental adhesion; however, previous research has shown a lack of correlation between perceived stickiness and degree of food retention on oral surfaces <ref type="bibr" target="#b13">(Kashket, Van Houte, Lopez, &amp; Stocks, 1991)</ref>. Stickiness has been studied and quantified in numerous sensory panels, in which the definitions and reference samples used to describe sticky texture differ as widely as the products assessed. This variation is due to the impact of food context on the meaning of stickiness: stickiness in cream cheese has been defined as the "amount of sample that adheres to the palate," while in rice it has been defined as the "degree to which the grains adhere together" <ref type="bibr" target="#b4">(Brighenti, Govindasamy-Lucey, Lim, Nelson, &amp; Lucey, 2008;</ref><ref type="bibr" target="#b24">Rousset, Pons, &amp; Martin, 1999)</ref>.</p><p>In addition to the strong influence of food context, the understanding and assessment of sticky texture in foods is also challenged by the multifaceted nature of stickiness. Sticky texture has been attributed to a combination of a variety of factors, including adhesiveness, cohesiveness, viscosity, chewiness, and moisture content <ref type="bibr" target="#b0">(Adhikari, Howes, Bhandari, &amp; Truong, 2001;</ref><ref type="bibr" target="#b5">Caldwell, 1970)</ref>. The degree to which these and other factors influence total stickiness perception is not yet well understood. Even the most straightforward facet of stickiness, surface adhesiveness, is not simple to evaluate via a single measurement, as people use a variety of processes and body surfaces to interact with and assess foods, including touching or chewing with hands, tongue, teeth, and other oral surfaces <ref type="bibr" target="#b0">(Adhikari et al., 2001;</ref><ref type="bibr" target="#b12">Jowitt, 1974)</ref>.</p><p>Nonetheless, stickiness is frequently measured both instrumentally and by sensory panels <ref type="bibr" target="#b4">(Brighenti et al., 2008;</ref><ref type="bibr" target="#b6">Chung, Ruan, Chen, &amp; Wang, 1999;</ref><ref type="bibr" target="#b24">Rousset et al., 1999;</ref><ref type="bibr" target="#b25">Silalai &amp; Roos, 2011;</ref><ref type="bibr" target="#b26">Steiner, Foegeding, &amp; Drake, 2003)</ref>. Descriptive methodologies, such as Spectrum and Quantitative Descriptive Analysis (QDA), are commonly used to measure sensory stickiness, but these methods may introduce bias or reduce the dimensionality in the assessment of stickiness through use of a narrow definition or specific reference product during training. As a result of this focused training, the quantification of sample stickiness may instead be a quantification of the degree to which the stickiness of the sample resembles that of the reference product or the degree to which it fits the given definition of stickiness.</p><p>In this study, a diverse group of sensory methods were selected in order to maximize the amount of information gathered on stickiness and sample texture, while minimizing the bias and restrictions placed on panelists when assessing the overall stickiness of samples. Texture attributes related to stickiness were assessed both cumulatively, i.e., evaluated as perceived in total during mastication, through the Check-All-That-Apply (CATA) method, and temporally, i.e., assessed dynamically over time throughout the mastication process, using the Temporal Dominance of Sensations (TDS) method <ref type="bibr" target="#b22">(Pineau et al., 2009;</ref><ref type="bibr" target="#b21">Pineau, Cordelle, &amp; Schlich, 2003)</ref>. A temporal sensory method, like TDS, has the potential to provide a more complete understanding of texture attributes, which are perceived dynamically as foods are orally processed. Caramel samples formulated to present a diverse range of textures were utilized in this study. Texture profiles of the caramel samples were modified through replacement of sucrose with one of four common commercial sugar alcohols (isomalt, maltitol, mannitol, or sorbitol) with varied thermal properties. Many types of food components and products may be categorized as caramel; in this case, a model system analogous to the caramel coating used in caramel popcorn products and composed primarily of sugars and lipids was used. Caramel samples provide a logical model system due to the importance of stickiness to signature caramel texture and the importance of texture to appreciation of caramel products <ref type="bibr" target="#b18">(Mendenhall &amp; Hartel, 2014;</ref><ref type="bibr" target="#b26">Steiner et al., 2003)</ref>. The importance of stickiness and texture to consumers in caramel products underscores the importance of validating the relevance of trained panelist data to consumer perception of stickiness.</p><p>The first objective of this study was to relate consumer and trained panelist perceptions of stickiness in a caramel system. We hypothesized that consumers and trained panelists would agree in stickiness rating trends but would differ in scale usage. In order to deepen understanding and articulation of the texture facets of stickiness in foods, the second objective of this study was to identify texture attributes that contribute to stickiness perception. We hypothesized that stickiness would be positively influenced by multiple texture attributes related to the cohesive and adhesive properties of the material.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Materials and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Caramel preparation</head><p>Nine distinct caramel formulas were produced in this study. In a previous study, caramel popcorn products were characterized and categorized into three dominant categories, from which three caramel coating model systems were developed <ref type="bibr" target="#b16">(Mayhew, Schmidt, &amp; Lee, 2016)</ref>. This study utilizes one of the three model systems, the "Large-scale Dark" formula, so named because of the large-scale production and national distribution and the dark color and flavor profile of the products comprising the category. The formula of the Large-scale Dark model system is described in Table <ref type="table" target="#tab_0">1</ref>. Control full-sugar batches were formulated with brown sugar and corn syrup, while reduced sugar batches replaced 25 or 50% of the total sugar with one of four sugar alcohols: isomalt, maltitol, mannitol, or sorbitol. The mass of the total sugar was calculated as the sum of the mass of brown sugar and the mass of sugars contributed by the corn syrup; however, only brown sugar was replaced by sugar alcohols in the reduced sugar formulas in order to maintain a consistent concentration of the non-sugar components of corn syrup. Samples were coded to designate the formula type, sugar replacer, and sugar replacement level. The sugar replacer codes include C for control, or no sugar replacer, I for isomalt, M for maltitol, N for mannitol, and S for sorbitol. Sugar replacement levels are indicated by the number of the percent replacement: 0 for 0% sugar replacement, 25 for 25% sugar replacement, and 50 for 50% sugar replacement. In the production of each sample, all ingredients except for baking soda were added to a stainless steel pan and stirred constantly while heated on a gas range to a final temperature of 150 °C, which corresponds to the "hard crack" stage of sugar cooking. Throughout the cooking process, the temperature was monitored with a high accuracy Traceable® thermocouple (Thermo Fisher Scientific Company, Waltham, Massachusetts, U.S.A.). After the final temperature was achieved, baking soda was whisked in for 15 s, samples were poured into silicon molds (WOOTOP, Shenzhen, Guangdon, China), covered with aluminum foil, and allowed to cool at 22 °C. Resultant 1.0 cm 3 caramel sample cubes were then vacuum sealed and stored in an opaque and lidded tub to limit changes in sample moisture content and minimize lipid oxidation. One batch of each sample was produced for Temporal Dominance of Sensation (TDS) panel training, while a second batch was produced for both TDS and consumer test data collection.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Temporal Dominance of Sensation testing and trained evaluation of stickiness</head><p>Forty-one panelists were recruited through on-campus advertisements to participate in a two-part screening procedure, administered using Qualtrics (Qualtrics, Provo, UT, U.S.A.), screening panelists for subjects with good oral health, non-smoking status, lack of allergies to common food ingredients, ability to discriminate between and generate meaningful texture descriptors for caramel samples, and consistent availability. Out of the 41 screened, 16 panelists (11 female, 5 male, ages 22-45 y.) passed the screening procedure and elected to join the Temporal Dominance of Sensation (TDS) study. Panelists met as a group for one hour each day for the first eight days of the study to receive training on descriptive and TDS methodology, to generate texture terms, definitions, and related qualitative references that described the texture of the caramel coating system samples, and to practice selecting the most dominant texture attributes as they arose during the mastication process. During training sessions, four sample cubes (1.0 cm 3 )  <ref type="table" target="#tab_1">2</ref>). Subsequently, terms were divided into three researcher-designated attribute categories: terms relating to the break versus bend behavior of samples, including brittle, crumbly, and deformable, terms relating to the adhesiveness of samples, including enveloping, tacky, and toothpacking, and terms related to the cohesiveness of samples, including cohesive. The final term, stringy, was categorized as related to both adhesive and cohesive properties. Attribute categorization was conducted to guide interpretation of the hypothesis, but was not shared with panelists.</p><p>On days 9 and 10, panelists participated in individual practice sessions to familiarize themselves with the test procedure and software system. The TimeSens panelist interface includes a start and stop button, as well as a grid of buttons for each attribute included in the study. Panelists were instructed to click the start button at the moment they begin mastication, then click successively on attributes as they arise as the dominant attribute, and finally click the stop button when mastication is complete. All 8 texture attributes presented in Table <ref type="table" target="#tab_1">2</ref> were included as possible dominant attributes in each TDS evaluation.</p><p>Sample evaluation for the TDS study occurred over two days (day 11 and 12) in three 30-min sessions. Panelists were served one sample cube (1.0 cm 3 ) for each test sample in a lidded 29.5 mL cup with a random three-digit code. Panelists evaluated all nine samples in each session with a 2-min break every third sample. Sample presentation order was randomized using a William's Latin square design and attribute display order within the test was held constant within each session, but randomized across panelists and sessions to reduce attribute selection bias. Each sample was evaluated by each panelist a total of three times for 48 total replicates per sample. Temporal data collection was accomplished using the sensory data acquisition and analysis software TimeSens® (www.timesens.com) and occurred in environmentally controlled (22 °C and 33% relative humidity) individual booths. Panelists were instructed to rinse their mouths with warm water, a bite of carrot, and room temperature water between each sample and to expectorate all samples and rinses.</p><p>On days 13 and 14, panelists were trained and evaluated sample stickiness, following the identical protocol from the second half of the consumer test described in Section 2.3, in order to provide a trained counterpoint to consumer evaluation of oral and tactile sample stickiness.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Consumer testing</head><p>Consumers were recruited using on-campus advertisements to participate in a test designed to measure consumer assessment and liking of caramel texture. Participants in the TDS study were ineligible for participation in this consumer test. One-hundred-and-four potential subjects completed a screening questionnaire designed to select participants who were consumers of caramel products, non-smokers, and free of prohibitory allergies. Consumers who passed the screening survey were invited to participate in a two-day test on caramel texture comprised of two 40-min test sessions spaced two days apart. The screening questionnaire and two-part test were both built and administered with Qualtrics survey distribution program (Qualtrics, Provo, UT, U.S.A.). For each evaluation, panelists were served one caramel sample cube (1.0 cm 3 ) in a 29.5 mL lidded plastic cup (Solo Cup Company, Inc., Chicago, IL) and instructed to rinse before and between evaluations with warm water, a bite of carrot, and room temperature water and to expectorate all samples and rinses. In the first session consumers participated in a warm-up exercise to familiarize them with the sample set, after which they were presented with a new set of the same nine samples, labeled with different codes, and asked to evaluate each sample and Check All That Apply (CATA) from a list of texture terms generated by the TDS panelists and described in Table <ref type="table" target="#tab_1">2</ref>. In order to ensure that consumers evaluated the presence of each sticky-contributing attribute, rather than selecting only the umbrella-term sticky, the term sticky was not included in the CATA attribute list. Sample presentation order and CATA attribute order were randomized across panelists. Consumers were asked to evaluate sample texture by CATA instead of by TDS because the CATA method does not require training prior to evaluation by the panelist. Eighty-two consumers completed the first session of this test.</p><p>In the second session, panelists were asked to evaluate the stickiness of caramel samples first by hand, to rate tactile stickiness, and then by mouth, to rate oral stickiness. Separate sample sets with different 3digit codes were provided for each evaluation type. In both cases, subjects were asked to rate the stickiness of samples on a scale of 0-10, where 0 is "Not sticky at all" and 10 is "Extremely sticky". For the tactile portion of the test, panelists were instructed to rinse their fingers between samples using a moist sponge and a paper napkin. Seventy-five panelists completed both the first and second sessions of the test.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.">Statistical analysis</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.1.">Analysis of trained and consumer panel stickiness ratings</head><p>In order to determine if significant differences existed between the stickiness intensity ratings elicited by samples, oral and tactile stickiness ratings by trained panelists were analyzed by Analysis of Variance (ANOVA) using the proc GLM method in SAS statistical software (Version 9.2, SAS, Cary, NC, U.S.A.) with a two-way model, including sample as a fixed effect and subject and subject-by-sample interaction as random effects. In this model, the sample effect is tested against the panelist by sample interaction, protecting the test against both panelist disagreement and unrepeatability (O'Mahony, 1986). Consumer oral and tactile stickiness ratings were subsequently compared by ANOVA, using proc GLM in SAS, with an additive two-way model in which sample was treated as a fixed effect and subject as a random effect. No interaction can be included in this model as no replication was conducted with consumers. However, the test of the sample effect is comparable to the one drawn from the mixed model used on trained panel data in the sense that the error terms used have the same degrees of freedom. ANOVA of trained and consumer stickiness ratings was followed by LSD means separation, to identify which samples showed significant differences in oral and tactile stickiness ratings by both panels. An α-value of 0.05 was used for these significance judgements.</p><p>In order to assess whether consumer perception of stickiness is segmented, hierarchical clustering of consumer stickiness ratings was conducted using the VARCLUS procedure in SAS statistical software (Version 9.2, SAS, Cary, NC, U.S.A.) with the CENTROID option to insure consumers with opposite preferences (strong negative correlations) are not clustered together. Because consumer tactile and oral stickiness ratings were highly correlated, only oral stickiness ratings were included in the clustering analysis.</p><p>Consumer panel and trained panel ratings for sample tactile and oral stickiness were correlated by Pearson correlation analysis. Each correlation coefficient was based on the 2 vectors of 9 product means. The analysis was conducted using XLSTAT (Addinsoft, New York, NY, U.S.A.) with a significance level of α = 0.05.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.2.">Analysis of sample texture profile by TDS and CATA and correlation to stickiness</head><p>Extraction of TDS parameters was conducted using TimeSens® software. The temporal dominance data were time-standardized across evaluations from 0 (time of first attribute citation) to 1 (time at which run is stopped) to reduce the effect of differences in mastication rates. This standardization process converts the temporal scale across which attribute dominance is measured from seconds of mastication time to proportion of the total mastication time for a given evaluation. The duration of dominance and the maximum percent dominance rate were extracted by panelist for each attribute and product. These specific TDS parameters were selected because they provide clear insight into the relative importance of each attribute to the overall texture profile of each sample, making them good candidates for identification of which texture attributes contribute to stickiness perception. Differences in duration of dominance were analyzed by a two-way analysis of variance (ANOVA) mixed model, in which product is treated as a fixed effect, and subject and subject-by-sample interaction are treated as random effects, followed by Tukey's least significant difference (LSD) means separation. Duration of dominance data was used to perform Canonical Variates Analysis (CVA) to describe trends and differences between samples in the dominance durations of the 8 attributes measured. A CVA biplot with 90% confidence ellipses for samples were generated using TimeSens®. Assessing significance of product differences on this map was achieved by computing in Timesens® Hotelling T-2 statistics. Additional analysis of the TDS and stickiness data sets, with a stronger emphasis on the temporal texture profile of samples, can be found in <ref type="bibr" target="#b17">Mayhew, Schmidt, Schlich, and Lee (2017)</ref>.</p><p>Differences in the frequency of texture attribute selection (α = 0.05) for each sample during the consumer CATA exercise were analyzed using Cochran's Q Test in the CATA analysis program in XLSTAT (Addinsoft, New York, NY, U.S.A.). CATA attribute selection frequencies were reported as a decimal proportion of the number of consumers who applied a given term to a given sample, divided by the total number of consumers who evaluated the sample. The frequency of CATA term usage was also used to generate a principal components analysis (PCA) biplot using a covariance matrix.</p><p>The relationship between TDS-and CATA-derived texture profiles was assessed using Partial Least Squares (PLS) Regression, and a correlation loading plot showing the first two PLS factors was generated. The TDS mean duration of dominance values for the 8 texture attributes were designated as the explanatory variables (X), while the CATA frequency of term selection values were designated as the dependent variables (Y).</p><p>Finally, Spearman correlation analysis was used to evaluate the contribution of texture attributes to consumer perception and trained panelist evaluation of overall oral stickiness. The Spearman correlation program in XLSTAT was used to relate both CATA counts and extracted TDS parameters to consumer and trained panelist oral stickiness intensity ratings. Correlations to trained panelist and consumer stickiness ratings yielded similar results; consequently, only the within-panel correlations, i.e. analysis in which TDS data is correlated to trained stickiness ratings and CATA data is correlated to consumer stickiness ratings, is presented. A significance level of 0.05 was used to determine if correlations were statistically significant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Stickiness intensity</head><p>Both the trained panel and consumer panel were able to differentiate the samples by oral and tactile stickiness, and for both attributes the discrimination power of the consumer panel was slightly higher than that of the trained panel (Table <ref type="table" target="#tab_2">3</ref>). Consumers and trained panelists showed general alignment in the ranking of sample stickiness: sample S50 received the highest tactile and oral stickiness ratings from both panels, while N50 received the lowest tactile stickiness ratings from both panels. Consumers gave samples C0 and I50 the lowest oral stickiness ratings; trained panelists likewise rated these samples among the least sticky orally, in addition to sample N50.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Clustering analysis</head><p>It was not assumed that consumers across all cultural backgrounds and dietary patterns would display a universal perception and assessment of stickiness; therefore, clustering analysis was conducted to evaluate whether distinct groups of consumers with similar concepts of stickiness would emerge. After centering stickiness ratings by judge, hierarchical clustering of consumer oral stickiness ratings showed meaningful segmentation. ANOVA of centered stickiness data within hierarchical clusters showed that dividing the consumer panel into greater than three cluster resulted in a loss of power or a decrease in F  (Table <ref type="table" target="#tab_3">4</ref>); however, one of the three clusters included only 3 consumers. Therefore, it is more meaningful to examine differences in stickiness ratings between two consumer clusters (P2C1, n = 20; P2C2, n = 55).</p><p>Consumers in P2C1displayed more conservative scale use and gave higher stickiness ratings, relative to consumers in P2C2. Rating patterns diverged most strongly between the two clusters for samples I25 and M25, which consumers in P2C2 rated as significantly less sticky than the grand mean (gmean), but were not different from the gmean when evaluated by consumers in P2C1. Despite these differences, consumers in both clusters agreed on the relative oral stickiness of samples, identifying the same three samples (N25, S25, S50) as significantly more sticky than the gmean.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Correlation of consumer and trained panelist stickiness ratings</head><p>Significant positive correlations were found between consumer and trained panelist evaluations of tactile (r = 0.85) and oral stickiness (r = 0.94) (Table <ref type="table" target="#tab_4">5</ref>). While both correlations are indicative of strong agreement between panels, it is notable that consumers and trained panelists agreed on oral stickiness ratings to a greater extent than on tactile stickiness ratings. An inability of consumers to differentiate among samples of moderate tactile stickiness (I25, I50, M25, M50), along with conservative use of the upper end of the scale by consumers, could be responsible for the weaker correlation between tactile stickiness ratings. Significant positive correlations were also identified between tactile and oral stickiness ratings of caramel samples by consumers (r = 0.82), trained panelists (r = 0.69), and between consumer tactile and trained panelist oral stickiness (r = 0.74).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.">Texture profile by TDS</head><p>Significant differences in time-standardized duration of dominance were found by sample (all 8 attributes), subject (7 of 8 attributes), and sample * subject interaction (all 8 attributes) (Table <ref type="table" target="#tab_5">6</ref>). Samples were well-differentiated by the duration of dominance of each texture attribute, as seen in Fig. <ref type="figure" target="#fig_1">1</ref>, in which the x-axis described a continuum from enveloping and stringy (+) to crumbly, toothpacking, and cohesive (−), and the y-axis described a continuum from tacky, brittle, and toothpacking (+) to deformable (−). The third axis (not shown) generally displayed a continuum from toothpacking to deformable. Samples I25, I50, and N50 displayed attribute duration patterns similar to that of the control, C0, described primarily by attributes loaded onto the negative x-axis: crumbly, toothpacking, and cohesive. However, according to the Hotelling pairwise comparisons, both C0 and N50 are statistically different from I25 and I50, as well as from each other (α = 0.10). Differences in temporal texture profile between these samples may not be apparent in Fig. <ref type="figure" target="#fig_1">1</ref> because of differences in the duration of toothpacking as a dominant texture attribute between C0, N50, and I samples, which are expressed on the third CVA axis and not visible in the biplot. Samples made with maltitol were generally dominated to a greater extent by attributes toothpacking, cohesive, and brittle relative to the control. Separated from the majority of samples, N25 and S25 presented texture profiles dominated by attributes stringy, enveloping, and tacky. The most texturally distinct sample, S50 was dominated by attributes deformable, stringy, and enveloping.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.5.">Texture profile by CATA</head><p>The frequency of attribute selection by consumers participating in the CATA study differed among products for all eight attributes (p &lt; .001) (Table <ref type="table" target="#tab_6">7</ref>), enabling visual separation of samples (Fig. <ref type="figure" target="#fig_2">2</ref>). Significantly more consumers described samples C0, I25, I50, M25, and M50 as brittle or crumbly than samples S25 and S50. The terms deformable, enveloping, and stringy were applied significantly more frequently to S50, and terms cohesive, tacky, and toothpacking were applied significantly more frequently to samples S50 and S25 relative to the control. Samples M50 and N25 were also described as tacky significantly more frequently than the control; samples M25, M50, and N25 were more frequently described as toothpacking than the control sample. Frequency of term selection may also have been influenced by consumers' varying degree of familiarity with the terms. Samples deemed to be the most brittle were labeled as brittle by 80% or more of the consumers, while the highest percent frequency achieved for the terms stringy and tacky were 54% and 55%, respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.6.">Comparison of TDS and CATA texture profiles</head><p>Although consumers were discriminating in their selection of attributes, CATA data resulted in less overall resolution than trained panelist (TDS) data. Similar samples C0, I25, I50, M25, and M50 did not differ significantly in frequency of term selection for any attribute besides toothpacking, for which sample M50 received significantly more selections than the control. Consumer data-generated sample texture profiles (Fig. <ref type="figure" target="#fig_2">2</ref>) also reflect a more binary characterization scheme relative to texture profiles generated from trained panel data, with 82.42% of the total variation in consumers' CATA term selection primarily dividing samples between a sticky profile (negative Factor 1) or a crumbly profile (positive Factor 1). This trend is also evident in the PLS correlation loading plot (Fig. <ref type="figure" target="#fig_3">3</ref>), in which 74% of the variation in * C0 = full-sugar control; I = isomalt; M = maltitol; N = mannitol; S = sorbitol; 25 = 25% replacement of sugar with sugar alcohol; 50 = 50% replacement of sugar with sugar alcohol.</p><p>† Sample means which differ significantly from the gmean α = 0.05 are denoted: greater (+) or lower (−). CATA attribute selection (R 2 Y) is captured by the first factor, compared to 52% for TDS duration of dominance data (R 2 X). Strong alignment between trained panelist TDS duration of dominance (X) and consumer CATA selection (Y) can be observed for attributes crumbly, deformable, stringy, and tacky. In contrast, there is a large disparity between TDS duration of dominance (X) and CATA selection frequency (Y) of attributes toothpacking and cohesive. Samples M25, M50, I25, and I50 are more closely associated with dominance of toothpacking and cohesive   † Proportion of attribute selection values in each row with the same superscript letter did not differ significantly between the given samples at a significance level of α = 0.05. (positive factor 1), while CATA selection of attributes toothpacking and cohesive is most closely associated with samples S25 and N25 (negative factor 1).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.7.">Correlation of texture terms to stickiness intensity</head><p>Fig. <ref type="figure" target="#fig_4">4</ref> shows the Spearman correlation coefficients relating TDS and CATA parameters for each of the 8 texture attributes measured to stickiness intensity ratings. Correlation of the TDS parameters, maximum dominance rate and duration of dominance, with trained panelist stickiness ratings, as well as correlation of the CATA frequency of term selection with consumer stickiness ratings, supports our hypothesis that cohesive and adhesive texture properties positively influence stickiness perception. Samples with a texture profile dominated by cohesive and adhesive properties enveloping, stringy, and tacky received the highest stickiness ratings from trained panelists; samples frequently identified as displaying the cohesive and adhesive attributes cohesive, enveloping, tacky, and toothpacking received the highest stickiness ratings from consumers. The initial tendency of a caramel sample to either break or bend also influenced stickiness perception: attributes related to sample breaking, brittle and crumbly, correlated negatively to stickiness, while the attribute deformable, which describes a lack of sample breaking, correlated positively to stickiness.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion and Conclusions</head><p>Differences in the magnitude and even direction of the correlation between texture attributes and stickiness assessed by TDS or CATA point to the influence of sensory methodology and reveal two tiers of sticky-contributing texture attributes. TDS analysis, which allows selection of only one dominant attribute at a time, resulted in the significant positive correlation of three texture attributes to stickiness, enveloping, stringy, and tacky. These three terms make up the top tier of stickiness-contributing textures. It is noteworthy that the attributes cohesive and toothpacking, which belong to the cohesive and adhesive attribute categories hypothesized to correlate positively with stickiness, in fact correlate negatively with stickiness when assessed via TDS. When data from CATA testing, which allows unlimited attribute selection for each sample, is compared to TDS data, an increase in the number of sticky-contributing attributes is observed. In addition to the tier-one attributes, which correlated positively to stickiness regardless of methodology, the attributes cohesive, deformable, and toothpacking also show significant or stronger positive correlations to stickiness. This result suggests that the terms cohesive, deformable, and toothpacking make up a second tier of stickiness-contributing terms that relate positively to stickiness when selected in addition to tier-one terms (CATA), but relate negatively or negligibly to stickiness when selected instead of tier-one terms (TDS). The designation of these two tiers is reinforced by the PLS correlation plot (Fig. <ref type="figure" target="#fig_3">3</ref>) which shows strong positive CATA-TDS correlations for tier-one attributes and weak or negative correlations for tier-two attributes cohesive and toothpacking. Only by combining insights from both TDS and CATA methodologies  could this hierarchy of stickiness-contributing texture attributes be elucidated.</p><p>Assessing the implications of correlations between measures of stickiness, strong positive correlations between oral and tactile stickiness suggest that samples presenting a high degree of tactile stickiness also present a high degree of oral stickiness. The weaker correlation between tactile and oral stickiness among trained panelists indicates that trained evaluators use separate criteria for evaluating tactile and oral stickiness, while consumers are more likely to rate samples similarly whether asked to evaluate samples by hand or by mouth.</p><p>Comparisons of sensory evaluations across panelist type (i.e., expert or consumer), and sensory method (i.e., conventional descriptive analysis or alternative descriptive methods), have generated much interest and many recent publications <ref type="bibr">(Ares et al., 2015;</ref><ref type="bibr" target="#b10">Gómez et al., 1998;</ref><ref type="bibr" target="#b11">Hersleth et al., 2005;</ref><ref type="bibr" target="#b27">Worch et al., 2010)</ref>. Analysis of attribute intensity ratings by consumers is not unprecedented; however, due to the difficulty of the task and lack of training, the appropriateness of using consumers to measure attribute intensity is still under debate <ref type="bibr" target="#b23">(Reinbach, Giacalone, Ribeiro, Bredie, &amp; Frøst, 2014)</ref>. In the identical rating task, we found that consumers and trained panelist showed strong agreement in their evaluation of the relative stickiness of samples within a product category, despite the complexity of stickiness as a textural perception. Trained panelists did utilize the upper end of the scale more readily than consumers, possibly due to greater familiarity with the sample set or greater confidence their scale use. Overall, though scale use did differ among consumers and between the panels, the strong agreement between consumer and trained panelist evaluation of stickiness across a wide range of stickiness intensities should support the validity of trained panel stickiness evaluations in predicting consumer perceptions.</p><p>Similarly, the comparison of trained panelist-and consumer-generated texture profiles from panelist-tailored methods showed reasonable congruence, suggesting that consumers can, on average, apply even complex texture terms to samples in a discriminating way. This result supports previous research that has shown general agreement between sensory profiles generated by CATA data and data from conventional descriptive tests <ref type="bibr">(Ares et al., 2015;</ref><ref type="bibr" target="#b7">Dooley, Lee, &amp; Meullenet, 2010)</ref>.</p><p>Another contribution of this study involves the articulation and measurement of texture attributes that contribute to stickiness perception. The value of identifying contributing attributes of complex textures is highlighted in a frequently cited publication by <ref type="bibr" target="#b15">Kokini and Cussler (1983)</ref>, which shows that creaminess, a complex and difficultto-measure texture attribute, can be predicted by ratings for smoothness and thickness, both of which can be more reliably measured instrumentally. In this study, the characterization of the texture profile of caramel samples with varying degrees of stickiness gives insight into the texture properties that positively and negatively influence perception of stickiness in caramels.</p><p>Six terms were found to correlate positively to stickiness perception when assessed by TDS and/or CATA: enveloping, stringy, tacky, cohesive, deformable, and toothpacking. These six terms were divided into two tiers, designating the strength of their positive contribution to stickiness perception based on the influence of attribute selection limitations on the magnitude and directionality of the correlation. Caramel samples that deform instead of break and present texture profiles dominated by the tier-one stickiness-contributing attributes enveloping, stringy, and tacky receive the highest stickiness ratings by both consumers and trained panelists. The strong correlations between the tierone attributes and stickiness agree with previous literature, including findings from <ref type="bibr" target="#b8">Dunnewind, Janssen, Vliet, and Weenen (2004)</ref>, which found that 'long behavior' or 'necking' was highly predictive of sensory stickiness in custard desserts, and the commonly discussed interrelatedness of stickiness with surface adhesion, or "tacky" texture <ref type="bibr" target="#b0">(Adhikari et al., 2001;</ref><ref type="bibr" target="#b12">Jowitt, 1974;</ref><ref type="bibr" target="#b14">Kilcast &amp; Roberts, 1998)</ref>. The detailed, hierarchical profile of sticky texture in caramel materials illuminated by this study provides a framework for measuring and communicating facets of caramel sticky texture perception in future analyses.</p><p>This study provides a cumulative analysis of the influence of texture properties on overall stickiness perception. However, texture is the result of a dynamic process, and both the intensity of stickiness and the influence of contributing texture properties could change over time during mastication. For this reason, dynamic characterization of complex textures, such as stickiness, is recommended <ref type="bibr" target="#b20">(Pascua, Koҫ, &amp; Foegeding, 2013)</ref>. Future studies should focus on analyzing the temporal influence of texture attributes on stickiness perception.</p><p>The interrelatedness of tactile and oral stickiness perception and the perception of stickiness-contributing texture properties was confirmed in this study. A strong positive correlation should be expected between tactile and oral stickiness, due to similarities in mechanisms of perceptions and compositional factors that affect tactile and oral texture <ref type="bibr" target="#b9">(Foegeding, Vinyard, Essick, Guest, &amp; Campbell, 2015)</ref>. However, direct comparisons between tactile and oral stickiness evaluations are scarce <ref type="bibr" target="#b3">(Brennan &amp; Mohamed, 1984)</ref>. Therefore, another possible extension of this research is the characterization of the fundamental physical properties of the caramel materials that cause the concerted increase or decrease in the degree of tactile stickiness, oral stickiness, and related texture perceptions across the caramel sample set. Understanding of the cause of varying texture profiles from a physical or formulation-based perspective would enable versatile control of product texture.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>† C0 = full-sugar control; I = isomalt; M = maltitol; N = mannitol; S = sorbitol; 25 = 25% replacement of sugar with sugar alcohol; 50 = 50% replacement of sugar with sugar alcohol.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Hotelling CVA biplot of TDS duration data. Sample center positions are marked with a "+" and encircled by 90% confidences ellipses. Sample code names and color schemes are as follows: C0 = full-sugar control (navy blue); I = isomalt (blue); M = maltitol (red); N = mannitol (green); S = sorbitol (pink); 25 = 25% replacement of sugar with sugar alcohol; 50 = 50% replacement of sugar with sugar alcohol.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. Cov-PCA biplot of CATA frequency of selection data. Sample code names and color schemes are as follows: C0 = full-sugar control (navy blue); I = isomalt (blue); M = maltitol (red); N = mannitol (green); S = sorbitol (pink); 25 = 25% replacement of sugar with sugar alcohol; 50 = 50% replacement of sugar with sugar alcohol.</figDesc><graphic coords="6,310.17,225.18,244.08,239.71" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 3 .</head><label>3</label><figDesc>Fig. 3. PLS correlation loading plot of TDS duration of dominance (X) and CATA selection frequency (Y) data. Sample code names and color schemes are as follows: C0 = full-sugar control (navy blue); I = isomalt (blue); M = maltitol (red); N = mannitol (green); S = sorbitol (pink); 25 = 25% replacement of sugar with sugar alcohol; 50 = 50% replacement of sugar with sugar alcohol.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 4 .</head><label>4</label><figDesc>Fig. 4. Spearman correlation coefficients relating TDS maximum dominance rate and duration of dominance, to trained panelist oral stickiness ratings and CATA frequencies to consumer oral stickiness ratings. Bars extending into the shaded region at the extreme maximum and minimum ends of the y-axis indicate that the correlation coefficient represented is statistically significant at an α = 0.05 significance level.</figDesc><graphic coords="7,67.11,486.89,314.18,251.11" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Formulas for full-sugar caramel samples and samples made with 25% or 50% sugar replacement by one of four sugar alcohols: isomalt, maltitol, mannitol, or sorbitol.</figDesc><table><row><cell>Ingredient</cell><cell cols="3">Sample formula with ingredient quantities in grams</cell></row><row><cell></cell><cell>Full-Sugar</cell><cell>25% Sugar</cell><cell>50% Sugar</cell></row><row><cell></cell><cell>Control</cell><cell>Replacement</cell><cell>Replacement</cell></row><row><cell>Brown sugar</cell><cell>490</cell><cell>317.5</cell><cell>145</cell></row><row><cell>Corn syrup</cell><cell>400</cell><cell>400</cell><cell>400</cell></row><row><cell>Sugar alcohol</cell><cell>0</cell><cell>172.5</cell><cell>345</cell></row><row><cell>Corn oil</cell><cell>100</cell><cell>100</cell><cell>100</cell></row><row><cell>Salt</cell><cell>5</cell><cell>5</cell><cell>5</cell></row><row><cell>Baking soda</cell><cell>5</cell><cell>5</cell><cell>5</cell></row><row><cell>Formula Total</cell><cell>1000</cell><cell>1000</cell><cell>1000</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Texture attributes used in the TDS and CATA studies, organized by researcher-designated category, and references and definitions used in the TDS study.</figDesc><table><row><cell>Attribute</cell><cell>Reference Product;</cell><cell>Definition</cell></row><row><cell></cell><cell>Manufacturer</cell><cell></cell></row><row><cell>Adhesive attributes</cell><cell></cell><cell></cell></row><row><cell>Enveloping</cell><cell>Sugar Babies; Tootsie Roll</cell><cell>Leaves residual material on</cell></row><row><cell></cell><cell>Industries</cell><cell>side surfaces of teeth</cell></row><row><cell>Tacky</cell><cell>Turkish Taffy; Bonomo Turkish</cell><cell>Adheres to teeth, resists</cell></row><row><cell></cell><cell>Taffy, LLC</cell><cell>separation</cell></row><row><cell>Toothpacking</cell><cell>Werther's Original Caramel</cell><cell>Packs in teeth -related to</cell></row><row><cell></cell><cell>Hard Candies; Storck USA, L.P.</cell><cell>quantity that packs</cell></row><row><cell cols="2">Adhesive/Cohesive attributes</cell><cell></cell></row><row><cell>Stringy</cell><cell>Sugar Babies; Tootsie Roll</cell><cell>Forms strings as you pull teeth</cell></row><row><cell></cell><cell>Industries</cell><cell>apart</cell></row><row><cell>Cohesive attributes</cell><cell></cell><cell></cell></row><row><cell>Cohesive</cell><cell>Jolly Rancher Chews; The</cell><cell>Pieces reform together</cell></row><row><cell></cell><cell>Hershey Company</cell><cell></cell></row><row><cell cols="2">Bend vs. Break attributes</cell><cell></cell></row><row><cell>Brittle</cell><cell>Life Savers hard candies; Wm.</cell><cell>Sample shows singular</cell></row><row><cell></cell><cell>Wrigley Jr. Company</cell><cell>breakage after force is applied</cell></row><row><cell>Crumbly</cell><cell>Peanut Butter Bars; Atkinson</cell><cell>Sample shows continuous</cell></row><row><cell></cell><cell>Candy Co.</cell><cell>breakage after force is applied</cell></row><row><cell>Deformable</cell><cell>Charleston Chew Bars; Tootsie</cell><cell>Easy to change shape without</cell></row><row><cell></cell><cell>Roll Industries</cell><cell>breaking when force is applied</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Average tactile and oral stickiness ratings for caramel samples evaluated by consumer and trained panelists. F-values, degrees of freedom (DF), and LSD values are given.</figDesc><table><row><cell>Sample  †</cell><cell>Consumer Data</cell><cell></cell><cell cols="2">Trained Panelist Data</cell></row><row><cell></cell><cell>Tactile</cell><cell>Oral</cell><cell>Tactile</cell><cell>Oral</cell></row><row><cell></cell><cell>Stickiness</cell><cell>Stickiness</cell><cell>Stickiness</cell><cell>Stickiness</cell></row><row><cell>C0</cell><cell>2.09 D</cell><cell>1.73 E</cell><cell>4.88 B</cell><cell>2.34 E</cell></row><row><cell>I25</cell><cell>2.56 C</cell><cell>2.68 D</cell><cell>4.66 B</cell><cell>3.44 D</cell></row><row><cell>I50</cell><cell>2.55 C</cell><cell>1.81 E</cell><cell>4.22 B</cell><cell>2.16 E</cell></row><row><cell>M25</cell><cell>2.73 C</cell><cell>3.01 D</cell><cell>4.94 B</cell><cell>4.78 C</cell></row><row><cell>M50</cell><cell>2.75 C</cell><cell>3.71 C</cell><cell>4.59 B</cell><cell>5.63 B</cell></row><row><cell>N25</cell><cell>3.52 B</cell><cell>6.60 B</cell><cell>5.00 B</cell><cell>9.00 A</cell></row><row><cell>N50</cell><cell>0.40 E</cell><cell>2.75 D</cell><cell>0.53 C</cell><cell>2.41 E</cell></row><row><cell>S25</cell><cell>3.27 B</cell><cell>7.11 B</cell><cell>6.66 A</cell><cell>9.31 A</cell></row><row><cell>S50</cell><cell>6.41 A</cell><cell>9.55 A</cell><cell>7.25 A</cell><cell>9.13 A</cell></row><row><cell cols="2">Sample F-value 98.08</cell><cell>195.89</cell><cell>41.14</cell><cell>134.22</cell></row><row><cell>DF numerator</cell><cell>8</cell><cell>8</cell><cell>8</cell><cell>8</cell></row><row><cell>DF denominator</cell><cell>592</cell><cell>592</cell><cell>120</cell><cell>120</cell></row><row><cell>LSD</cell><cell>0.44</cell><cell>0.55</cell><cell>0.82</cell><cell>0.74</cell></row></table><note>** Mean stickiness ratings of samples in each column with the same letter superscript are not significantly different. The LSD value was calculated based on an α value of 0.05.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4</head><label>4</label><figDesc>Results of hierarchical clustering analysis of centered consumer oral stickiness, including cluster size (n), F-values by cluster (F), grand mean (gmean), and sample means. * †</figDesc><table><row><cell>Number of clusters</cell><cell>Clusters</cell><cell>n</cell><cell>F</cell><cell>gmean</cell><cell>C0</cell><cell>I50</cell><cell>I25</cell><cell>N50</cell><cell>M25</cell><cell>M50</cell><cell>N25</cell><cell>S25</cell><cell>S50</cell></row><row><cell>1</cell><cell>P1C1</cell><cell>75</cell><cell>196</cell><cell>4.33</cell><cell>1.73-</cell><cell>1.81-</cell><cell>2.68-</cell><cell>2.75-</cell><cell>3.01-</cell><cell>3.71-</cell><cell>6.60+</cell><cell>7.11+</cell><cell>9.55+</cell></row><row><cell>2</cell><cell>P2C1</cell><cell>20</cell><cell>18.7</cell><cell>5.03</cell><cell>3.30-</cell><cell>3.40-</cell><cell>5.3</cell><cell>3.45-</cell><cell>4.25</cell><cell>4.10-</cell><cell>6.40+</cell><cell>6.00+</cell><cell>9.05+</cell></row><row><cell></cell><cell>P2C2</cell><cell>55</cell><cell>278</cell><cell>4.07</cell><cell>1.16-</cell><cell>1.24-</cell><cell>1.73-</cell><cell>2.49-</cell><cell>2.56-</cell><cell>3.56-</cell><cell>6.67+</cell><cell>7.51+</cell><cell>9.73+</cell></row><row><cell>3</cell><cell>P3C1</cell><cell>37</cell><cell>133</cell><cell>4.52</cell><cell>2.03-</cell><cell>2.49-</cell><cell>3.73-</cell><cell>1.84-</cell><cell>3.46-</cell><cell>4.00-</cell><cell>6.51+</cell><cell>6.78+</cell><cell>9.84+</cell></row><row><cell></cell><cell>P3C2</cell><cell>35</cell><cell>195</cell><cell>4.02</cell><cell>1.11-</cell><cell>0.94-</cell><cell>1.14-</cell><cell>3.34-</cell><cell>2.29-</cell><cell>3.37-</cell><cell>6.57+</cell><cell>7.77+</cell><cell>9.66+</cell></row><row><cell></cell><cell>P3C3</cell><cell>3</cell><cell>1.32</cell><cell>5.52</cell><cell>5.33</cell><cell>3.67</cell><cell>7.67</cell><cell>7.00</cell><cell>6.00</cell><cell>4.00</cell><cell>8.00</cell><cell>3.33</cell><cell>4.67</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 5</head><label>5</label><figDesc>Pearson correlation coefficients relating consumer and trained panelist tactile and oral stickiness ratings.</figDesc><table><row><cell>Variables</cell><cell>Consumer</cell><cell cols="2">Consumer Oral Trained</cell><cell>Trained Oral</cell></row><row><cell></cell><cell>Tactile</cell><cell></cell><cell>Tactile</cell><cell></cell></row><row><cell>Consumer</cell><cell>1</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Tactile</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Consumer Oral</cell><cell>0.82</cell><cell>1</cell><cell></cell><cell></cell></row><row><cell>Trained Tactile</cell><cell>0.85</cell><cell>0.64</cell><cell>1</cell><cell></cell></row><row><cell>Trained Oral</cell><cell>0.74</cell><cell>0.94</cell><cell>0.69</cell><cell>1</cell></row></table><note>** Correlation coefficients in bold are significantly different from 0 at an α = 0.05 significance level.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 6</head><label>6</label><figDesc>ANOVA table of time-standardized duration of dominance. Mean durations reported as decimal values (0-1); means with the same superscript are not significantly different. * †</figDesc><table><row><cell>Attributes</cell><cell>F Sample</cell><cell>C0</cell><cell>I25</cell><cell>I50</cell><cell>M25</cell><cell>M50</cell><cell>N25</cell><cell>N50</cell><cell>S25</cell><cell>S50</cell><cell>F Subject</cell><cell>F Sample * Subject</cell></row><row><cell>Brittle</cell><cell>6.55 **</cell><cell>0.08 B</cell><cell>0.07 B</cell><cell>0.06 B</cell><cell>0.09 B</cell><cell>0.09 B</cell><cell>0.08 B</cell><cell>0.10 B</cell><cell>0.07 B</cell><cell>0.00 A</cell><cell>6.36 **</cell><cell>1.56 *</cell></row><row><cell>Cohesive</cell><cell>9.73 **</cell><cell>0.14 AB</cell><cell>0.14 AB</cell><cell>0.10 AB</cell><cell>0.16 B</cell><cell>0.14 AB</cell><cell>0.11 AB</cell><cell>0.37 C</cell><cell>0.08 AB</cell><cell>0.00 A</cell><cell>4.25 **</cell><cell>3.83 **</cell></row><row><cell>Crumbly</cell><cell>17.52 **</cell><cell>0.25 CD</cell><cell>0.16 BC</cell><cell>0.27 D</cell><cell>0.12 B</cell><cell>0.11 AB</cell><cell>0.01 A</cell><cell>0.15 BC</cell><cell>0.01 A</cell><cell>0.00 A</cell><cell>2.66 *</cell><cell>2.82 **</cell></row><row><cell>Deformable</cell><cell>9.71 **</cell><cell>0.07 AB</cell><cell>0.00 A</cell><cell>0.02 A</cell><cell>0.00 A</cell><cell>0.01 A</cell><cell>0.03 A</cell><cell>0.18 C</cell><cell>0.06 AB</cell><cell>0.14 BC</cell><cell>3.27 **</cell><cell>4.81 *</cell></row><row><cell>Enveloping</cell><cell>40.87 **</cell><cell>0.10 A</cell><cell>0.06 A</cell><cell>0.03 A</cell><cell>0.03 A</cell><cell>0.06 A</cell><cell>0.27 B</cell><cell>0.01 A</cell><cell>0.30 B</cell><cell>0.51 C</cell><cell>7.94 **</cell><cell>2.64 **</cell></row><row><cell>Stringy</cell><cell>19.53 **</cell><cell>0.00 A</cell><cell>0.01 A</cell><cell>0.00 A</cell><cell>0.01 A</cell><cell>0.01 A</cell><cell>0.08 AB</cell><cell>0.02 A</cell><cell>0.11 B</cell><cell>0.24 C</cell><cell>2.56 *</cell><cell>3.98 **</cell></row><row><cell>Tacky</cell><cell>21.09 **</cell><cell>0.01 A</cell><cell>0.06 AB</cell><cell>0.05 AB</cell><cell>0.13 BC</cell><cell>0.23 CD</cell><cell>0.30 D</cell><cell>0.02 AB</cell><cell>0.30 D</cell><cell>0.06 AB</cell><cell>1.27</cell><cell>2.79 **</cell></row><row><cell>Toothpacking</cell><cell>36.50 **</cell><cell>0.35 B</cell><cell>0.49 C</cell><cell>0.46 BC</cell><cell>0.47 BC</cell><cell>0.35 B</cell><cell>0.11 A</cell><cell>0.15 A</cell><cell>0.06 A</cell><cell>0.04 A</cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 7</head><label>7</label><figDesc>Results of Cochran's Q testing on Check-All-That-Apply (CATA) data, including p-values comparing attribute use between samples * and decimal values indicating the proportion of panelists who applied each attribute to each sample. †</figDesc><table><row><cell>Attributes</cell><cell>p-values</cell><cell>C0</cell><cell>I25</cell><cell>I50</cell><cell>M25</cell><cell>M50</cell><cell>N25</cell><cell>N50</cell><cell>S25</cell><cell>S50</cell></row><row><cell>Brittle</cell><cell>&lt; .0001</cell><cell>0.85 D</cell><cell>0.82 D</cell><cell>0.82 D</cell><cell>0.83 D</cell><cell>0.74 CD</cell><cell>0.63 BCD</cell><cell>0.48 B</cell><cell>0.54 BC</cell><cell>0.04 A</cell></row><row><cell>Cohesive</cell><cell>&lt; .0001</cell><cell>0.24 AB</cell><cell>0.17 A</cell><cell>0.15 A</cell><cell>0.21 A</cell><cell>0.26 AB</cell><cell>0.44 BC</cell><cell>0.27 AB</cell><cell>0.62 CD</cell><cell>0.72 D</cell></row><row><cell>Crumbly</cell><cell>&lt; .0001</cell><cell>0.79 C</cell><cell>0.80 C</cell><cell>0.83 C</cell><cell>0.73 C</cell><cell>0.70 C</cell><cell>0.40 B</cell><cell>0.63 BC</cell><cell>0.15 A</cell><cell>0.00 A</cell></row><row><cell>Deformable</cell><cell>&lt; .0001</cell><cell>0.27 A</cell><cell>0.22 A</cell><cell>0.18 A</cell><cell>0.20 A</cell><cell>0.16 A</cell><cell>0.37 A</cell><cell>0.34 A</cell><cell>0.34 A</cell><cell>0.68 B</cell></row><row><cell>Enveloping</cell><cell>&lt; .0001</cell><cell>0.12 A</cell><cell>0.10 A</cell><cell>0.05 A</cell><cell>0.10 A</cell><cell>0.12 A</cell><cell>0.13 A</cell><cell>0.05 A</cell><cell>0.18 A</cell><cell>0.65 B</cell></row><row><cell>Stringy</cell><cell>&lt; .0001</cell><cell>0.11 A</cell><cell>0.10 A</cell><cell>0.10 A</cell><cell>0.01 A</cell><cell>0.07 A</cell><cell>0.13 A</cell><cell>0.15 A</cell><cell>0.13 A</cell><cell>0.55 B</cell></row><row><cell>Tacky</cell><cell>&lt; .0001</cell><cell>0.13 A</cell><cell>0.21 AB</cell><cell>0.16 A</cell><cell>0.28 ABC</cell><cell>0.41 BCD</cell><cell>0.56 D</cell><cell>0.29 ABC</cell><cell>0.50 CD</cell><cell>0.52 D</cell></row><row><cell>Toothpacking</cell><cell>&lt; .0001</cell><cell>0.37 AB</cell><cell>0.55 BCD</cell><cell>0.43 ABC</cell><cell>0.61 CDE</cell><cell>0.59 BCDE</cell><cell>0.71 DE</cell><cell>0.23 A</cell><cell>0.79 E</cell><cell>0.79 E</cell></row><row><cell cols="11">* C0 = full-sugar control; I = isomalt; M = maltitol; N = mannitol; S = sorbitol; 25 = 25% replacement of sugar with sugar alcohol; 50 = 50% replacement of sugar with sugar</cell></row><row><cell>alcohol.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>The authors gratefully acknowledge the contributions of undergraduate researchers Cheyenne Neal, Alex Olenskyj, and Valentina Witkowski towards caramel production and sample preparation, consumer test practice runs, and staffing of sensory panels.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Author contributions E. Mayhew, S. Schmidt, P. Schlich, and S. Lee designed the study; E. Mayhew collected and analyzed the data; E. Mayhew wrote the manuscript; E. Mayhew, S. Schmidt, P. Schlich, and S. Lee revised the manuscript. All authors read and approved the final manuscript.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding sources</head><p>This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Stickiness in foods: A review of mechanisms and test methods</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Adhikari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Howes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Bhandari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Truong</surname></persName>
+		</author>
+		<idno type="DOI">10.1081/JFP-100002186</idno>
+		<ptr target="http://dx.doi.org/10.1081/JFP-100002186" />
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Food Properties</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="33" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ares</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Antunez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bruzzone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Vidal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gimenez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Pineau</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Comparison of sensory product profiles generated by trained assessors and consumers using CATA questions: Four case studies with complex and/or similar samples</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Jaeger</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.foodqual.2015.05.007</idno>
+		<ptr target="http://dx.doi.org/10.1016/j.foodqual.2015.05.007" />
+	</analytic>
+	<monogr>
+		<title level="j">Food Quality and Preference</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="75" to="86" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Relating sensory stickiness and physical properties of foods</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Brennan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M A</forename><surname>Mohamed</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Engineering sciences in the food industry</title>
+				<editor>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Mckenna</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Elsevier</publisher>
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Characterization of the rheological, textural, and sensory properties of samples of commercial us cream cheese with different fat contents</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Brighenti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Govindasamy-Lucey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Lim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Lucey</surname></persName>
+		</author>
+		<idno type="DOI">10.3168/jds.2008-1322</idno>
+		<ptr target="http://dx.doi.org/10.3168/jds.2008-1322" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Dairy Science</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="4501" to="4517" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Physical properties of foods and their caries-producing potential</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Caldwell</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/00220345700490062101</idno>
+		<ptr target="http://dx.doi.org/10.1177/00220345700490062101" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Dental Research</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1293" to="1298" />
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Physical and chemical properties of Caramel Systems. LWT -Food Science and Technology</title>
+		<author>
+			<persName><forename type="first">M.-S</forename><surname>Chung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Ruan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Wang</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/B978-008055232-3.60231-4</idno>
+		<ptr target="http://dx.doi.org/10.1016/B978-008055232-3.60231-4" />
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="162" to="166" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The application of check-all-that-apply (CATA) consumer profiling to preference mapping of vanilla ice cream and its comparison to classical external preference mapping</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Dooley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Meullenet</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.foodqual.2009.10.002</idno>
+		<ptr target="http://dx.doi.org/10.1016/j.foodqual.2009.10.002" />
+	</analytic>
+	<monogr>
+		<title level="j">Food Quality and Preference</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="394" to="401" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Relative importance of cohesion and adhesion for sensory stickiness of semisolid foods</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Dunnewind</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Janssen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">V A N</forename><surname>Vliet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Weenen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Texture Studies</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="603" to="620" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Transforming structural breakdown into sensory perception of texture</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Foegeding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Vinyard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Essick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Guest</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Campbell</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jtxs.12105</idno>
+		<ptr target="http://dx.doi.org/10.1111/jtxs.12105" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Texture Studies</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="152" to="170" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Perception of mealiness in apples: A comparison of consumers and trained assessors</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gómez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Fiorenza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Izquierdo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Costell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Zeitschrift Für Lebensmittel-Untersuchung Und -Forschung</title>
+		<imprint>
+			<biblScope unit="volume">207</biblScope>
+			<biblScope unit="page" from="304" to="310" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Perception of bread: A comparison of consumers and trained assessors</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hersleth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Berggren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Westad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Martens</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1365-2621.2005.tb07123.x</idno>
+		<ptr target="http://dx.doi.org/10.1111/j.1365-2621.2005.tb07123.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Food Science</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="S95" to="S101" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The terminology of food texture</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Jowitt</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1745-4603.1974.tb01441.x</idno>
+		<ptr target="http://dx.doi.org/10.1111/j.1745-4603.1974.tb01441.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Texture Studies</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="351" to="358" />
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Lack of correlation between food retention on the human dentition and consumer perception of food stickiness</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kashket</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Van Houte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Lopez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Stocks</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/00220345910700100101</idno>
+		<ptr target="http://dx.doi.org/10.1177/00220345910700100101" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Dental Research</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="1314" to="1319" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Perception and measurement of stickiness in sugar-rich foods</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kilcast</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Roberts</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1745-4603.1998.tb00155.x</idno>
+		<ptr target="http://dx.doi.org/10.1111/j.1745-4603.1998.tb00155.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Texture Studies</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="81" to="100" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Predicting the texture of liquid and melting semisolid foods</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Kokini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Cussler</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1365-2621.1983.tb09196.x</idno>
+		<ptr target="http://dx.doi.org/10.1111/j.1365-2621.1983.tb09196.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Food Science</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1221" to="1225" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Napping-ultra flash profile as a tool for category identification and subsequent model system formulation of caramel corn products</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mayhew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Schmidt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lee</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1750-3841.13338</idno>
+		<ptr target="http://dx.doi.org/10.1111/1750-3841.13338" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Food Science</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1782" to="1790" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Temporal texture profile and identification of glass transition temperature as an instrumental predictor of stickiness in a caramel system</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Mayhew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Schmidt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Schlich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lee</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1750-3841.13822</idno>
+		<ptr target="http://dx.doi.org/10.1111/1750-3841.13822" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Food Science</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="2167" to="2176" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Control of caramel texture through formulation. The Manufacturing Confectioner</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Mendenhall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hartel</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="page" from="57" to="67" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Fixed-and random-effects models</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>O'mahony</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sensory evaluation of food: Statistical methods and procedures</title>
+				<meeting><address><addrLine>Boca Raton</addrLine></address></meeting>
+		<imprint>
+			<publisher>CRC Press</publisher>
+			<date type="published" when="1986">1986</date>
+			<biblScope unit="page" from="247" to="258" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Food structure: Roles of mechanical properties and oral processing in determining sensory texture of soft materials</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Pascua</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Koҫ</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Foegeding</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.cocis.2013.03.009</idno>
+		<ptr target="http://dx.doi.org/10.1016/j.cocis.2013.03.009" />
+	</analytic>
+	<monogr>
+		<title level="j">Current Opinion in Colloid and Interface Science</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="324" to="333" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Temporal Dominance of Sensations: A new technique to record several sensory attributes simultaneously over time</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Pineau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Cordelle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Schlich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">5th Pangborn Symposium</title>
+				<meeting><address><addrLine>Boston</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="page">121</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Temporal Dominance of Sensations: Construction of the TDS curves and comparison with time-intensity</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Pineau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Schlich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Cordelle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mathonnière</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Issanchou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Imbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Köster</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.foodqual.2009.04.005</idno>
+		<ptr target="http://dx.doi.org/10.1016/j.foodqual.2009.04.005" />
+	</analytic>
+	<monogr>
+		<title level="j">Food Quality and Preference</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="450" to="455" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Comparison of three sensory profiling methods based on consumer perception: CATA, CATA with intensity and Napping</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Reinbach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Giacalone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Ribeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">L P</forename><surname>Bredie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Frøst</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.foodqual.2013.02.004</idno>
+		<ptr target="http://dx.doi.org/10.1016/j.foodqual.2013.02.004" />
+	</analytic>
+	<monogr>
+		<title level="j">Food Quality and Preference</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="160" to="166" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Identifying objective characteristics that predict clusters produced by sensory attributes in cooked rice</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rousset</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Pons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Martin</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1745-4603.1999.tb01405.x</idno>
+		<ptr target="http://dx.doi.org/10.1111/j.1745-4603.1999.tb01405.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Texture Studies</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="509" to="532" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Mechanical relaxation times as indicators of stickiness in skim milk-maltodextrin solids systems</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Silalai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">H</forename><surname>Roos</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jfoodeng.2011.05.018</idno>
+		<ptr target="http://dx.doi.org/10.1016/j.jfoodeng.2011.05.018" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Food Engineering</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="306" to="317" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Descriptive analysis of caramel texture</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Steiner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Foegeding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Drake</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1745-459X.2003.tb00390.x</idno>
+		<ptr target="http://dx.doi.org/10.1111/j.1745-459X.2003.tb00390.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Sensory Studies</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="277" to="289" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">How reliable are the consumers? Comparison of sensory profiles from consumers and experts</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Worch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Le</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Punter</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.foodqual.2009.06.001</idno>
+		<ptr target="http://dx.doi.org/10.1016/j.foodqual.2009.06.001" />
+	</analytic>
+	<monogr>
+		<title level="j">Food Quality and Preference</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="309" to="318" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

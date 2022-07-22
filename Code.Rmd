@@ -1,0 +1,91 @@
+---
+title: "Code"
+author: "Aubrey DuBois"
+date: "2022-07-21"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Load packages
+
+```{r load packages}
+
+
+library(tidyverse)
+library(lubridate)
+library(reticulate)
+library(pdftools)
+library(magick)
+library(sys)
+library(xml2)
+library(flatxml)
+library(xmlconvert)
+library(stringr)
+
+```
+
+## Copy PDFs from project folder to WSL
+
+
+
+``` {r copy PDFs to virtual environment}
+
+# all folder and file names cannot contain any spaces for parsing with Grobid so they should be adjusted before copying into the virtual environment 
+
+system(bash c- "cp /mnt/c/Users/mayhe/Documents/Database/PDFs/ /home/msufsl/grobid_client_python/resources/PDFs/")
+
+
+
+```
+
+
+## Start up the Grobid server
+
+```{r Starting up Grobid server}
+
+#navigate to grobid folder in WSL
+switchdir1 <- exec_wait("wsl", "cd /home/msufsl/grobid")
+
+system("wsl", "cd /home/msufsl/grobid/", wait = TRUE, invisible = FALSE, intern = TRUE, ignore.stdout = FALSE, ignore.stderr = FALSE)
+
+#run the Grobid server in the background
+gserver <- exec_background("./gradlew run")
+
+
+```
+
+## Run script on Grobid python client to convert PDFs -> XMLs
+
+```{r convert PDFs to XMLs}
+
+system(bash -c "cd ~/grobid_client_python", show.output.on.console = TRUE, minimized = FALSE, wait = TRUE)
+
+system(bash -c "python3 grobidtest3.py", show.output.on.console = TRUE, minimized = FALSE, wait = TRUE)
+
+```
+
+## Move files from WSL to project folder
+
+```{r copying files out of virtual environment}
+ system("wsl", "cp /home/msufsl/grobid_client_python/resources/XMLs/ /mnt/c/Users/mayhe/Documents/Database")
+
+```
+
+## Import XMLs
+
+```{r import XML files}
+
+p3test <- read_xml("XMLs/pdf3.tei.xml")
+
+xmlchildren<- xml_children(p3test)
+
+xmlns<- xml_ns(p3test)
+
+authors <- xml_find_all(p3test, ".//d1:author")
+
+
+
+```

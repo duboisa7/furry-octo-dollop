@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Napping-Ultra Flash Profile as a Tool for Category Identification and Subsequent Model System Formulation of Caramel Corn Products</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Wiley</publisher>
+				<availability status="unknown"><p>Copyright Wiley</p>
+				</availability>
+				<date type="published" when="2016-06-01">2016-06-01</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Emily</forename><surname>Mayhew</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Shelly</forename><surname>Schmidt</surname></persName>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Soo-Yeun</forename><surname>Lee</surname></persName>
+							<email>soolee@illinois.edu</email>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">Univ. of Illinois at Urbana-Champaign</orgName>
+								<address>
+									<addrLine>399A Bevier Hall 905 S Goodwin Ave</addrLine>
+									<postCode>61801</postCode>
+									<settlement>Urbana</settlement>
+									<region>Ill</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">Univ. of Illinois at Urbana-Champaign</orgName>
+								<address>
+									<addrLine>367 Bevier Hall 905 S Goodwin Ave</addrLine>
+									<postCode>61801</postCode>
+									<settlement>Urbana</settlement>
+									<region>Ill</region>
+									<country key="US">U.S.A</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="institution">Univ. of Illinois at Urbana-Champaign</orgName>
+								<address>
+									<addrLine>351 Bevier Hall MC-182 905 S Goodwin Ave</addrLine>
+									<postCode>61801</postCode>
+									<settlement>Urbana</settlement>
+									<region>Ill</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<address>
+									<addrLine>11, 12 1, 3, 5, 10 4, 2, 6, 7, 8 Aroma-by-mouth 9, 11, 12 1, 3, 2, 5 4, 6, 7, 8, 10 Texture 9, 5, 7, 10 1, 3 4 , 2, 6, 8, 11, 12 Taste 9, 6, 10 1, 3, 2, 5, 11 4, 8, 7, 12 Representative sample 9 1, 3 4</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Napping-Ultra Flash Profile as a Tool for Category Identification and Subsequent Model System Formulation of Caramel Corn Products</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of Food Science</title>
+						<title level="j" type="abbrev">Journal of Food Science</title>
+						<idno type="ISSN">0022-1147</idno>
+						<imprint>
+							<publisher>Wiley</publisher>
+							<biblScope unit="volume">81</biblScope>
+							<biblScope unit="issue">7</biblScope>
+							<biblScope unit="page" from="S1782" to="S1790"/>
+							<date type="published" when="2016-06-01" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">3BCEBEB14130A62246B494A287CFB91F</idno>
+					<idno type="DOI">10.1111/1750-3841.13338</idno>
+					<note type="submission">MS 20152068 Submitted 12/14/2015, Accepted 4/21/2016.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.1" ident="GROBID" when="2022-07-20T20:36+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>caramel corn</term>
+					<term>glass transition</term>
+					<term>model system formulation</term>
+					<term>napping</term>
+					<term>ultra flash profiling</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>In a novel approach to formulation, the flash descriptive profiling technique Napping-Ultra Flash Profile (Napping-UFP) was used to characterize a wide range of commercial caramel corn products. The objectives were to identify product categories, develop model systems based on product categories, and correlate analytical parameters with sensory terms generated through the Napping-UFP exercise. In one 2 h session, 12 panelists participated in 4 Napping-UFP exercises, describing and grouping, on a 43×56 cm paper sheet, 12 commercial caramel corn samples by degree of similarity, globally and in terms of aroma-by-mouth, texture, and taste. The coordinates of each sample's placement on the paper sheet and descriptive terms generated by the panelists were used to conduct Multiple Factor Analysis (MFA) and hierarchical clustering of the samples. Strong trends in the clustering of samples across the 4 Napping-UFP exercises resulted in the determination of 3 overarching types of commercial caramel corn: "small-scale dark" (typified by burnt, rich caramel corn), "large-scale light" (typified by light and buttery caramel corn), and "large-scale dark" (typified by sweet and molasses-like caramel corn). Representative samples that best exemplified the properties of each category were used as guides in the formulation of 3 model systems that represent the spread of commercial caramel corn products. Analytical testing of the commercial products, including a w measurement, moisture content determination, and thermal characterization via differential scanning calorimetry, were conducted and results related to sensory descriptors using Spearman's correlation.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Napping emerged in 2003 as a new method in a string of rapid alternatives to conventional descriptive sensory test methods <ref type="bibr" target="#b11">(Pagès 2003;</ref><ref type="bibr">Dehlholm and others 2012)</ref>. These rapid descriptive methods show great promise as more efficient, time and cost-effective precursors or replacements to traditional descriptive analysis procedures, and their potential applications are still being explored. Napping bears closest resemblance to its predecessor, Projective Mapping, an amalgamation of sorting and Flash Profile methods <ref type="bibr">(Risvik and others 1994;</ref><ref type="bibr" target="#b11">Pagès 2003</ref>; <ref type="bibr">Dehlholm and other 2012)</ref>.</p><p>Deriving its name from the French word for tablecloth, Napping is based on the simple arrangement of samples on a tablecloth or sheet of paper <ref type="bibr" target="#b11">(Pagès 2003)</ref>. Untrained panelists are presented with a complete sample set and instructed to arrange the samples such that proximity of the samples is directly related to perceived similarity of the samples by whatever criteria the panelist finds logical.</p><p>A newer variant of this method, termed Partial Napping, restricts the criteria used for placement of samples to a specific sensory modality <ref type="bibr">(Dehlholm and others 2012)</ref>. In contrast, Global Napping, or Napping as originally designed, encourages panelists to use the complete sensory profile of samples in their arrangement of the group <ref type="bibr" target="#b11">(Pagès 2003)</ref>. Due to the lack of required training and the simplicity of the experimental design, a single Napping exercise is typically completed in half an hour or less <ref type="bibr">(Dehlholm and others 2012)</ref>.</p><p>Napping is customarily paired with Ultra-Flash Profiling (UFP), termed herein as Napping-UFP. In this hybrid method, panelists are instructed to jot down some sensory descriptors used in their differentiation of samples and groups of samples by the marked and labeled placement of samples on the paper mat <ref type="bibr" target="#b13">(Pagès 2005;</ref><ref type="bibr">Dehlholm and others 2012)</ref>. In this way, quantitative and qualitative data are simultaneously and quickly collected. Coordinates of the samples on the mat and frequencies for sensory terms generated are tabulated and subjected to Multiple Factor Analysis (MFA) <ref type="bibr" target="#b3">(Escofier and Pagès 1994;</ref><ref type="bibr" target="#b11">Pagès 2003;</ref><ref type="bibr" target="#b13">Pagès 2005;</ref><ref type="bibr">Lê and others 2008;</ref><ref type="bibr">Perrin and others 2008)</ref>. Sensory descriptors are typically not used as active variables, but are very helpful in explaining the averaged positioning of samples in MFA graphical output <ref type="bibr" target="#b3">(Escofier and Pagès 1994;</ref><ref type="bibr" target="#b13">Pagès 2005</ref>; Le and others 2008). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>S: Sensory &amp; Food</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Quality</head><p>Napping-ultra flash profile as a tool . . . The Napping-UFP method is typically used as a convenient way to identify major sensory differences that distinguish samples in a set and to provide a preliminary sensory characterization of a sample set. A diverse range of samples have been analyzed with this method, including alcoholic beverages, liver pâtés, and green teas, among others <ref type="bibr" target="#b11">(Pagès 2003;</ref><ref type="bibr" target="#b13">Pagès 2005;</ref><ref type="bibr">Dehlholm and others 2012;</ref><ref type="bibr">Giacalone and others 2013;</ref><ref type="bibr">Kim and others 2013;</ref><ref type="bibr">Louw and others 2013)</ref>. Comparative studies have shown that Napping provides a good value of meaningful results for the time required, making it an appropriate choice when a high degree of precision and power is not required <ref type="bibr">(Dehlholm and others 2012;</ref><ref type="bibr">Valentin and others 2012)</ref>.</p><p>The first aim of this research was to implement the Napping-UFP method and hierarchical clustering analysis as a means of rapid categorization and characterization of the spread of a product category. Caramel corn was selected as the target product category due to the scarcity of published research on caramel corns and the interesting thermal properties of caramel coating systems. We hypothesized that trends in panelist clustering and description of caramel corn products could be used to characterize key categories of commercially available products. The second aim was to use information gleaned from the Napping-UFP exercise to direct the formulation of caramel coating model systems based on the characterization and members of the caramel corn subcategories generated. In this aim, we hypothesized that sweetener and lipid differences between products in identified categories would enable formulation of distinct and commercially relevant caramel coating model systems. The final aim was to validate UFP data through meaningful correlation of UFP panelist-generated sensory descriptors with relevant measured thermal and physical properties of the products surveyed. We hypothesized that important sensory prop-erties described by panelists during the UFP exercise could be supported by and correlated to commonly measured thermal and physical properties of the samples.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials and Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Caramel corn sample selection</head><p>A diverse group sample of caramel corn products was selected to encompass the range of commercially available products. Eight mass-produced, commercial products ("large-scale"; coded with numbers 1-8) were chosen, along with 4 fresh, hand-made caramel corn products ("small-scale"; coded with numbers 9-12). Largescale samples were purchased in local stores, while small-scale products were ordered from vendors. Two products with nutrient claims, 1 fat free product (sample number 7) and 1 sugar free product (sample number 8), were also selected for evaluation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Napping procedure</head><p>Twelve panelists were recruited (2 male, 10 female; ages 22 to 50) to participate in the Napping exercise. The Global and Partial Napping procedures were paired with Ultra-Flash Profiling (UFP) as described by <ref type="bibr">Dehlholm and others (2012)</ref>. The group of panelists, which met for one 2 h session, was introduced to the Napping method and presented with a 43 cm by 56 cm sheet of white paper and 12 caramel corn samples in 140 mL cups, labeled with random 3-digit codes. Panelists tasted and expectorated all samples. Between samples, panelists rinsed with carbonated water, warm water, and room temperature water. The panelists were instructed to arrange the samples on the sheet of paper such that the most similar samples were closest together and the most different samples were farthest apart. This exercise was conducted first Table <ref type="table">1</ref>-Ingredient lists and pictures of representative samples which anchor product categories small-scale dark (product number 9), large-scale light (product numbers 1 and 3), and large-scale dark (product number 4). Ingredients are categorized into sugar sources, lipid sources, and other, and are listed in order of decreasing weight within their categories.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Small-scale dark</head><p>Large for the overall sensory impression of the products (Global Napping), and then repeated for texture, aroma-by-mouth, and taste attributes individually (Partial Napping).</p><p>After each Napping exercise, panelists marked the position of each sample on the Napping paper with an X and labeled the X with the sample code. For the UFP portion of the test, panelists labeled sample positions with some descriptive phrases used to characterize the sensory attributes of the sample. An example Napping paper with coordinates and descriptors generated by 1 panelist during the Napping exercise is shown in Figure <ref type="figure" target="#fig_0">1</ref>. The X and Y coordinates of each sample on each Napping paper were measured to the nearest millimeter from the lower left corner of the sheet. Qualitative terms were recorded for each sample and exercise.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Analytical testing</head><p>Water activity (a w ) was measured for each product at 25 °C using an AquaLab 4TE instrument (Decagon Devices, Inc., Pullman, Wash., U.S.A.). Caramel corn samples were cut into small pieces to increase sample surface area and facilitate equilibration. Measurements were collected twice, once immediately after purchase (0 month) and once after a month of storage at 22 °C in the resealed original package (1 month). All measurements were made in duplicate.</p><p>Moisture content of caramel corn samples was measured using vacuum oven drying and weight loss calculation. Caramel corn samples were ground (particle size 1 to 3 mm in diameter) with a 10 cm ceramic mortar and pestle and weighed out into dry 115 mL aluminum pans (Handi-Foil of America, Inc., Wheeling, Ill., U.S.A.). The placement of the pans in the Equatherm Vacuum Oven (Curtin Matheson Scientific, Inc., Houston, Tex., U.S.A.) was randomized in order to minimize the effect of any temperature gradient within the oven. Samples were held under vacuum at 60 °C for 24 h. Measurements were made in duplicate for each sample. Weight loss was measured and average moisture content calculated for each sample. In order to track changes in moisture content during storage, moisture content measurements were collected twice, once immediately after purchase (0 month) and once after a month of storage at 22 °C in the resealed original package (1 month).</p><p>Differential scanning calorimetry (DSC) was used to obtain the thermal characteristics of the caramel coating systems. All testing was conducted using a DSC Q2000 autosampler (TA Instruments, New Castle, Del., U.S.A.) with a refrigerated cooling system (RCS 90). Prior to testing, the DSC Q2000 was calibrated for temperature and enthalpy using indium as a standard (known melting temperature: T m onset of 156.6 °C; known enthalpy: H of 28.71 J/g). All sample testing and calibrations were carried out using a purge gas of dry nitrogen at a flow rate of 50 mL/min and hermetically sealed aluminum Tzero pans and lids (TA Instruments).</p><p>Caramel coating was flaked off each product to isolate the caramel coating from the popcorn. Caramel coating samples (5 to 10 mg) were equilibrated at -40 °C, heated at a rate of 10 °C/min to 100 °C, rapidly cooled to -40 °C, and then heated at a rate of 10 °C/min to 200 °C. An additional testing method, in which samples were equilibrated at -40 °C and then heated at a rate of 10 °C/min to 200 °C, was also used for selected caramel coating samples. All DSC scans were analyzed using Universal Analysis software (Version 4.4A, TA Instruments) to determine parameters associated with the glass transition (T g onset, T g midpoint, T g endpoint), physical aging ( H aging ), and melting (T m onset, T m midpoint, H m ) of the coating system upon heating and the crystallization of butter (T c-butter onset, T c-butter midpoint, H c-butter ) upon cooling. Parameters corresponding to the glass transition were collected using manual tangent selection with the step midpoint at half height, and parameters corresponding to melting and crystallization of butter peaks were collected using the sigmoidal peak integration function.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Caramel preparation</head><p>Ingredient lists for selected caramel corn samples (Table <ref type="table">1</ref>) and confectionary formulation guidelines <ref type="bibr" target="#b5">(Heim 2003)</ref> were used to design 3 caramel model systems. Because the properties of the caramel coating system were of chief interest, popcorn and nuts were not included in the model system formulations. Salt and baking soda content were kept constant across all model systems and the batch size was set at 500 g. The caramels were prepared by heating and stirring all ingredients except for baking soda in a 2 L stainless steel saucepan over medium heat until the mixture Napping-ultra flash profile as a tool . . . reached a temperature of 150 °C, at which point the pan was removed from the heat source and baking soda was whisked into the mixture for 15 s. The caramel mixture was then poured out onto an aluminum foil lined cookie sheet and allowed to cool at 22 °C.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>Quantitative and qualitative data collected in the Napping-UFP exercise were used to perform factor mapping and hierarchical clustering of the caramel corn samples. The Napping data were formatted as outlined in <ref type="bibr" target="#b13">Pagès (2005)</ref> and analyzed using Multiple Factor Analysis (MFA) in the FactoMineR (R version 3.0.1) statistical software package (Le and others 2008). Degree of similarity among caramel corn samples was visualized using factor maps, which show an average placement of samples based on aggregate relative positioning, or X-and Y-coordinates, of samples on each panelist's paper sheet. Factor maps were produced for each round or modality of the Napping-UFP exercise, global, aromaby-mouth, texture, and taste (Figure <ref type="figure" target="#fig_1">2</ref> to 5). Hierarchical clustering was performed to produce a hierarchical tree relating and grouping sample clusters <ref type="bibr">(Husson and others 2010)</ref>. The optimal number of clusters for this sample group was determined visually using a scree plot and kept consistent for each napping exercise. Finally, 95% confidence ellipses were generated with 500 iterations per sample using the conf.R function written by Dehlholm and others, which employs the bootstrapping technique (Delholm and others 2012).</p><p>Analytical data collected for the samples, including water activity, moisture content, and thermal characteristics, were compared with UFP data generated during the Napping exercises via Spearman's correlation analysis using XLSTAT statistical software (Addinsoft USA, New York, N.Y., U.S.A.).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results and Discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Napping-UFP results</head><p>Factor mapping and hierarchical clustering analysis of Napping-UFP results provided an easy way to visualize the grouping and overall relatedness of caramel corn samples in the study. Projection of the hierarchical clustering tree over the factor map gave an integrated view of the MFA factors and hierarchical clusters and allowed for the selection of the optimal number of sample clusters-3. The organization of samples into 3 clusters for each sensory modality is shown in Table <ref type="table">2</ref>. These 3 clusters are also color-coded on the factor maps for each modality (Figure <ref type="figure" target="#fig_1">2</ref> to 5). Samples present in each of the 3 clusters differed from modality to modality, but a few key samples remained in separate clusters for all 4 exercises. Confidence ellipses overlap between some products of each cluster, but significantly, the confidence intervals of the key samples do not overlap when products were evaluated globally and by aroma-by-mouth and texture. These key samples (Product 9, Product 3 and Product 1, Product 4) were identified as representative samples, and anchor 3 distinct groups across which the spread of commercial caramel corn products can be distributed.</p><p>The 3 categories of commercial caramel corn products identified through this exercise can be described both by production scale and by dominant sensory characteristics identified by panelists during the UFP exercise. The term "small-scale" refers to products that are made with traditional ingredients for more local distribution and have a relatively short shelf life, while the term "large-scale" refers to products that are mass-produced for widespread distribution and typically have a longer shelf-life. The representative sample Product 9 anchors a group of small-scale caramel corn samples characterized by a rich, burnt, and buttery flavor profile, hereafter referred to as the Small-Scale Dark group. The pair of similar samples Product 1 and Product 3 together anchor a group of large-scale caramel corn samples that are light in color, texture, and flavor with a dominant buttery note, hereafter referred to as the Large-Scale Light group. The final representative sample, Product 4, anchors a group of large-scale caramel corn samples that are dark in color and characterized by a molasses-like flavor, hereafter referred to as the Large-Scale Dark group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Formulation of caramel model systems</head><p>Formulation of 3 commercially relevant caramel model systems that matched the key sensory properties of the targeted caramel categories identified in this study (Small-Scale Dark, Large-Scale Light, and Large-Scale Dark) was achieved. Exploration of the representative samples that exemplified the characteristics of each category revealed that the content and source of sugar (white sugar, brown sugar, and/or corn syrup) and lipid (butter, margarine, corn oil, soybean oil, and/or sunflower oil) accounted for the major differences among products of each category. Sugar and lipid sources for each representative sample are highlighted in Table <ref type="table">1</ref>.</p><p>All 3 commercial categories were found to contain corn syrup, and so all caramel model systems were formulated to include corn syrup as a sugar source. Additionally, the products in the  Small-Scale Dark and Large-Scale Dark categories contain brown sugar, while the products in the Large-Scale Light group contain granulated sugar. The use of brown sugar contributes both color and the burnt or molasses-like flavor that characterize the Smalland Large-Scale Dark products and model systems. The type of lipid used in commercial caramel corn products was found to vary by category. Small-Scale Dark and Large-Scale Light products both contain butter, which contributes significantly to the rich and buttery flavors identified by panelists in products from these categories. Vegetable oils, generally more economical lipid sources, are also found in the Large-Scale products. Accordingly, Large-Scale Light and Large-Scale Dark caramel model systems are formulated to include soybean oil and corn oil, respectively. The final formulas for the 3 caramel model systems are given in Table <ref type="table" target="#tab_2">3</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Thermal and physical properties of commercial caramel corn samples</head><p>Results from analytical tests conducted to characterize the thermal and physical properties of the commercial caramel corn samples, including moisture content determination, a w measurement, and DSC analysis (T g and T m parameters), are summarized for each commercial sample in Table <ref type="table" target="#tab_3">4</ref>. Generally, all Napping-ultra flash profile as a tool . . . of the products tested were low moisture and low a w foods, with moisture contents ranging between 1.2% and 3.8% wet basis and a w values ranging between 0.21 and 0.28. Thermal analysis of the caramel coating systems, reported in Table <ref type="table" target="#tab_3">4</ref>, shows that all caramel coatings studied exhibit glass transition onset temperatures at or above 20 °C. This finding indicates that the caramel coating systems are primarily in the glassy amorphous state at room temperature. The representative samples, Product 9, Product 1, Product 3, and Product 4, have particularly high glass transition temperatures, with T g onset values between 40 and 50 °C. High T g values are desirable in caramel coating systems, as higher T g values can be expected to correspond to a crisper coating texture, which is preferred in caramel corn products <ref type="bibr">(Beck and others 2002)</ref>. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>S: Sensory &amp; Food</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Quality</head><p>Napping-ultra flash profile as a tool . . . Eight of the 12 caramel coating samples studied, including representative samples for the Small-Scale dark and Large-Scale dark categories, also exhibit an endothermic melting peak (T m , Table <ref type="table" target="#tab_3">4</ref>) indicative of the presence of crystalline sugar. Large-Scale light caramel corn samples may lack crystalline sugar because they contain a lower percentage of sugar and a higher percentage of corn syrup, which inhibits recrystallization of sucrose, in their coatings relative to Small-and Large-Scale dark samples <ref type="bibr" target="#b17">(Tjuradi and Hartel 1995;</ref><ref type="bibr" target="#b10">Miller and Hartel 2015)</ref>. DSC thermograms for caramel coating samples containing butter also exhibited an exothermic peak associated with the crystallization of butter (T c-butter ) during cooling.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Correlation data</head><p>Sixteen analytically determined variables, 8 of which are included in Table <ref type="table" target="#tab_3">4</ref>, and 26 sensory terms articulated by panelists during the Napping-UFP exercise were compiled for all twelve commercial caramel corn products to generate Spearman correlation coefficients for each pair of terms and variables. A total of 74 significant correlations were identified in this study.</p><p>Sensory descriptors that correlated significantly with analytical measures, highlighted in Table <ref type="table" target="#tab_4">5</ref>, are of particular interest due to our aim of validating UFP-generated sensory descriptors. Notably, 3 analytical measures (the enthalpy of melting of the caramel coating ( H m ), moisture content, and a w ) correlated positively with stickiness, indicating that, even using a flash descriptive profiling method, panelists were able to consistently identify samples with higher moisture contents and stickier coatings. The moisture content of the samples was also negatively correlated with the term "crispy," which shows again that panelists were able to generate relevant textural terms that related directly to the composition of the samples.</p><p>A parameter associated with the exothermic crystallization of butter on cooling (T c-butter midpoint) was positively correlated with the sensory terms "mild" and "light," which is likely due to the lighter color and milder flavor of the samples made with butter and belonging to the Large-Scale Light group. As expected, the sensory term "crispy" correlates positively with T g onset, midpoint, and endpoint values, though these correlations were not statistically significant at a significance level of α = 0.05. Although further descriptive sensory analysis is required to fully understand the sensory properties of caramel corn products <ref type="bibr">(Steiner and others 2003)</ref> and their relationship with key thermal, physical, and compositional properties of the samples, this study shows that a flash profiling technique, such as Napping-UFP, can be used to generate useful sensory terms which correlate to related analytical measures.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>This study represents a novel application of the Napping-UFP method as a preliminary step in the formulation of model systems. The model systems derived in this study allow for easy experimentation and manipulation of commercially relevant caramel coating systems. Instrumentally measured properties of the caramel model systems will be presented in a future study. Utilization of the model systems developed can provide further insights into the effect of caramel composition on sensory and physical characteristics of the system and strengthen the bridge between sensory and physical properties of caramel coating systems.</p><p>The findings from this research has revealed some correlations between sensory descriptors and physical and thermal properties and composition of caramel coating systems, yet the meaning of the sensory terms is open to interpretation due to the informal method of term generation. The coating systems created through this study provide an opportunity for deeper exploration into the link between composition (that is, sugar and lipid source and quantity) and dominant sensory properties of the coating system. Descriptive analysis utilizing a trained panel could provide welldefined terminology and a more complete understanding of the sensory profile of caramel coating systems. Additional analytical techniques, such as texture analysis, could also be implemented to probe for relationships between the sensory profile and physical characteristics of these systems.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 -</head><label>1</label><figDesc>Figure 1-Example of Napping paper sheet used by panelists. Sample locations are marked with X's and labeled with corresponding 3-digit sample codes and descriptive terms. Coordinates for each sample are calculated by measuring the distance from the left edge to the center of the X (x-coordinate) and from the bottom edge to the center of the X (y-coordinate). An example calculation of xand y-coordinates for sample 485 is shown in red.</figDesc><graphic coords="2,111.48,407.99,360.00,272.52" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 -</head><label>2</label><figDesc>Figure 2-Factor map with 95% confidence ellipses for 12 products from global Napping exercise plotted by degree of similarity. Products are color-coded according to cluster (Cluster A in red, Cluster B in purple, Cluster C in green).</figDesc><graphic coords="4,111.48,349.87,360.00,339.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 -</head><label>3</label><figDesc>Figure 3-Factor map with 95% confidence ellipses for 12 products from aroma-by-mouth Napping exercise plotted by degree of similarity. Products are color-coded according to cluster (Cluster A in red, Cluster B in purple, Cluster C in green).</figDesc><graphic coords="5,112.67,345.79,360.00,343.68" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4 -</head><label>4</label><figDesc>Figure 4-Factor map with 95% confidence ellipses for 12 products from texture Napping exercise plotted by degree of similarity. Products are color-coded according to cluster (Cluster A in red, Cluster B in purple, Cluster C in green).</figDesc><graphic coords="6,111.48,343.75,360.00,345.72" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 5 -</head><label>5</label><figDesc>Figure 5-Factor map with 95% confidence ellipses for 12 products from taste Napping exercise plotted by degree of similarity. Products are color-coded according to cluster (Cluster A in red, Cluster B in purple, Cluster C in green).</figDesc><graphic coords="7,112.67,350.35,360.00,339.12" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>-scale light Large-scale dark Product 9 Product 1 Product 3 Product 4</head><label></label><figDesc></figDesc><table><row><cell>Sugar Source</cell><cell>Brown sugar</cell><cell>Corn syrup</cell><cell>Corn syrup</cell><cell>Brown sugar</cell></row><row><cell></cell><cell>Corn syrup</cell><cell>Sugar</cell><cell>Sugar</cell><cell>Corn syrup</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Brown sugar</cell><cell></cell></row><row><cell>Lipid Source</cell><cell>Unsalted butter</cell><cell>Butter</cell><cell>Butter</cell><cell>Sunflower oil</cell></row><row><cell></cell><cell></cell><cell>Margarine</cell><cell>Soybean oil</cell><cell>And/or corn oil</cell></row><row><cell></cell><cell></cell><cell>Soybean oil</cell><cell></cell><cell></cell></row><row><cell>Other</cell><cell>Popcorn</cell><cell>Popcorn</cell><cell>Almonds</cell><cell>Popcorn</cell></row><row><cell></cell><cell>Water</cell><cell>Peanuts</cell><cell>Pecans</cell><cell>Baking soda</cell></row><row><cell></cell><cell>Salt</cell><cell>Soy lecithin</cell><cell>Popcorn</cell><cell>Salt</cell></row><row><cell></cell><cell>Baking soda</cell><cell>Salt</cell><cell>Salt</cell><cell>Soy lecithin</cell></row><row><cell></cell><cell></cell><cell>Sodium bicarbonate</cell><cell>Soy lecithin</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 -Ingredient lists and quantities for 3 caramel formulations, small-scale dark, large-scale light, large-scale dark, adapted from representative samples, product numbers 9, 1 and 3, and 4.</head><label>3</label><figDesc></figDesc><table><row><cell cols="2">Small-scale dark (9)</cell><cell cols="2">Large-scale light (1,3)</cell><cell cols="2">Large-scale dark (4)</cell></row><row><cell>Ingredient</cell><cell>Quantity (g)</cell><cell>Ingredient</cell><cell>Quantity (g)</cell><cell>Ingredient</cell><cell>Quantity (g)</cell></row><row><cell>Brown sugar</cell><cell>240</cell><cell>Corn syrup</cell><cell>150</cell><cell>Brown sugar</cell><cell>245</cell></row><row><cell>Butter</cell><cell>140</cell><cell>Sugar</cell><cell>145</cell><cell>Corn syrup</cell><cell>200</cell></row><row><cell>Corn syrup</cell><cell>90</cell><cell>Butter</cell><cell>125</cell><cell>Corn oil</cell><cell>50</cell></row><row><cell>Water</cell><cell>25</cell><cell>Soybean oil</cell><cell>75</cell><cell>Salt</cell><cell>2.5</cell></row><row><cell>Salt</cell><cell>2.5</cell><cell>Salt</cell><cell>2.5</cell><cell>Baking soda</cell><cell>2.5</cell></row><row><cell>Baking soda</cell><cell>2.5</cell><cell>Baking soda</cell><cell>2.5</cell><cell></cell><cell></cell></row><row><cell>Total mass:</cell><cell>500</cell><cell></cell><cell>500</cell><cell></cell><cell>500</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 -Thermal and physical properties of commercial caramel corn products included in Napping study, including onset, midpoint, and endpoint temperature of the glass transition (T g ), onset and midpoint of melting (T m ), enthalpy of melting, % wet-basis (w.b.) moisture content, and water activity (a w ). Moisture content and a w values shown are averages from duplicate measurements.</head><label>4</label><figDesc></figDesc><table><row><cell>Caramel corn</cell><cell>T g</cell><cell>T g</cell><cell>T g</cell><cell>T m</cell><cell>T m</cell><cell>H m</cell><cell>Moisture</cell><cell></cell></row><row><cell>products</cell><cell>onset (°C)</cell><cell>midpoint (°C)</cell><cell>endpoint (°C)</cell><cell>onset (°C)</cell><cell>midpoint (°C)</cell><cell>(J/g)</cell><cell>content (w.b.)</cell><cell>a w</cell></row><row><cell>1</cell><cell>45.23</cell><cell>47.63</cell><cell>49.45</cell><cell cols="2">No melting transition observed</cell><cell></cell><cell>1.82%</cell><cell>0.255</cell></row><row><cell>2</cell><cell>47.33</cell><cell>49.51</cell><cell>51.68</cell><cell cols="2">No melting transition observed</cell><cell></cell><cell>1.30%</cell><cell>0.213</cell></row><row><cell>3</cell><cell>46.91</cell><cell>48.55</cell><cell>50.14</cell><cell cols="2">No melting transition observed</cell><cell></cell><cell>1.26%</cell><cell>0.229</cell></row><row><cell>4</cell><cell>41.86</cell><cell>43.99</cell><cell>46.20</cell><cell>148.80</cell><cell>156.17</cell><cell>14.87</cell><cell>1.95%</cell><cell>0.248</cell></row><row><cell>5</cell><cell>33.32</cell><cell>40.00</cell><cell>46.73</cell><cell>144.81</cell><cell>146.16</cell><cell>8.14</cell><cell>3.77%</cell><cell>0.278</cell></row><row><cell>6</cell><cell>37.60</cell><cell>40.03</cell><cell>42.62</cell><cell>152.54</cell><cell>160.56</cell><cell>7.24</cell><cell>2.48%</cell><cell>0.239</cell></row><row><cell>7</cell><cell>25.57</cell><cell>30.78</cell><cell>35.83</cell><cell>144.28</cell><cell>157.11</cell><cell>21.80</cell><cell>2.95%</cell><cell>0.259</cell></row><row><cell>8</cell><cell>20.07</cell><cell>26.24</cell><cell>32.56</cell><cell cols="2">No melting transition observed</cell><cell></cell><cell>1.61%</cell><cell>0.220</cell></row><row><cell>9</cell><cell>47.72</cell><cell>50.47</cell><cell>53.09</cell><cell>153.17</cell><cell>158.89</cell><cell>18.22</cell><cell>1.68%</cell><cell>0.245</cell></row><row><cell>10</cell><cell>21.08</cell><cell>26.16</cell><cell>31.40</cell><cell>144.74</cell><cell>145.09</cell><cell>7.27</cell><cell>3.44%</cell><cell>0.277</cell></row><row><cell>11</cell><cell>20.99</cell><cell>28.45</cell><cell>35.45</cell><cell>133.00</cell><cell>139.42</cell><cell>8.24</cell><cell>2.86%</cell><cell>0.255</cell></row><row><cell>12</cell><cell>35.35</cell><cell>40.66</cell><cell>46.19</cell><cell>148.01</cell><cell>155.31</cell><cell>5.98</cell><cell>1.53%</cell><cell>0.220</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 5 -Key analytical parameters of commercial caramel corn samples found to correlate significantly with sensory descriptors generated by panelists during Napping exercise. Sensory data was converted to a frequency value corresponding to the num- ber of times a term was used to describe a given sample. All correlation coefficients listed are significantly different from 0 with a significance level of α = 0.05.</head><label>5</label><figDesc></figDesc><table><row><cell>Analytical</cell><cell>Sensory</cell><cell>Spearman correlation</cell></row><row><cell>parameter</cell><cell>term</cell><cell>coefficient</cell></row><row><cell></cell><cell>Crispy</cell><cell>−0.706</cell></row><row><cell>Moisture content (% w.b.)</cell><cell>Sticky</cell><cell>0.694</cell></row><row><cell></cell><cell>Mild</cell><cell>−0.591</cell></row><row><cell>a w</cell><cell>Sticky</cell><cell>0.731</cell></row><row><cell>T g midpoint (°C)</cell><cell>Matte</cell><cell>−0.585</cell></row><row><cell>T g endpoint (°C)</cell><cell>Matte</cell><cell>−0.641</cell></row><row><cell>T m midpoint (°C)</cell><cell>Firm Gummy</cell><cell>0.678 0.766</cell></row><row><cell>H m (J/g)</cell><cell>Crispy Sticky</cell><cell>−0.661 0.683</cell></row><row><cell></cell><cell>Light</cell><cell>0.710</cell></row><row><cell>T c-butter midpoint (°C)</cell><cell>Matte</cell><cell>−0.607</cell></row><row><cell></cell><cell>Mild</cell><cell>0.663</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Vol. 81, Nr. 7, 2016 r Journal of Food Science S1783</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">S1784 Journal of Food Science r Vol. 81, Nr. 7, 2016</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Vol. 81, Nr. 7, 2016 r Journal of Food Science S1785</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Vol. 81, Nr. 7, 2016 r Journal of Food Science S1787</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot">Vol. 81, Nr. 7, 2016 r Journal of Food Science S1789</note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author Contributions</head><p>E. Mayhew, S. Schmidt, and S. Lee designed the study; E. Mayhew collected and analyzed the data; E. Mayhew, S. Schmidt, and S. Lee wrote the manuscript. All authors read and approved the final manuscript.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Evaluation of isomalt and hydrogenated starch hydrolysate in sugarless caramel popcorn</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">G</forename><surname>Beck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Aramouni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Setser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Food Qual</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="27" to="37" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Confidence ellipses: a variation based on parametric bootstrapping applicable on multiple factor analysis results for rapid graphical evaluation</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Dehlholm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Brockhoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wlp</forename><surname>Bredie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Food Qual Preference</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="278" to="280" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Rapid descriptive sensory methods-comparison of free multiple sorting, partial napping, napping, flash profiling and conventional profiling</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Dehlholm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Brockhoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Meinert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Aaslyng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wlp</forename><surname>Bredie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Food Qual Preference</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="267" to="277" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Multiple factor analysis (AFMULT package)</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Escofier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pagès</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computat Stat Data Anal</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="121" to="140" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Consumer-based product profiling: application of partial napping (R) for sensory characterization of specialty beers by novices and experts</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Giacalone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Ribeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Frost</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Food Prod Market</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="201" to="218" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Caramel-raw materials and formulations</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Heim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Manuf Confect</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="55" to="61" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Principal component methods -hierarchical clusteringpartitional clustering: why would we need to choose for visualizing data?</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Husson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Josse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pagès</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Technical Report of the Applied Mathematics Department</title>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Agrocampus</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">A cross-cultural study using Napping (R): do Korean and French consumers perceive various green tea products differently?</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Jombart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Valentin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Food Res Intl</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="534" to="542" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">FactoMineR: an R package for multivariate analysis</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lê</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Josse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Husson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Stat Software</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="18" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Validation of two Napping (R) techniques as rapid sensory screening tools for high alcohol products</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Louw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Malherbe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Naes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lambrechts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Van Rensburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Nieuwoudt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Food Qual Preference</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="192" to="201" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Sucrose crystallization in caramel</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Hartel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Food Eng</title>
+		<imprint>
+			<biblScope unit="page" from="15328" to="15338" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Direct collection of sensory distances: application to the evaluation of ten white wines of the Loire Valley</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pagès</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci Aliments</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">5-6</biblScope>
+			<biblScope unit="page" from="679" to="688" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Napping-ultra flash profile as a tool</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Collection and analysis of perceived product inter-distances using multiple factor analysis: application to the study of 10 white wines from the Loire Valley</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pagès</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Food Qual Preference</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="642" to="649" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Comparison of three sensory methods for use with the Napping R procedure: case of ten wines from Loire valley</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Perrin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Symoneaux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Maître</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Asselin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Jourjon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pagès</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Food Qual Preference</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="11" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Projective mapping: a tool for sensory analysis and consumer research</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Risvik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Mcewan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Colwill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rogers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Lyon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Food Qual Preference</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="263" to="269" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Descriptive analysis of caramel texture</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Steiner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Foegeding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Drake</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Sens Stud</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="277" to="289" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Corn syrup oligosaccharide effects on sucrose crystallization</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Tjuradi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Hartel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Food Sci</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1353" to="1356" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Quick and dirty but still pretty good: a review of new descriptive methods in food science</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Valentin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chollet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lelievre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Abdi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Food Sci Technol</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1563" to="1567" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
