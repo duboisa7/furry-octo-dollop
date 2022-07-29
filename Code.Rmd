@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Load packages
+# Load packages
 
 ```{r load packages}
 
@@ -21,6 +21,7 @@ library(pdftools)
 library(magick)
 library(sys)
 library(xml2)
+library(xslt)
 library(flatxml)
 library(xmlconvert)
 library(stringr)
@@ -29,6 +30,7 @@ library(XML)
 
 ```
 
+# Convert PDFs to XMLs using Grobid
 ## Copy PDFs from project folder to WSL
 
 ``` {r copy PDFs to virtual environment}
@@ -69,40 +71,56 @@ system(bash -c "python3 grobidtest3.py", show.output.on.console = TRUE, minimize
 ## Move files from WSL to project folder
 
 ```{r copying files out of virtual environment}
- system("wsl", "cp /home/msufsl/grobid_client_python/resources/XMLs/ /mnt/c/Users/mayhe/Documents/Database")
+ system("wsl", "cp /home/msufsl/grobid_client_python/resources/XMLs/ /mnt/c/Users/mayhe/Documents/Database/XMLs")
 
 ```
 
-## Function to Extract XML data
 
-```{r function to extract XML data}
 
-#Create a function to read in all XML files and extract front page info
+
+
+# R Functions
+
+## function to read in all XMLs
+```{r function to read in all XMLs}
+
+
+```
+## function to extract front page info
+
+```{r frontinfo.fun - function to extract XML front page data}
+
+######################################################################################################
+### Create a function to read in all XML files and extract front page info
+######################################################################################################
+
+
+# front page info function
 info.fun <- function(XMLs){
   
-  rawXML <- fxml_importXMLFlat(XMLs)
+  rawConvert <- fxml_importXMLFlat(XMLs)
   
-#extract title
-title <- rawXML %>%
+## extract title
+title <- rawConvert %>%
   filter(level3 == "fileDesc", level4 == "titleStmt", level5 == "title", elem. == "title", is.na(attr.)) %>%
    select(-c(level1, level2, level3, level4, level5, level6, level7, level8, level9, level10, attr.))
 
-#extract authors
-authors <- rawXML %>%
+## extract authors
+authors <- rawConvert %>%
   filter(level3 == "fileDesc", level4 == "sourceDesc", level5 == "biblStruct", level8 == "persName", value. != "NA", value. != "first", value. != "middle") %>%
   select(-c(level1, level2, level3, level4, level5, level6, level7, level8, level9, level10, attr.))
 
-#extract doi
-doi <- rawXML %>%
+## extract doi
+doi <- rawConvert %>%
   filter(level3 == "fileDesc", level6 == "idno", is.na(attr.))
 
 doi <- doi[str_detect(doi$value., "^10"), ] %>%
   select(-c(level1, level2, level3, level4, level5, level6, level7, level8, level9, level10, attr.))
   
-#extract published date
-year <- rawXML %>%
+## extract published date
+year <- rawConvert %>%
   filter(level3 == "fileDesc", level5 == "biblStruct", level8 == "date", attr. == "when") %>%
-  select(-c(level1, level2, level3, level4, level5, level6, level7, level8, level9, level10, attr.))  
+  select(-c(level1, level2, level3, level4, level5, level6, level7, level8, level9, level10, attr.)) 
 
 return(result <- bind_rows(year, title, authors, doi) %>%
  select(-elemid.) %>%
@@ -118,7 +136,141 @@ return(result <- bind_rows(year, title, authors, doi) %>%
 
 ```
 
-##Use lapply to apply function that reads XMLs and extracts data
+## function to extract methods
+``` {r function to pull out methods from every XML}
+
+######################################################################################################
+### Create a function to extract all methods data
+######################################################################################################
+
+meth.fun <- function(XMLs){
+  
+  rawConvert <- fxml_importXMLFlat(XMLs)
+  
+
+## extract methods
+### create vector to hold the possible head titles for the section following materials and methods
+resV <- c("(?i)results", "(?i)discussion", "(?i)background", "(?i)references", "(?i)cited", "(?i)abstract", "(?i)conclusions")
+
+### subset materials and methods section
+MM <- subset(rawConvert, cumsum(grepl("(?i)methods", value., perl = TRUE) & elem. == "head") > 0 & cumsum(grepl(paste(resV, collapse = "|"), value., perl = TRUE) & elem. == "head") == 0) %>%
+  
+  filter(elem. != "ref") %>%
+  filter(elem. != "div") %>%
+  filter(elem. != "formula") %>%
+  select(-c(attr., level1, level2, level3, level4, level5, level6, level7, level8, level9, level10))
+
+
+return(result <- bind_rows(MM) %>%
+ select(-elemid.) %>%
+  pivot_wider(names_from = elem., values_from = value.) %>%
+  rename(Headers = head,
+         ParaBreak = p,
+         Sentence = s))  
+
+}
+
+```
+
+## figures function
+``` {r function to pull out figures from every XML}
+######################################################################################################
+### Create a function to extract all figures 
+######################################################################################################
+
+fig.fun <- function(XMLs){
+  
+  rawConvert <- fxml_importXMLFlat(XMLs)
+  
+
+# subset all figure data
+figs <- subset(p3df, cumsum(grepl("(?i)fig", value., perl = TRUE) & elem. == "head") > 0 & cumsum(grepl("(?i)table", value., perl = TRUE) & level5 == "head") == 0) %>%
+  
+  filter(elem. != "label") %>%
+  filter(elem. != "div") %>%
+  filter(elem. != "p") %>%
+  filter(value. != "NA") %>%
+  select(-c(level1: level10))
+
+
+return(result <- bind_rows(figs) %>%
+ select(-c(elemid., attr.)) %>%
+  pivot_wider(names_from = elem., values_from = value.) %>%
+  rename(Headers = head,
+         FigInfo = graphic,
+         FigDesc = s))  
+
+}
+
+```
+
+## tables function
+``` {r function to pull out tables from every XML}
+######################################################################################################
+### Create a function to extract all tables
+######################################################################################################
+
+table.fun <- function(XMLs){
+  
+  rawConvert <- fxml_importXMLFlat(XMLs)
+
+# create vector to store element IDs that begin after tables
+endV <- c("(?i)back")
+
+# subset all table data
+tabs <- subset(rawConvert, cumsum(grepl("^(?i)table$", value., perl = TRUE) & level4 == "figure") > 0 & cumsum(grepl(paste(endV, collapse = "|"), elem., perl = TRUE)) == 0) %>%
+  
+  filter(!elem. %in% c("div", "p", "note")) %>%
+  select(-c(attr., level1:level3, level8:level10))
+
+return(result <- tabs) %>%
+ select(-c(elemid., attr.) %>%
+          as_tibble())
+
+}
+
+```
+### table organization functions
+``` {r taborg.fun -  function to organize tables}
+
+# function to subset table info, create a list of each separate table, 
+taborg.fun <- function(rawTables){
+ 
+   rawTabs <- rawTables
+
+#subset and organize each tables description
+tableinfo <- rawTabs %>%
+  filter(level5 == "figDesc" | level5 == "head") %>%
+  select(-c(elemid., level5, level6, level7)) %>%
+  group_by(label = cumsum(elem. == "head")) %>%
+  summarise(FigDesc = toString(value.)) %>%
+  ungroup() %>%
+  mutate(FigDesc = str_replace_all(FigDesc, ", NA", ""))
+
+#create a list of each separate table
+tableslist <- rawTabs %>%
+  filter(elem. %in% c("label", "table", "row", "cell")) %>%
+  select(elem., value.) %>% 
+  group_by(CumSum = cumsum(elem. == "label")) %>%
+  group_split(CumSum)
+
+#### DOES NOT WORK tableslist.org <- tableslist %>%
+###  map(tableslist, group_by(CumSum = cumsum(elem. == "row"))) %>%
+ ### map(tableslist, pivot_wider(names_from = elem., values_from = value.))
+
+### NEED TO FIRST TAKE DFs OUT OF LIST... see ## Manual table extraction below
+
+return(tableinfo,
+       tableslist.org)
+
+}
+
+```
+
+
+
+
+# lapply to apply functions that extract data from XMLs
 ```{r lapply}
 
 #Create list of all XMLs to process
@@ -130,42 +282,243 @@ xmls <- dir("C:/Users/mayhe/Documents/Database/Database/XMLs",
 
 temp <- lapply(xmls, FUN = info.fun)
 
+#extract front page info from all XMLs and store in new df
 frontinfo <- do.call(rbind, temp)
+
+remove(temp)
+
+#extract methods from all XMLs and store in new df
+temp2 <- lapply(xmls, FUN = meth.fun)
+
+methods <- do.call(rbind, temp2)
+
+remove(temp2)
+
+#extract figure info from all XMLs and store in new df
+temp3 <- lapply(xmls, FUN = fig.fun)
+
+figures <- do.call(rbind, temp3)
+
+remove(temp3)
+
+#extract tables from all XMLs and store in new df
+temp4 <- lapply(xmls, FUN = table.fun)
+
+rawtables <- do.call(rbind, temp4)
+
+remove(temp4)
+
+### lapply to organize tables?
 
 
 ```
 
-##Manual Extraction (Don't Use)
-```{r manual extraction}
 
-#create dataframe from imported XML  
+
+
+
+# Manual Extraction (Don't Use for Actual Analysis!)
+## Manual XML import
+```{r manual XML import}
+
+###############################################################################################
+### import XML and flatten into dataframe
+###############################################################################################
+
+
+
+#create dataframes for each imported XML  
+p1df <- fxml_importXMLFlat("XMLs/pdf1.tei.xml") 
+p2df <- fxml_importXMLFlat("XMLs/pdf2.tei.xml")
 p3df <- fxml_importXMLFlat("XMLs/pdf3.tei.xml")
+p4df <- fxml_importXMLFlat("XMLs/pdf4.tei.xml")
 
-#extract title
+```
+
+
+
+
+## Extract front page info
+```{r extracting front page info}
+###############################################################################################
+### extract front page info
+###############################################################################################
+
+
+# extract title
 title <- p3df %>%
   filter(level3 == "fileDesc", level4 == "titleStmt", level5 == "title", elem. == "title", is.na(attr.)) %>%
    select(-c(level1, level2, level3, level4, level5, level6, level7, level8, level9, level10, attr.))
 
-#extract authors
+# extract authors
 authors <- p3df %>%
   filter(level3 == "fileDesc", level4 == "sourceDesc", level5 == "biblStruct", level8 == "persName", value. != "NA", value. != "first", value. != "middle") %>%
   select(-c(level1, level2, level3, level4, level5, level6, level7, level8, level9, level10, attr.))
 
-#extract doi
+# extract doi
 doi <- p3df %>%
   filter(level3 == "fileDesc", level6 == "idno", is.na(attr.))
 
 doi <- doi[str_detect(doi$value., "^10"), ] %>%
   select(-c(level1, level2, level3, level4, level5, level6, level7, level8, level9, level10, attr.))
   
-  
-#extract published date
+# extract published date
 year <- p3df %>%
   filter(level3 == "fileDesc", level5 == "biblStruct", level8 == "date", attr. == "when") %>%
   select(-c(level1, level2, level3, level4, level5, level6, level7, level8, level9, level10, attr.))
 
-#combine data into new frame for all front page info
-manualinfo <- bind_rows(year, title, authors, doi) %>%
+```
+
+
+
+## Manual extracting materials and methods
+```{r manually extract methods}
+
+####################################################################################################
+### extract materials and methods
+####################################################################################################
+
+
+#create vector to hold the possible head titles for the section following materials and methods
+resV <- c("(?i)results", "(?i)discussion", "(?i)background", "(?i)references", "(?i)cited", "(?i)abstract", "(?i)conclusions")
+
+#subset materials and methods section
+MM <- subset(p1df, cumsum(grepl("(?i)methods", value., perl = TRUE) & elem. == "head") > 0 & cumsum(grepl(paste(resV, collapse = "|"), value., perl = TRUE) & elem. == "head") == 0) %>%
+  
+  filter(elem. != "ref") %>%
+  filter(elem. != "div") %>%
+  filter(elem. != "formula") %>%
+  select(-c(attr., level1:level10))
+
+
+#alternative dataframe setup for materials and methods data with all info in 1 cell
+MMcomb <- MM %>%
+  select(-elemid.) %>%
+ unite("Methods", elem.:value., sep = " ### ", remove = TRUE) %>%
+  summarise(Methods = paste(Methods, collapse = " ### "))
+
+```
+
+
+
+## Manual extracting figures and tables
+### figure extraction
+```{r manually extracting figures}
+
+# subset all figure data
+figures <- subset(p1df, cumsum(grepl("(?i)fig", value., perl = TRUE) & elem. == "head") > 0 & cumsum(grepl("(?i)table", value., perl = TRUE) & level5 == "head") == 0) %>%
+  
+  filter(elem. != "label") %>%
+  filter(elem. != "div") %>%
+  filter(elem. != "p") %>%
+  filter(value. != "NA") %>%
+  select(-c(level1: level10))
+
+
+```
+### table extraction
+```{r manually extracting tables}
+# create vector to store element IDs that begin after tables
+endV <- c("(?i)back")
+
+# subset all table data
+rawtables <- subset(p3df, cumsum(grepl("^(?i)table$", value., perl = TRUE) & level4 == "figure") > 0 & cumsum(grepl(paste(endV, collapse = "|"), elem., perl = TRUE)) == 0) %>%
+  
+  filter(!elem. %in% c("div", "p", "note")) %>%
+  select(-c(attr., level1:level3, level8:level10))
+
+```
+#### Reorganizing extracted tables to improve readability
+```{r reorganize extracted tables}
+
+#subset and organize each tables description
+tableinfo <- rawtables %>%
+  filter(level5 == "figDesc" | level5 == "head") %>%
+  select(-c(elemid., level5, level6, level7)) %>%
+  group_by(cumsum(elem. == "head")) %>%
+  summarise(FigDesc = toString(value.)) %>%
+  ungroup() %>%
+  rename(label = "cumsum(elem. == \"head\")") %>%
+  mutate(FigDesc = str_replace_all(FigDesc, ", NA", ""))
+
+#create a list of each separate table
+tableslist <- rawtables %>%
+  filter(elem. %in% c("label", "table", "row", "cell")) %>%
+  select(elem., value.) %>% 
+  group_by(CumSum = cumsum(elem. == "label")) %>%
+  group_split(CumSum)
+
+ #for loop to pull papers out of list and make each its own dataframe object
+
+  for (i in seq(tableslist))
+    assign(paste("table", i), tableslist[[i]])
+
+#replace "table" with name of table that is extracted from the for loop above
+table <- table %>%
+  select(-CumSum) %>%
+  group_by(CumSum2 = cumsum(elem. == "row")) %>%
+  pivot_wider(names_from = elem., values_from = value.) %>%
+  ungroup() %>%
+  select(-c(CumSum2, table, row, label)) %>%
+  unnest_wider(cell)
+
+
+######################################################################################################################
+### Testing making a function to extract tables from list and restructure each one
+######################################################################################################################
+
+
+tablepivot.fun <- function(tablesforloop) {
+  
+ # tableforloop.fun <- function(tableslist) {
+
+#  for (i in seq(tableslist))
+ #   assign(paste("table", i), tableslist[[i]])
+  #}
+ 
+
+table <- table %>%
+  select(-CumSum) %>%
+  group_by(CumSum2 = cumsum(elem. == "row")) %>%
+  pivot_wider(names_from = elem., values_from = value.) %>%
+  ungroup() %>%
+  select(-c(CumSum2, table, row, label)) %>%
+  unnest_wider(cell)
+
+   
+  return(result <- table)
+
+}
+
+pivotedtables <- lapply(tableslist, FUN = tablepivot.fun)
+
+```
+
+
+## Manual combinining data frames
+```{r manually combine data frames}
+
+#####################################################################################################
+### combine data frames
+#####################################################################################################
+
+
+# combine data into new frame for all relevant info (front page info, methods, tables and figures)
+manual_allinfo <- bind_rows(year, title, authors, doi, MM) %>%
+ select(-elemid.) %>%
+  pivot_wider(names_from = elem., values_from = value.) %>%
+  select(-forename) %>%
+  rename(Authors = surname,
+         Published = date,
+         Title = title, 
+         DOI = idno, 
+         Methods_Header = head,
+         Methods_para = p,
+         Methods_sentence = s)
+
+
+#  data into new frame of front page info only
+manual_frontinfo <- bind_rows(year, title, authors, doi) %>%
  select(-elemid.) %>%
   pivot_wider(names_from = elem., values_from = value.) %>%
   select(-forename) %>%
@@ -175,5 +528,5 @@ manualinfo <- bind_rows(year, title, authors, doi) %>%
          DOI = idno)
 
 remove(authors, doi, year, title)
-
+  
 ```
